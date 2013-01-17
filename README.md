@@ -1,4 +1,4 @@
 REMICS
 ======
 
-REMICS Practice Library (EPF)
+REMICS Practice Library (EPF plug-ins)
