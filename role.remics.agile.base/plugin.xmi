@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hyLc8VvqEeKHU9XooDK5Ng" guid="_hyLc8VvqEeKHU9XooDK5Ng"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_hyLc4FvqEeKHU9XooDK5Ng" name="role.remics.agile.base" guid="_hyLc4FvqEeKHU9XooDK5Ng">
+    <methodElementProperty xmi:id="_hyLc81vqEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc4VvqEeKHU9XooDK5Ng" name="Content" guid="_hyLc4VvqEeKHU9XooDK5Ng">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc4lvqEeKHU9XooDK5Ng" name="Categories" guid="_hyLc4lvqEeKHU9XooDK5Ng">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc41vqEeKHU9XooDK5Ng" name="Domains" guid="_hyLc41vqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5FvqEeKHU9XooDK5Ng" name="Disciplines" guid="_hyLc5FvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5VvqEeKHU9XooDK5Ng" name="RoleSets" guid="_hyLc5VvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5lvqEeKHU9XooDK5Ng" name="WP Types" guid="_hyLc5lvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc51vqEeKHU9XooDK5Ng" name="Tools" guid="_hyLc51vqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc6FvqEeKHU9XooDK5Ng" name="StandardCategories" guid="_hyLc6FvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc6VvqEeKHU9XooDK5Ng" name="CustomCategories" guid="_hyLc6VvqEeKHU9XooDK5Ng">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc6lvqEeKHU9XooDK5Ng" name="Hidden" guid="_hyLc6lvqEeKHU9XooDK5Ng">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hyLc61vqEeKHU9XooDK5Ng" name="Custom Categories" guid="_hyLc61vqEeKHU9XooDK5Ng"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc7FvqEeKHU9XooDK5Ng" name="CoreContent" guid="_hyLc7FvqEeKHU9XooDK5Ng">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ktORsFvqEeKHU9XooDK5Ng" name="remics.agile" guid="_ktORsFvqEeKHU9XooDK5Ng">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_39RPwF4_EeKVU8eUCvi3Og" name="scrum_master" guid="_39RPwF4_EeKVU8eUCvi3Og" presentationName="Scrum Master"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7ilwoF4_EeKVU8eUCvi3Og" name="product_owner" guid="_7ilwoF4_EeKVU8eUCvi3Og" presentationName="Product Owner"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gi9t0F5AEeKVU8eUCvi3Og" name="requirement_team" guid="_Gi9t0F5AEeKVU8eUCvi3Og" presentationName="Requirement Team"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Jin84F5AEeKVU8eUCvi3Og" name="recovery_team" guid="_Jin84F5AEeKVU8eUCvi3Og" presentationName="Recovery Team"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TFeMIF5AEeKVU8eUCvi3Og" name="migration_team" guid="_TFeMIF5AEeKVU8eUCvi3Og" presentationName="Migration Team"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Xfh8oF5AEeKVU8eUCvi3Og" name="integration_and_validation_team" guid="_Xfh8oF5AEeKVU8eUCvi3Og" presentationName="Integration and Validation Team"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gVi7EF5AEeKVU8eUCvi3Og" name="control_and_supervise_team" guid="_gVi7EF5AEeKVU8eUCvi3Og" presentationName="Control and Supervise Team"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bIascF7QEeKFRuoPceMYcQ" name="tool_expert" guid="_bIascF7QEeKFRuoPceMYcQ" presentationName="Tool Expert"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rLfJoF7fEeKFRuoPceMYcQ" name="withdrawal_team" guid="_rLfJoF7fEeKFRuoPceMYcQ" presentationName="Withdrawal Team"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uS5mgF7fEeKFRuoPceMYcQ" name="interoperability_team" guid="_uS5mgF7fEeKFRuoPceMYcQ" presentationName="Interoperability Team"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hyLc7VvqEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_hyLc7VvqEeKHU9XooDK5Ng"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hyLc7lvqEeKHU9XooDK5Ng" name="DeliveryProcesses" guid="_hyLc7lvqEeKHU9XooDK5Ng"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hyLc71vqEeKHU9XooDK5Ng" name="ProcessContributions" guid="_hyLc71vqEeKHU9XooDK5Ng"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

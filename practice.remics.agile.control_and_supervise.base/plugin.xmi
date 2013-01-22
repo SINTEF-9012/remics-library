@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_sNnZAPNHEeGUHqJDPoQpuw" guid="_sNnZAPNHEeGUHqJDPoQpuw">
+    <resourceDescriptors xmi:id="_c6cv8PNSEeGUHqJDPoQpuw" id="-amaJA0JXPTj8Z7r_QQuj-w" uri="tasks/detect_deviations.xmi"/>
+    <resourceDescriptors xmi:id="_iCXE8PNSEeGUHqJDPoQpuw" id="-hYe5Pov2DLVBbkctF2uXrQ" uri="tasks/monitor_corrective_actions.xmi"/>
+    <resourceDescriptors xmi:id="_xcc4kfW8EeGkJrjWR9R9NQ" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/control_and_supervise.xmi"/>
+    <resourceDescriptors xmi:id="_gpabwUkXEeKu7-3cM-oErg" id="-eedSqKpiFuc0_0RX_VblkA" uri="tasks/detect_deviations2.xmi"/>
+    <resourceDescriptors xmi:id="_gpkMwEkXEeKu7-3cM-oErg" id="-qiEb7k8X7CjLWtrM-zj6Kg" uri="tasks/identify_monitoring_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_gpt9wEkXEeKu7-3cM-oErg" id="-d1uoZdMPn5jfbmg5nM6EEQ" uri="tasks/implement_monitoring_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_gs1jMEkXEeKu7-3cM-oErg" id="-6wQEV2j0zIEYBq-tRWOM1g" uri="tasks/monitor_corrective_actions2.xmi"/>
+    <resourceDescriptors xmi:id="_gtIeIEkXEeKu7-3cM-oErg" id="-15w0nqRqTsd-ugRdrMflEQ" uri="tasks/monitor_the_performance_of_the_system_in_the_cloud.xmi"/>
+    <resourceDescriptors xmi:id="_gtIeIUkXEeKu7-3cM-oErg" id="-e3P16WIKSAzy02J7xTTAGA" uri="tasks/perform_corrective_actions.xmi"/>
+    <resourceDescriptors xmi:id="__SjMwVjEEeKc_ty_5LPMaw" id="-b-7zEp7mMK_55HfVP1L_aw" uri="tasks/Prepare_and_demo_product_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_W0f_MF7bEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
+    <resourceDescriptors xmi:id="_W0f_MV7bEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" name="practice.remics.agile.control_and_supervise.base" guid="_sNlj0PNHEeGUHqJDPoQpuw" changeDate="2013-01-15T07:17:41.953+0100">
+    <methodElementProperty xmi:id="_sNnZAvNHEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0fNHEeGUHqJDPoQpuw" name="Content" guid="_sNlj0fNHEeGUHqJDPoQpuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0vNHEeGUHqJDPoQpuw" name="Categories" guid="_sNlj0vNHEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0_NHEeGUHqJDPoQpuw" name="Domains" guid="_sNlj0_NHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj1PNHEeGUHqJDPoQpuw" name="Disciplines" guid="_sNlj1PNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj1fNHEeGUHqJDPoQpuw" name="RoleSets" guid="_sNlj1fNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4PNHEeGUHqJDPoQpuw" name="WP Types" guid="_sNmK4PNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4fNHEeGUHqJDPoQpuw" name="Tools" guid="_sNmK4fNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4vNHEeGUHqJDPoQpuw" name="StandardCategories" guid="_sNmK4vNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK4_NHEeGUHqJDPoQpuw" name="CustomCategories" guid="_sNmK4_NHEeGUHqJDPoQpuw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK5PNHEeGUHqJDPoQpuw" name="Hidden" guid="_sNmK5PNHEeGUHqJDPoQpuw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sNmK5fNHEeGUHqJDPoQpuw" name="Custom Categories" guid="_sNmK5fNHEeGUHqJDPoQpuw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK5vNHEeGUHqJDPoQpuw" name="CoreContent" guid="_sNmK5vNHEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J77UoPNLEeGUHqJDPoQpuw" name="control_and_supervise" guid="_J77UoPNLEeGUHqJDPoQpuw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_M7RaoPNLEeGUHqJDPoQpuw" name="detect_deviations" guid="_M7RaoPNLEeGUHqJDPoQpuw" presentationName="Detect Deviations">
+            <presentation xmi:id="-amaJA0JXPTj8Z7r_QQuj-w" href="uma://-amaJA0JXPTj8Z7r_QQuj-w#-amaJA0JXPTj8Z7r_QQuj-w"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dauygPNSEeGUHqJDPoQpuw" name="monitor_corrective_actions" guid="_dauygPNSEeGUHqJDPoQpuw" presentationName="Monitor Corrective Actions">
+            <presentation xmi:id="-hYe5Pov2DLVBbkctF2uXrQ" href="uma://-hYe5Pov2DLVBbkctF2uXrQ#-hYe5Pov2DLVBbkctF2uXrQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_w98XoPW8EeGkJrjWR9R9NQ" name="control_and_supervise" guid="_w98XoPW8EeGkJrjWR9R9NQ" presentationName="Control and Supervise" briefDescription="This activity support the control and supervision of the features that are running in the cloud. It could involve the implementation of additional components and features as part of the final system." contentReferences="_M7RaoPNLEeGUHqJDPoQpuw _f4KlAUkXEeKu7-3cM-oErg _f4KlAkkXEeKu7-3cM-oErg _dauygPNSEeGUHqJDPoQpuw _f4KlBEkXEeKu7-3cM-oErg _f4KlBUkXEeKu7-3cM-oErg _Wzi88F7bEeKFRuoPceMYcQ _Wzi88V7bEeKFRuoPceMYcQ _Wzi88l7bEeKFRuoPceMYcQ">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAUkXEeKu7-3cM-oErg" name="identify_monitoring_procedures" guid="_f4KlAUkXEeKu7-3cM-oErg" presentationName="Identify Monitoring Procedures">
+            <presentation xmi:id="-qiEb7k8X7CjLWtrM-zj6Kg" href="uma://-qiEb7k8X7CjLWtrM-zj6Kg#-qiEb7k8X7CjLWtrM-zj6Kg"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAkkXEeKu7-3cM-oErg" name="implement_monitoring_procedures" guid="_f4KlAkkXEeKu7-3cM-oErg" presentationName="Implement Monitoring Procedures">
+            <presentation xmi:id="-d1uoZdMPn5jfbmg5nM6EEQ" href="uma://-d1uoZdMPn5jfbmg5nM6EEQ#-d1uoZdMPn5jfbmg5nM6EEQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBEkXEeKu7-3cM-oErg" name="monitor_the_performance_of_the_system_in_the_cloud" guid="_f4KlBEkXEeKu7-3cM-oErg" presentationName="Monitor the Performance of the System in the Cloud">
+            <presentation xmi:id="-15w0nqRqTsd-ugRdrMflEQ" href="uma://-15w0nqRqTsd-ugRdrMflEQ#-15w0nqRqTsd-ugRdrMflEQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBUkXEeKu7-3cM-oErg" name="perform_corrective_actions" guid="_f4KlBUkXEeKu7-3cM-oErg" presentationName="Perform Corrective Actions">
+            <presentation xmi:id="-e3P16WIKSAzy02J7xTTAGA" href="uma://-e3P16WIKSAzy02J7xTTAGA#-e3P16WIKSAzy02J7xTTAGA"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88F7bEeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_Wzi88F7bEeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog">
+            <presentation xmi:id="-b-7zEp7mMK_55HfVP1L_aw" href="uma://-b-7zEp7mMK_55HfVP1L_aw#-b-7zEp7mMK_55HfVP1L_aw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88V7bEeKFRuoPceMYcQ" name="scrum_demo_and_retrospective" guid="_Wzi88V7bEeKFRuoPceMYcQ" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint">
+            <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88l7bEeKFRuoPceMYcQ" name="sprint_planning" guid="_Wzi88l7bEeKFRuoPceMYcQ" presentationName="Sprint Planning">
+            <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK5_NHEeGUHqJDPoQpuw" name="CapabilityPatterns" guid="_sNmK5_NHEeGUHqJDPoQpuw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK6PNHEeGUHqJDPoQpuw" name="DeliveryProcesses" guid="_sNmK6PNHEeGUHqJDPoQpuw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK6fNHEeGUHqJDPoQpuw" name="ProcessContributions" guid="_sNmK6fNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

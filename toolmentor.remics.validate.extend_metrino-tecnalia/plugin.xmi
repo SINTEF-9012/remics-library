@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_5W05YVmBEeKrerZnFJznjw" guid="_5W05YVmBEeKrerZnFJznjw">
+    <resourceDescriptors xmi:id="_ShvCklmCEeKrerZnFJznjw" id="-IY4MbyF3CeCf4U2Cv6Qgjw" uri="guidances/toolmentors/metrino_instalation_guide.xmi"/>
+    <resourceDescriptors xmi:id="_Isj2UF7qEeKFRuoPceMYcQ" id="-3QXgTc-0cfHQP1x9BzANjw" uri="tasks/implement_testing_strategy.assign.xmi"/>
+    <resourceDescriptors xmi:id="_Isp88F7qEeKFRuoPceMYcQ" id="-c2PhOSTiwH7T_VEliuTL1Q" uri="tasks/import_models_elements_to_be_tested.assign.xmi"/>
+    <resourceDescriptors xmi:id="_YPyLAGR5EeKHNrKfLiQo8g" id="-WtVDmZpxMSn_waZlz_uxgw" uri="guidances/toolmentors/metrino_instalation_guide.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_5W05UFmBEeKrerZnFJznjw" name="toolmentor.remics.validate.extend_metrino-tecnalia" guid="_5W05UFmBEeKrerZnFJznjw" changeDate="2013-01-15T09:01:14.579+0100">
+    <methodElementProperty xmi:id="_5W05Y1mBEeKrerZnFJznjw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05UVmBEeKrerZnFJznjw" name="Content" guid="_5W05UVmBEeKrerZnFJznjw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05UlmBEeKrerZnFJznjw" name="Categories" guid="_5W05UlmBEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05U1mBEeKrerZnFJznjw" name="Domains" guid="_5W05U1mBEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05VFmBEeKrerZnFJznjw" name="Disciplines" guid="_5W05VFmBEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05VVmBEeKrerZnFJznjw" name="RoleSets" guid="_5W05VVmBEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05VlmBEeKrerZnFJznjw" name="WP Types" guid="_5W05VlmBEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05V1mBEeKrerZnFJznjw" name="Tools" guid="_5W05V1mBEeKrerZnFJznjw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_EYJ4wFmCEeKrerZnFJznjw" name="metrino.assign" guid="_EYJ4wFmCEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg">
+            <methodElementProperty xmi:id="_E5MJQFmCEeKrerZnFJznjw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_3AzH4EUOEeKK_ttnBPx9Rg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05WFmBEeKrerZnFJznjw" name="StandardCategories" guid="_5W05WFmBEeKrerZnFJznjw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05WVmBEeKrerZnFJznjw" name="CustomCategories" guid="_5W05WVmBEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05WlmBEeKrerZnFJznjw" name="Hidden" guid="_5W05WlmBEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_5W05W1mBEeKrerZnFJznjw" name="Custom Categories" guid="_5W05W1mBEeKrerZnFJznjw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05XFmBEeKrerZnFJznjw" name="CoreContent" guid="_5W05XFmBEeKrerZnFJznjw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NjXEEFmCEeKrerZnFJznjw" name="tool_mentors" guid="_NjXEEFmCEeKrerZnFJznjw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PhXo4FmCEeKrerZnFJznjw" name="metrino" guid="_PhXo4FmCEeKrerZnFJznjw">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MlX68F7qEeKFRuoPceMYcQ" name="implement_testing_strategy.assign" guid="_MlX68F7qEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg">
+              <methodElementProperty xmi:id="_YDv6IGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
+              <presentation xmi:id="-3QXgTc-0cfHQP1x9BzANjw" href="uma://-3QXgTc-0cfHQP1x9BzANjw#-3QXgTc-0cfHQP1x9BzANjw"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2REkXEeKu7-3cM-oErg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MlX68V7qEeKFRuoPceMYcQ" name="import_models_elements_to_be_tested.assign" guid="_MlX68V7qEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg">
+              <methodElementProperty xmi:id="_YDv6IWR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
+              <presentation xmi:id="-c2PhOSTiwH7T_VEliuTL1Q" href="uma://-c2PhOSTiwH7T_VEliuTL1Q#-c2PhOSTiwH7T_VEliuTL1Q"/>
+              <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2RUkXEeKu7-3cM-oErg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ff6QUGPiEeK2vLuSSFPrkg" name="metrino_instalation_guide" guid="_ff6QUGPiEeK2vLuSSFPrkg" presentationName="Metrino Instalation Guide">
+              <methodElementProperty xmi:id="_YDvTEGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
+              <presentation xmi:id="-WtVDmZpxMSn_waZlz_uxgw" href="uma://-WtVDmZpxMSn_waZlz_uxgw#-WtVDmZpxMSn_waZlz_uxgw"/>
+            </contentElements>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_5W05XVmBEeKrerZnFJznjw" name="CapabilityPatterns" guid="_5W05XVmBEeKrerZnFJznjw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_5W05XlmBEeKrerZnFJznjw" name="DeliveryProcesses" guid="_5W05XlmBEeKrerZnFJznjw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_5W05X1mBEeKrerZnFJznjw" name="ProcessContributions" guid="_5W05X1mBEeKrerZnFJznjw"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-mkprrUurhgvSk30pBCzIJA" name="migration_scrum,_qFoTwTO8EeK5hZv7WCtlvg" guid="-mkprrUurhgvSk30pBCzIJA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mh6-6Nv2hOnh8hv946wkXg" name="complete the code,_3zayUEkZEeK7P-8D6a3Ujw" guid="-mh6-6Nv2hOnh8hv946wkXg">
+    <keyConsiderations>&lt;p>&#xD;
+    Continuous Integration&#xD;
+&lt;/p></keyConsiderations>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the code stubs and the system model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) complete the code to make the code stubs working.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CY3Qyb0Zivd0v7ZggXDkHQ" name="complete_definition_of_system_requirement,_3zayUUkZEeK7P-8D6a3Ujw" guid="-CY3Qyb0Zivd0v7ZggXDkHQ">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the system description, the additional requirement and the recover requirements integrate the final system requirement definition. This will be basically the aggregation of the additional and recovered requirements, with some requirements about the functionality at high level. The objective is to create a unique based on requirements with the purpose of validating the final system.&lt;/SPAN>&lt;SPAN lang=EN-GB>.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-82a0jDXmzEBXEkPFT1yA5g" name="definition_of service_architecture,_3zayU0kZEeK7P-8D6a3Ujw" guid="-82a0jDXmzEBXEkPFT1yA5g">
+    <keyConsiderations>Pairing with a team member</keyConsiderations>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Starting with the system description and the recovered component models, define the architecture of the system to implement the requirements identified. The architecture will contain the identification of the services to be exchanged among the different components distributed in the cloud.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-q6CVwfqfW3algksRRy3TRQ" name="definition_of_cloud_architecture,_3zayVEkZEeK7P-8D6a3Ujw" guid="-q6CVwfqfW3algksRRy3TRQ">
+    <keyConsiderations>Pairing with a team member</keyConsiderations>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Starting with the system description and the SOA Model, define the deployment model of the system to&#xD;
+    implement the requirements identified. The deployment model will contain the identification of the location of the&#xD;
+    different components distributed in the cloud. Besides, it may be also necessary to take into account possible&#xD;
+    constrains (organisational, legal, etc) when defining this deployment model.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Xo3I00qe4FADfLxRxfpBxw" name="implementation_design,_3zayVkkZEeK7P-8D6a3Ujw" guid="-Xo3I00qe4FADfLxRxfpBxw">
+    <keyConsiderations>Pairing with a team member</keyConsiderations>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>With the requirements, the SOA model of the architecture and the Cloud model of the deployment start&#xD;
+    implementing the design of the different components that require a model in order to be implemented.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aGIDgIv8zNxueWIURgeoTA" name="psm_transformation,_3zayWEkZEeK7P-8D6a3Ujw" guid="-aGIDgIv8zNxueWIURgeoTA">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the complete model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) generate the code stubs necessary to run that system in the different cloud components.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-imLqVMcEsGMCsThXwggP0w" name="componentization,_3zayUkkZEeK7P-8D6a3Ujw" guid="-imLqVMcEsGMCsThXwggP0w">
+    <refinedDescription>An automated activity which generates suggested new components (services) from the UML or RSL models of the system.&#xD;
+Automated componentization is used to give an overall structure of the new system which is further refined and implemented&#xD;
+during the sprints of the migration scrum. An initial meeting with the whole team is held to discuss the new system&#xD;
+components. Development environment is set.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AODV1OgFFaXyr15smcfgRQ" name="definition_of_overall_cloud_architecture,_3zayVUkZEeK7P-8D6a3Ujw" guid="-AODV1OgFFaXyr15smcfgRQ">
+    <refinedDescription>The overall cloud architecture is specified and discussed with the whole team on a short session. The team gets acquainted&#xD;
+with the main cloud deployment models while the details are specified in details during the migration sprints.&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-g0GfzCRgATy9V4Xn4gmurA" name="perform_isolation_functional_testing,_3zayV0kZEeK7P-8D6a3Ujw" guid="-g0GfzCRgATy9V4Xn4gmurA">
+    <refinedDescription>Isolated testing of the functional requirements for the part of the system that is migrated during the particular sprint is&#xD;
+performed.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-huBhcXQjOboERlze6u8yow" name="prepare_and_demo_product_backlog,_X4SwwF7WEeKFRuoPceMYcQ" guid="-huBhcXQjOboERlze6u8yow">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kbs143Lcl3s3cFtUkNE8Zg" name="scrum_demo_and_retrospective,_X4SwwV7WEeKFRuoPceMYcQ" guid="-kbs143Lcl3s3cFtUkNE8Zg">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YeqhYYkGLV-vQfLyYM24iQ" name="sprint_planning,_X4Swwl7WEeKFRuoPceMYcQ" guid="-YeqhYYkGLV-vQfLyYM24iQ">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

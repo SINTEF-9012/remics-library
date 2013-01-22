@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PcLUpMPXsX6GDs8ZFegPig" name="definition_of_overall_cloud_architecture,_MrlQkDO8EeK5hZv7WCtlvg" guid="-PcLUpMPXsX6GDs8ZFegPig" changeDate="2013-01-07T13:17:57.702+0100">
+  <mainDescription>The overall cloud architecture is specified and discussed with the whole team on a short session. The team gets acquainted&#xD;
+with the main cloud deployment models while the details are specified in details during the migration sprints.&lt;br /></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

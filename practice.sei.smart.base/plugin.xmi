@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_IQcqUcviEeCphdH9-OcbCA" guid="_IQcqUcviEeCphdH9-OcbCA"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_IQcqQMviEeCphdH9-OcbCA" name="practice.sei.smart.base" guid="_IQcqQMviEeCphdH9-OcbCA" changeDate="2013-01-11T13:14:38.717+0100">
+    <methodElementProperty xmi:id="_IQcqU8viEeCphdH9-OcbCA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqQcviEeCphdH9-OcbCA" name="Content" guid="_IQcqQcviEeCphdH9-OcbCA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqQsviEeCphdH9-OcbCA" name="Categories" guid="_IQcqQsviEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqQ8viEeCphdH9-OcbCA" name="Domains" guid="_IQcqQ8viEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqRMviEeCphdH9-OcbCA" name="Disciplines" guid="_IQcqRMviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqRcviEeCphdH9-OcbCA" name="RoleSets" guid="_IQcqRcviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqRsviEeCphdH9-OcbCA" name="WP Types" guid="_IQcqRsviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqR8viEeCphdH9-OcbCA" name="Tools" guid="_IQcqR8viEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqSMviEeCphdH9-OcbCA" name="StandardCategories" guid="_IQcqSMviEeCphdH9-OcbCA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqScviEeCphdH9-OcbCA" name="CustomCategories" guid="_IQcqScviEeCphdH9-OcbCA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqSsviEeCphdH9-OcbCA" name="Hidden" guid="_IQcqSsviEeCphdH9-OcbCA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IQcqS8viEeCphdH9-OcbCA" name="Custom Categories" guid="_IQcqS8viEeCphdH9-OcbCA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IQcqTMviEeCphdH9-OcbCA" name="CoreContent" guid="_IQcqTMviEeCphdH9-OcbCA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SX73oMviEeCphdH9-OcbCA" name="smart" guid="_SX73oMviEeCphdH9-OcbCA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Y77JEMviEeCphdH9-OcbCA" name="identify_reusable_parts" guid="_Y77JEMviEeCphdH9-OcbCA" presentationName="Identify Reusable Partsas"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IQcqTcviEeCphdH9-OcbCA" name="CapabilityPatterns" guid="_IQcqTcviEeCphdH9-OcbCA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IQcqTsviEeCphdH9-OcbCA" name="DeliveryProcesses" guid="_IQcqTsviEeCphdH9-OcbCA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IQcqT8viEeCphdH9-OcbCA" name="ProcessContributions" guid="_IQcqT8viEeCphdH9-OcbCA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

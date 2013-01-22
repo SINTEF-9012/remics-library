@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-BVz8CpHiDyN_gWmmWJsYXw" name="recovery_scrum,_tzY-8TO8EeK5hZv7WCtlvg" guid="-BVz8CpHiDyN_gWmmWJsYXw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-D2u7uuFMne-E43n1klsPgA" name="collect_the_code,_mYyugEkZEeK7P-8D6a3Ujw" guid="-D2u7uuFMne-E43n1klsPgA">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>The first activity in the recover activity area is to gather the code of those components designated to be reengineered through the recovery process. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kBHZnB-2q2fH_y-mtVIKdw" name="recover_system_knowledge,_mYyuhkkZEeK7P-8D6a3Ujw" guid="-kBHZnB-2q2fH_y-mtVIKdw">
+    <keyConsiderations>Iterative</keyConsiderations>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Once the code has been collected, the next activity is to process the code and recover the&#xD;
+    application logic, business logic, business rules, architecture, etc. out from it. This is achieved by the searching of&#xD;
+    structural statements in the code and patterns of code. These elements are then used to construct the KDM of the&#xD;
+    system. The KDM representation is a model that represents the knowledge of the system.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TA4fsDIbiuKgIXohJPBghg" name="customer_reviews,_mYyugUkZEeK7P-8D6a3Ujw" guid="-TA4fsDIbiuKgIXohJPBghg">
+    <refinedDescription>Customer reviews generated models and requirements during sprint execution as soon as a part of a model is ready. The&#xD;
+reviews might be needed in case that the recovered part of the code needs clarification. The reviews are held as informal&#xD;
+meetings with analysts and/or developers.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gxnT8y1m2ACOJhdVQxpDHw" name="generate_system_model,_mYyugkkZEeK7P-8D6a3Ujw" guid="-gxnT8y1m2ACOJhdVQxpDHw">
+    <keyConsiderations>Iterative&lt;br />&#xD;
+Continuous modelling</keyConsiderations>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the UML representation of the system knowledge. UML in contrast to KDM, is a modelling&#xD;
+    language familiar to analyst and programmers. KDM is an abstract representation of the system knowledge that can be&#xD;
+    placed in the middle way from the code to the UML models.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ykv7_70T5vszqbMCjK8uEw" name="generate_system_requirement,_mYyug0kZEeK7P-8D6a3Ujw" guid="-Ykv7_70T5vszqbMCjK8uEw">
+    <keyConsiderations>Iterative&lt;br />&#xD;
+Continuous modelling</keyConsiderations>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the requirements out from the system knowledge. These requirements will be represented&#xD;
+    using the RSL (Requirement Specification Language) approach. RSL propose to describe the requirements of the system&#xD;
+    with a combination of use case models, scenario description language and domain models.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OcbkmCSGuIZBjgCS3e-Ekg" name="recover_application_testing,_mYyuhUkZEeK7P-8D6a3Ujw" guid="-OcbkmCSGuIZBjgCS3e-Ekg">
+    <keyConsiderations>Iterative</keyConsiderations>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span style=&quot;mso-bidi-font-family: Arial&quot; lang=&quot;EN-GB&quot;>With the refined system knowledge representation (KDM) the next&#xD;
+    step will be the generation of the testing out from the system knowledge. These testing procedures will be focused in&#xD;
+    the validation of the requirement extracted in other activity of this activity area.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mw91bGNNkCILvw7NKzhJ0g" name="refine_system_knowledge,_mYyuh0kZEeK7P-8D6a3Ujw" guid="-mw91bGNNkCILvw7NKzhJ0g">
+    <keyConsiderations>&lt;p>&#xD;
+    Iterative&lt;br />&#xD;
+    Modelling by two&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></keyConsiderations>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN style=&quot;mso-bidi-font-family: Arial&quot; lang=EN-GB>Once we have a preliminary version of the system knowledge, this representation is analysed to find additional patterns proper of the application that can facilitate and simplify the understanding system knowledge extracted from the code.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vEndyqyar2becvFZOe0Qhg" name="prepare_and_demo_product_backlog,_MDkiUF7SEeKFRuoPceMYcQ" guid="-vEndyqyar2becvFZOe0Qhg">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_opik8vYu-W8yaBDbvGaMw" name="scrum_demo_and_retrospective,_MDqo8F7SEeKFRuoPceMYcQ" guid="-_opik8vYu-W8yaBDbvGaMw">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uwq0-uzMSJlcdnn2KTTopw" name="sprint_planning,_MDqo8V7SEeKFRuoPceMYcQ" guid="-uwq0-uzMSJlcdnn2KTTopw">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-ABMK936BhISbDAWVkl9ulA" name="Interoperability,_WBqgkVmXEeKLLc6iJZ0EJQ" guid="-ABMK936BhISbDAWVkl9ulA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-eBnTQQ6IjWraobcOVHpikg" name="define_interoperability_related_requirements,_X2-cYFmXEeKLLc6iJZ0EJQ" guid="-eBnTQQ6IjWraobcOVHpikg">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Translate the interoperability problems and scenarios into new requirements for the final system. If no requirement can be defined for a given issue, that’s possibly means that the problem is not a problem taking into account the scope of the system.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MChDhKh6sT94iqD1xk6xqw" name="Identify_interoperability_problems_scenarios,_X3WP0FmXEeKLLc6iJZ0EJQ" guid="-MChDhKh6sT94iqD1xk6xqw">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Starting with the system description and later with the system model identify potential&#xD;
+    interoperability problems or scenarios. Typical scenarios include the replacement/extension of a modernized service&#xD;
+    by/with external services already deployed in the cloud, justified by cost, QoS issues.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7LouR_yf40U6PUixQenQTQ" name="implement_interoperability_components,_X3WP0VmXEeKLLc6iJZ0EJQ" guid="-7LouR_yf40U6PUixQenQTQ">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Implement interoperability components when necessary to deal with the interoperability problems and&#xD;
+    requirements.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jgfa6cn3I-GVX9YUQDIJFg" name="interoperability_monitoring,_X3WP0lmXEeKLLc6iJZ0EJQ" guid="-jgfa6cn3I-GVX9YUQDIJFg">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Once interoperability components are deployed, monitor the result of the interoperability components&#xD;
+    implemented to see the validity of these components.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aZ9NrVcijd7eWpSUU0gsKg" name="perform_interoperability_analysis,_X3WP01mXEeKLLc6iJZ0EJQ" guid="-aZ9NrVcijd7eWpSUU0gsKg">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Analyse the interoperability problems and requirements to have a basis for the definition of strategies to deal with them.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7P-HstLbtmFGam1A1-4h_g" name="prepare_and_demo_product_backlog,_mjgccF7gEeKFRuoPceMYcQ" guid="-7P-HstLbtmFGam1A1-4h_g">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ljj-7av9aQrfY2nDXOAQSw" name="scrum_demo_and_retrospective,_mjgccV7gEeKFRuoPceMYcQ" guid="-Ljj-7av9aQrfY2nDXOAQSw">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yx4kijXFEb6eukUncssUJA" name="sprint_planning,_mjgccl7gEeKFRuoPceMYcQ" guid="-yx4kijXFEb6eukUncssUJA">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

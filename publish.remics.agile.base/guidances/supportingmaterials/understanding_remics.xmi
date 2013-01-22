@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5KKBPZ4Oza-UdqN4OlQiqg" name="understanding_remics,_bX3u4F46EeKVU8eUCvi3Og" guid="-5KKBPZ4Oza-UdqN4OlQiqg" changeDate="2013-01-14T12:06:51.231+0100" version="7.5.0">
+  <mainDescription>&lt;em>Remics is a process intended to be applied in a iterative and incremental approach within a structured lifecycle.&lt;/em> &#xD;
+&lt;p>&#xD;
+    &lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
+    &lt;/map>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;em>picture title&lt;/em>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    More description&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

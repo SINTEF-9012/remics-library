@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-qIaXAdoyesshqGfVUMI3Cw" name="integration_and_validation_scrum,_1kHlwTO7EeK5hZv7WCtlvg" guid="-qIaXAdoyesshqGfVUMI3Cw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vfTxxxrGjR-sNMsHPFUEgg" name="define_testing_infrastructure,_0MGGUEkZEeK7P-8D6a3Ujw" guid="-vfTxxxrGjR-sNMsHPFUEgg">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) define the characteristics of the testing infrastructure to allow a continuous testing of the implemented features in a way that they can guarantee to certain degree the quality of the final system. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_ANgJp11FzjLs3kNozLcGw" name="define_testing_procedures,_0MGGUUkZEeK7P-8D6a3Ujw" guid="-_ANgJp11FzjLs3kNozLcGw">
+    <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) define the testing procedures to be applied in the different stages of the service lifecycle. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cfLuAr3x07P0Rd_ktHEHUw" name="generate_acceptance_testing,_0MGGUkkZEeK7P-8D6a3Ujw" guid="-cfLuAr3x07P0Rd_ktHEHUw">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) and the testing environment generate test scripts to test the requirement scenarios. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5fpCD2_evOhK4tsBb5065w" name="identify_and_refine_requirements_to_be_tested,_0MGGU0kZEeK7P-8D6a3Ujw" guid="-5fpCD2_evOhK4tsBb5065w">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) refine the system requirements to create test requirements. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3866_DyhFLd16Dtibivf2g" name="implement_testing_strategy,_0MGGVEkZEeK7P-8D6a3Ujw" guid="-3866_DyhFLd16Dtibivf2g">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description, the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design), the testing environment and the testing procedure implement the testing strategy.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a4l4sOlLniHU5jUIPBBJKw" name="import_models_elements_to_be_tested,_0MGGVUkZEeK7P-8D6a3Ujw" guid="-a4l4sOlLniHU5jUIPBBJKw">
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the description and the models of the systems (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) and the testing environment import those models that will be tested from a model perspective. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MfdTeP8Yz7I5FvlzBUdStQ" name="integrate_new_functionality,_0MGGVkkZEeK7P-8D6a3Ujw" guid="-MfdTeP8Yz7I5FvlzBUdStQ">
+    <refinedDescription>The newly migrated modules are integrated to the system.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LWcChvZaQKDgnu4qOy6h8A" name="prepare_and_demo_product_backlog,_vAF18F7aEeKFRuoPceMYcQ" guid="-LWcChvZaQKDgnu4qOy6h8A">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Hy8IxxufMMsX-jTvtmV-EA" name="scrum_demo_and_retrospective,_vAF18V7aEeKFRuoPceMYcQ" guid="-Hy8IxxufMMsX-jTvtmV-EA">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-KkD_PNHKdV1TqA2YvpwHtQ" name="sprint_planning,_vAF18l7aEeKFRuoPceMYcQ" guid="-KkD_PNHKdV1TqA2YvpwHtQ">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

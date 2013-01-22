@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-6e-hCA6qkYepAUB2grgMgA" name="withrawal,_iRkkIVi0EeKBXYc66RG5vg" guid="-6e-hCA6qkYepAUB2grgMgA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-B0GxKFAuX1xbVitd5rbI2A" name="identify_withdrawal_procedures,_kREWsFi0EeKBXYc66RG5vg" guid="-B0GxKFAuX1xbVitd5rbI2A">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>With the description and the models of the systems (including requirements, the SOA model of the&#xD;
+    architecture, the Cloud model of the deployment, and implementation design) define the withdrawal procedures to be&#xD;
+    applied in case of stop of the service.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pvoXllfUBeKenhwp31YJRg" name="implement_withdrawal_procedures,_kREWsVi0EeKBXYc66RG5vg" guid="-pvoXllfUBeKenhwp31YJRg">
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>With the description, the models of the systems (including requirements, the SOA model of the&#xD;
+    architecture, the Cloud model of the deployment, and implementation design), the withdrawal procedures implement the&#xD;
+    withdrawal procedures.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZAa3z3Wct22fxVJcamWXzA" name="prepare_and_demo_product_backlog,_0DEq0F7eEeKFRuoPceMYcQ" guid="-ZAa3z3Wct22fxVJcamWXzA">
+    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VYdAEBohWm7Um66pnf-niQ" name="scrum_demo_and_retrospective,_0DEq0V7eEeKFRuoPceMYcQ" guid="-VYdAEBohWm7Um66pnf-niQ">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PnNpHsnBCotYlW3I_kP_7w" name="sprint_planning,_0DEq0l7eEeKFRuoPceMYcQ" guid="-PnNpHsnBCotYlW3I_kP_7w">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

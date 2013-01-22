@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_D6k6YMlqEeCrm66MgLsmlQ" guid="_D6k6YMlqEeCrm66MgLsmlQ">
+    <subManagers xmi:id="_MXC68MlrEeCrm66MgLsmlQ" href="uma://_MRPloEFXEdy9ENCpSugIjA#_MXC68MlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MXbVcMlrEeCrm66MgLsmlQ" href="uma://_vsno4EKmEdyrauqpmnA8jQ#_MXbVcMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MX2zQMlrEeCrm66MgLsmlQ" href="uma://_iVydgENdEdy245g62lfWcA#_MX2zQMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MYDAgMlrEeCrm66MgLsmlQ" href="uma://_A118oMYaEdyXeo04os5BOw#_MYDAgMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MYVUYMlrEeCrm66MgLsmlQ" href="uma://_fRdVEMYbEdyXeo04os5BOw#_MYVUYMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MYgTgMlrEeCrm66MgLsmlQ" href="uma://_WCUhAO8KEdmKSqa_gSYthg#_MYgTgMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MZ6owMlrEeCrm66MgLsmlQ" href="uma://_Q_mBoGphEd24CboUCnKL3A#_MZ6owMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MaGO8MlrEeCrm66MgLsmlQ" href="uma://_0TmecJ-VEdy3Nc4rvuj7bA#_MaGO8MlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MadbUMlrEeCrm66MgLsmlQ" href="uma://_vJYucEfUEdyiPI8btkmvmw#_MadbUMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_Mal-MMlrEeCrm66MgLsmlQ" href="uma://_LdRtkM3qEdyuBO4ZIzcyig#_Mal-MMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MardwMlrEeCrm66MgLsmlQ" href="uma://_Qyp8YGpiEd24CboUCnKL3A#_MardwMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_Ma6HQMlrEeCrm66MgLsmlQ" href="uma://_OOB2AAouEdyhlpBPrduOMw#_Ma6HQMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_MccYUMlrEeCrm66MgLsmlQ" href="uma://_-bv0ELXuEduGP_98XMd0fg#_MccYUMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_Mi1UMMlrEeCrm66MgLsmlQ" href="uma://_4ulTgMg7EdyXeo04os5BOw#_Mi1UMMlrEeCrm66MgLsmlQ"/>
+    <subManagers xmi:id="_IQcqUcviEeCphdH9-OcbCA" href="uma://_IQcqQMviEeCphdH9-OcbCA#_IQcqUcviEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_bvPv4cvjEeCphdH9-OcbCA" href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv4cvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_eYseYcvjEeCphdH9-OcbCA" href="uma://_eYseUMvjEeCphdH9-OcbCA#_eYseYcvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_gm7QccvjEeCphdH9-OcbCA" href="uma://_gmxfcMvjEeCphdH9-OcbCA#_gm7QccvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_iaOaIcvjEeCphdH9-OcbCA" href="uma://_iaOaEMvjEeCphdH9-OcbCA#_iaOaIcvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_kb4I0cvjEeCphdH9-OcbCA" href="uma://_kb4IwMvjEeCphdH9-OcbCA#_kb4I0cvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_loDBAcvjEeCphdH9-OcbCA" href="uma://_loDA8MvjEeCphdH9-OcbCA#_loDBAcvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_nuiMYcvjEeCphdH9-OcbCA" href="uma://_nuiMUMvjEeCphdH9-OcbCA#_nuiMYcvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_x_xLkMvjEeCphdH9-OcbCA" href="uma://_x_nakMvjEeCphdH9-OcbCA#_x_xLkMvjEeCphdH9-OcbCA"/>
+    <subManagers xmi:id="_4BK8EPNGEeGUHqJDPoQpuw" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BK8EPNGEeGUHqJDPoQpuw"/>
+    <subManagers xmi:id="__22e4PNGEeGUHqJDPoQpuw" href="uma://__20psPNGEeGUHqJDPoQpuw#__22e4PNGEeGUHqJDPoQpuw"/>
+    <subManagers xmi:id="_ZutNsPNHEeGUHqJDPoQpuw" href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_ZutNsPNHEeGUHqJDPoQpuw"/>
+    <subManagers xmi:id="_gAYAEPNHEeGUHqJDPoQpuw" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_gAYAEPNHEeGUHqJDPoQpuw"/>
+    <subManagers xmi:id="_nypCgPNHEeGUHqJDPoQpuw" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nypCgPNHEeGUHqJDPoQpuw"/>
+    <subManagers xmi:id="_sNnZAPNHEeGUHqJDPoQpuw" href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_sNnZAPNHEeGUHqJDPoQpuw"/>
+    <subManagers xmi:id="_bOQKUPW3EeG1CfjH63krNw" href="uma://_bN9PYPW3EeG1CfjH63krNw#_bOQKUPW3EeG1CfjH63krNw"/>
+    <subManagers xmi:id="_fFyzYFiuEeKBXYc66RG5vg" href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFyzYFiuEeKBXYc66RG5vg"/>
+    <subManagers xmi:id="_J5jLQVjGEeKc_ty_5LPMaw" href="uma://_J5jLMFjGEeKc_ty_5LPMaw#_J5jLQVjGEeKc_ty_5LPMaw"/>
+    <subManagers xmi:id="__5_LkUUNEeKK_ttnBPx9Rg" href="uma://__52BoEUNEeKK_ttnBPx9Rg#__5_LkUUNEeKK_ttnBPx9Rg"/>
+    <subManagers xmi:id="_aXpWMUUOEeKK_ttnBPx9Rg" href="uma://_aXpWIEUOEeKK_ttnBPx9Rg#_aXpWMUUOEeKK_ttnBPx9Rg"/>
+    <subManagers xmi:id="_l29SIUUOEeKK_ttnBPx9Rg" href="uma://_l29SEEUOEeKK_ttnBPx9Rg#_l29SIUUOEeKK_ttnBPx9Rg"/>
+    <subManagers xmi:id="_hw8fAUUOEeKK_ttnBPx9Rg" href="uma://_hw8e8EUOEeKK_ttnBPx9Rg#_hw8fAUUOEeKK_ttnBPx9Rg"/>
+    <subManagers xmi:id="_iYT98Vl7EeK7IIGTa_iioQ" href="uma://_iYT94Fl7EeK7IIGTa_iioQ#_iYT98Vl7EeK7IIGTa_iioQ"/>
+    <subManagers xmi:id="_5W05YVmBEeKrerZnFJznjw" href="uma://_5W05UFmBEeKrerZnFJznjw#_5W05YVmBEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_2Lo6QFmCEeKrerZnFJznjw" href="uma://_2LfwUFmCEeKrerZnFJznjw#_2Lo6QFmCEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_-kDhUVmDEeKrerZnFJznjw" href="uma://_-kDhQFmDEeKrerZnFJznjw#_-kDhUVmDEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_6sDqIVmFEeKrerZnFJznjw" href="uma://_6sDqEFmFEeKrerZnFJznjw#_6sDqIVmFEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_e36i4VmHEeKrerZnFJznjw" href="uma://_e36i0FmHEeKrerZnFJznjw#_e36i4VmHEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_xuHXYVmIEeKrerZnFJznjw" href="uma://_xuHXUFmIEeKrerZnFJznjw#_xuHXYVmIEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_nwHnwVmJEeKrerZnFJznjw" href="uma://_nwHnsFmJEeKrerZnFJznjw#_nwHnwVmJEeKrerZnFJznjw"/>
+    <subManagers xmi:id="_FRiuAVvqEeKHU9XooDK5Ng" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRiuAVvqEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_hyLc8VvqEeKHU9XooDK5Ng" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc8VvqEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_wwMUYVvqEeKHU9XooDK5Ng" href="uma://_wwMUUFvqEeKHU9XooDK5Ng#_wwMUYVvqEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_BLr2cVvrEeKHU9XooDK5Ng" href="uma://_BLr2YFvrEeKHU9XooDK5Ng#_BLr2cVvrEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_GuCEsVvrEeKHU9XooDK5Ng" href="uma://_GuCEoFvrEeKHU9XooDK5Ng#_GuCEsVvrEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_MGQtoVvrEeKHU9XooDK5Ng" href="uma://_MGQtkFvrEeKHU9XooDK5Ng#_MGQtoVvrEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_S0dD8VvrEeKHU9XooDK5Ng" href="uma://_S0dD4FvrEeKHU9XooDK5Ng#_S0dD8VvrEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_ZfNEsVvrEeKHU9XooDK5Ng" href="uma://_ZfNEoFvrEeKHU9XooDK5Ng#_ZfNEsVvrEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_d9XSDVvrEeKHU9XooDK5Ng" href="uma://_d9RLYFvrEeKHU9XooDK5Ng#_d9XSDVvrEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_OIlf0VvtEeKHU9XooDK5Ng" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_OIlf0VvtEeKHU9XooDK5Ng"/>
+    <subManagers xmi:id="_NFB2AGCYEeKyN6GWGi5q3A" href="uma://_14Ft0M3pEdyuBO4ZIzcyig#_NFB2AGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NGw7YGCYEeKyN6GWGi5q3A" href="uma://_ji3-gEMXEdyP_Jn83ylwUQ#_NGw7YGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NHcQ0GCYEeKyN6GWGi5q3A" href="uma://_CX-9AM3qEdyuBO4ZIzcyig#_NHcQ0GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NH-cUGCYEeKyN6GWGi5q3A" href="uma://_HVCXcE7xEd-ttuvo_zEJ_g#_NH-cUGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NJPAkGCYEeKyN6GWGi5q3A" href="uma://_iNwFsMhNEdygFZkm1d5NtQ#_NJPAkGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NJthsGCYEeKyN6GWGi5q3A" href="uma://_qqyzAJ6WEdyQN-zRFaRrCQ#_NJthsGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NK2KIGCYEeKyN6GWGi5q3A" href="uma://_7uMwYDIWEd-YE6CeBfCofg#_NK2KIGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NLYVoGCYEeKyN6GWGi5q3A" href="uma://_NOBspSZLEd-QuZFPf_YdqQ#_NLYVoGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NMo54GCYEeKyN6GWGi5q3A" href="uma://_NBRHwMh3EdygFZkm1d5NtQ#_NMo54GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NNOvwGCYEeKyN6GWGi5q3A" href="uma://_nKS10J6YEdyQN-zRFaRrCQ#_NNOvwGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NOCoEGCYEeKyN6GWGi5q3A" href="uma://_4gXdoL8BEdyWX5Yd-9QZ1A#_NOCoEGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NPQwEGCYEeKyN6GWGi5q3A" href="uma://_ugihsOxXEdyCFeiQwJE7Vg#_NPQwEGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NPuqIGCYEeKyN6GWGi5q3A" href="uma://_44o4AOvVEdyp6czxLiQq9g#_NPuqIGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NQVuIGCYEeKyN6GWGi5q3A" href="uma://_vtUfcEIuEd2GCesTWQms8Q#_NQVuIGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NQ35oGCYEeKyN6GWGi5q3A" href="uma://_40sbAJ6YEdyQN-zRFaRrCQ#_NQ35oGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NRlrUGCYEeKyN6GWGi5q3A" href="uma://_VVRjYHoCEd2ozs6whO3m5w#_NRlrUGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NSFakGCYEeKyN6GWGi5q3A" href="uma://_XLuWYHn8Ed2ozs6whO3m5w#_NSFakGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NWXdoGCYEeKyN6GWGi5q3A" href="uma://_IItp4MuXEdyLOriywSJkoQ#_NWXdoGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NW3M4GCYEeKyN6GWGi5q3A" href="uma://_Hz9OMG5KEdyAHIxjZ9kpqw#_NW3M4GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NXk-kGCYEeKyN6GWGi5q3A" href="uma://_h_9roM3PEdyKkus0T68H3Q#_NXk-kGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NYCRkGCYEeKyN6GWGi5q3A" href="uma://_D-ExQMktEdygFZkm1d5NtQ#_NYCRkGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NYwqUGCYEeKyN6GWGi5q3A" href="uma://_GxBjAM2sEdym_ZFqrJcXUg#_NYwqUGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NaZCAGCYEeKyN6GWGi5q3A" href="uma://_4gaS4LPREduocbW-TPTq7A#_NaZCAGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NbNhYGCYEeKyN6GWGi5q3A" href="uma://_XPLD8MudEdyRPtFYRAKVDg#_NbNhYGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NbywMGCYEeKyN6GWGi5q3A" href="uma://_Z2cK0LPPEduocbW-TPTq7A#_NbywMGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NcxnoGCYEeKyN6GWGi5q3A" href="uma://_NjNCEMrmEdyd6uFrFHNXhA#_NcxnoGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NdOTkGCYEeKyN6GWGi5q3A" href="uma://_Y9TKMLS9EduDY8LNbMCDBA#_NdOTkGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_Nd5B8GCYEeKyN6GWGi5q3A" href="uma://_00zMMMt1EdyRPtFYRAKVDg#_Nd5B8GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NeW8AGCYEeKyN6GWGi5q3A" href="uma://_DZ1rEI7-Edy7q8CKc_B8eg#_NeW8AGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NfHJ8GCYEeKyN6GWGi5q3A" href="uma://_HYAA4MriEdyd6uFrFHNXhA#_NfHJ8GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_Nfm5MGCYEeKyN6GWGi5q3A" href="uma://_GbYfULPaEduocbW-TPTq7A#_Nfm5MGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_Ng2PUGCYEeKyN6GWGi5q3A" href="uma://_Pnn0sMruEd2sX5aq6os4oQ#_Ng2PUGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_Nwz98GCYEeKyN6GWGi5q3A" href="uma://_Z7teANQ1EdyQ89W1tgswSQ#_Nwz98GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_NzllIGCYEeKyN6GWGi5q3A" href="uma://_xco1IMVNEd2pfdXgw7I2qQ#_NzllIGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_N0F7cGCYEeKyN6GWGi5q3A" href="uma://_bIIs0FRFEd2CWscN8Mx6rg#_N0F7cGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_N0xQ4GCYEeKyN6GWGi5q3A" href="uma://_wDZIUOCFEeC1y_NExchKwQ#_N0xQ4GCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_N1kiIGCYEeKyN6GWGi5q3A" href="uma://_mYfo8OCIEeC1y_NExchKwQ#_N1kiIGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_N2xcAGCYEeKyN6GWGi5q3A" href="uma://_p0w9wJlfEeGlkdGl1HQlDA#_N2xcAGCYEeKyN6GWGi5q3A"/>
+    <subManagers xmi:id="_N3X48GCYEeKyN6GWGi5q3A" href="uma://_XOu58JljEeGlkdGl1HQlDA#_N3X48GCYEeKyN6GWGi5q3A"/>
+    <resourceDescriptors xmi:id="_D6k6YclqEeCrm66MgLsmlQ" id="_D6kTUMlqEeCrm66MgLsmlQ" uri=""/>
+    <resourceDescriptors xmi:id="_MXC68clrEeCrm66MgLsmlQ" id="_MRPloEFXEdy9ENCpSugIjA" uri="core.default.cat_def.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MXbVcclrEeCrm66MgLsmlQ" id="_vsno4EKmEdyrauqpmnA8jQ" uri="core.default.nav_view.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MX2zQclrEeCrm66MgLsmlQ" id="_iVydgENdEdy245g62lfWcA" uri="core.default.release_copyright.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MYDAgclrEeCrm66MgLsmlQ" id="_A118oMYaEdyXeo04os5BOw" uri="core.default.role_def.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MYVUYclrEeCrm66MgLsmlQ" id="_fRdVEMYbEdyXeo04os5BOw" uri="core.default.tool_def.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MYgTgclrEeCrm66MgLsmlQ" id="_WCUhAO8KEdmKSqa_gSYthg" uri="core.default.uma_concept.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MZ6owclrEeCrm66MgLsmlQ" id="_Q_mBoGphEd24CboUCnKL3A" uri="core.mgmt.common.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MaGO8clrEeCrm66MgLsmlQ" id="_0TmecJ-VEdy3Nc4rvuj7bA" uri="core.mgmt.common.extend_supp/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MadbUclrEeCrm66MgLsmlQ" id="_vJYucEfUEdyiPI8btkmvmw" uri="core.mgmt.slot.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Mal-MclrEeCrm66MgLsmlQ" id="_LdRtkM3qEdyuBO4ZIzcyig" uri="core.tech.common.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MardwclrEeCrm66MgLsmlQ" id="_Qyp8YGpiEd24CboUCnKL3A" uri="core.tech.common.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Ma6HQclrEeCrm66MgLsmlQ" id="_OOB2AAouEdyhlpBPrduOMw" uri="core.tech.common.extend_supp/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MccYUclrEeCrm66MgLsmlQ" id="_-bv0ELXuEduGP_98XMd0fg" uri="core.tech.slot.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Mi1UMclrEeCrm66MgLsmlQ" id="_4ulTgMg7EdyXeo04os5BOw" uri="publish.openup.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_IQcqUsviEeCphdH9-OcbCA" id="_IQcqQMviEeCphdH9-OcbCA" uri="practice.sei.smart.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_bvPv4svjEeCphdH9-OcbCA" id="_bvPv0MvjEeCphdH9-OcbCA" uri="process.remics.traditional.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_eYseYsvjEeCphdH9-OcbCA" id="_eYseUMvjEeCphdH9-OcbCA" uri="practice.remics.traditional.requirements_and_feasibility.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_gm7QcsvjEeCphdH9-OcbCA" id="_gmxfcMvjEeCphdH9-OcbCA" uri="practice.remics.traditional.recover.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_iaOaIsvjEeCphdH9-OcbCA" id="_iaOaEMvjEeCphdH9-OcbCA" uri="practice.remics.traditional.migrate.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_kb4I0svjEeCphdH9-OcbCA" id="_kb4IwMvjEeCphdH9-OcbCA" uri="practice.remics.traditional.validate.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_loDBAsvjEeCphdH9-OcbCA" id="_loDA8MvjEeCphdH9-OcbCA" uri="practice.remics.traditional.control_and_supervise.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_nuiMYsvjEeCphdH9-OcbCA" id="_nuiMUMvjEeCphdH9-OcbCA" uri="practice.remics.traditional.withrawal.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_x_xLkcvjEeCphdH9-OcbCA" id="_x_nakMvjEeCphdH9-OcbCA" uri="practice.remics.traditional.interoperability.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_4BK8EfNGEeGUHqJDPoQpuw" id="_4BH4wPNGEeGUHqJDPoQpuw" uri="practice.remics.agile.requirements.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="__22e4fNGEeGUHqJDPoQpuw" id="__20psPNGEeGUHqJDPoQpuw" uri="process.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_ZutNsfNHEeGUHqJDPoQpuw" id="_ZuWoYPNHEeGUHqJDPoQpuw" uri="practice.remics.agile.recovery.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_gAYAEfNHEeGUHqJDPoQpuw" id="_gAWK4PNHEeGUHqJDPoQpuw" uri="practice.remics.agile.migration.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_nypCgfNHEeGUHqJDPoQpuw" id="_nynNUPNHEeGUHqJDPoQpuw" uri="practice.remics.agile.validation.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_sNnZAfNHEeGUHqJDPoQpuw" id="_sNlj0PNHEeGUHqJDPoQpuw" uri="practice.remics.agile.control_and_supervise.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_bOQKUfW3EeG1CfjH63krNw" id="_bN9PYPW3EeG1CfjH63krNw" uri="publish.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_fFyzYViuEeKBXYc66RG5vg" id="_fFpCYFiuEeKBXYc66RG5vg" uri="practice.remics.agile.withrawal.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_J5jLQljGEeKc_ty_5LPMaw" id="_J5jLMFjGEeKc_ty_5LPMaw" uri="practice.remics.agile.interoperability.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_PKX-0Fl6EeK7IIGTa_iioQ" id="__52BoEUNEeKK_ttnBPx9Rg" uri="tool.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_PK0qwFl6EeK7IIGTa_iioQ" id="_aXpWIEUOEeKK_ttnBPx9Rg" uri="toolmentor.remics.control_supervise.extend_interoperability_framework-sintef/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_PK90sFl6EeK7IIGTa_iioQ" id="_l29SEEUOEeKK_ttnBPx9Rg" uri="toolmentor.remics.migrate.extend_modelio-sintef/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_PK90x1l6EeK7IIGTa_iioQ" id="_hw8e8EUOEeKK_ttnBPx9Rg" uri="toolmentor.remics.recover.extend_modelio-sintef/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_iYT98ll7EeK7IIGTa_iioQ" id="_iYT94Fl7EeK7IIGTa_iioQ" uri="toolmentor.remics.recover.extend_bluage-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_5W05YlmBEeKrerZnFJznjw" id="_5W05UFmBEeKrerZnFJznjw" uri="toolmentor.remics.validate.extend_metrino-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_2Lo6QVmCEeKrerZnFJznjw" id="_2LfwUFmCEeKrerZnFJznjw" uri="toolmentor.remics.validate.extend_fokusmbt-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_-kDhUlmDEeKrerZnFJznjw" id="_-kDhQFmDEeKrerZnFJznjw" uri="toolmentor.remics.control_supervise.extend_M@RT-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_6sDqIlmFEeKrerZnFJznjw" id="_6sDqEFmFEeKrerZnFJznjw" uri="toolmentor.remics.migrate.extend_redseeds-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_e36i4lmHEeKrerZnFJznjw" id="_e36i0FmHEeKrerZnFJznjw" uri="toolmentor.remics.requirements.extend_tale-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_xuHXYlmIEeKrerZnFJznjw" id="_xuHXUFmIEeKrerZnFJznjw" uri="toolmentor.remics.requirements.extend_trac-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_nwHnwlmJEeKrerZnFJznjw" id="_nwHnsFmJEeKrerZnFJznjw" uri="toolmentor.remics.extend_remics_installer-tecnalia/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_FRiuAlvqEeKHU9XooDK5Ng" id="_FRit8FvqEeKHU9XooDK5Ng" uri="workproduct.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_hyLc8lvqEeKHU9XooDK5Ng" id="_hyLc4FvqEeKHU9XooDK5Ng" uri="role.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_wwMUYlvqEeKHU9XooDK5Ng" id="_wwMUUFvqEeKHU9XooDK5Ng" uri="process.remics.agile.control_and_supervise.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_BLr2clvrEeKHU9XooDK5Ng" id="_BLr2YFvrEeKHU9XooDK5Ng" uri="process.remics.agile.interoperability.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_GuCEslvrEeKHU9XooDK5Ng" id="_GuCEoFvrEeKHU9XooDK5Ng" uri="process.remics.agile.migration.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_MGQtolvrEeKHU9XooDK5Ng" id="_MGQtkFvrEeKHU9XooDK5Ng" uri="process.remics.agile.recovery.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_S0dD8lvrEeKHU9XooDK5Ng" id="_S0dD4FvrEeKHU9XooDK5Ng" uri="process.remics.agile.requirements.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_ZfNEslvrEeKHU9XooDK5Ng" id="_ZfNEoFvrEeKHU9XooDK5Ng" uri="process.remics.agile.validation.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_d9XSDlvrEeKHU9XooDK5Ng" id="_d9RLYFvrEeKHU9XooDK5Ng" uri="process.remics.agile.withrawal.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_OIlf0lvtEeKHU9XooDK5Ng" id="_OIlfwFvtEeKHU9XooDK5Ng" uri="core.remics.agile.default.nav_view.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NFB2AWCYEeKyN6GWGi5q3A" id="_14Ft0M3pEdyuBO4ZIzcyig" uri="core.gen.common.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NGw7YWCYEeKyN6GWGi5q3A" id="_ji3-gEMXEdyP_Jn83ylwUQ" uri="core.gen.common.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NHcQ0WCYEeKyN6GWGi5q3A" id="_CX-9AM3qEdyuBO4ZIzcyig" uri="core.mgmt.common.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NH-cUWCYEeKyN6GWGi5q3A" id="_HVCXcE7xEd-ttuvo_zEJ_g" uri="practice.bus.mdev.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NJPAkWCYEeKyN6GWGi5q3A" id="_iNwFsMhNEdygFZkm1d5NtQ" uri="practice.mgmt.iterative_dev.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NJthsWCYEeKyN6GWGi5q3A" id="_qqyzAJ6WEdyQN-zRFaRrCQ" uri="practice.mgmt.iterative_dev.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NK2KIWCYEeKyN6GWGi5q3A" id="_7uMwYDIWEd-YE6CeBfCofg" uri="practice.mgmt.project_process_tailoring.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NLY8sGCYEeKyN6GWGi5q3A" id="_NOBspSZLEd-QuZFPf_YdqQ" uri="practice.mgmt.project_process_tailoring.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NMo54WCYEeKyN6GWGi5q3A" id="_NBRHwMh3EdygFZkm1d5NtQ" uri="practice.mgmt.release_planning.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NNOvwWCYEeKyN6GWGi5q3A" id="_nKS10J6YEdyQN-zRFaRrCQ" uri="practice.mgmt.release_planning.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NOCoEWCYEeKyN6GWGi5q3A" id="_4gXdoL8BEdyWX5Yd-9QZ1A" uri="practice.mgmt.risk_value_lifecycle.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NPRXIGCYEeKyN6GWGi5q3A" id="_ugihsOxXEdyCFeiQwJE7Vg" uri="practice.mgmt.team_change_mgmt.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NPuqIWCYEeKyN6GWGi5q3A" id="_44o4AOvVEdyp6czxLiQq9g" uri="practice.mgmt.team_change_mgmt.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NQVuIWCYEeKyN6GWGi5q3A" id="_vtUfcEIuEd2GCesTWQms8Q" uri="practice.mgmt.whole_team.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NQ35oWCYEeKyN6GWGi5q3A" id="_40sbAJ6YEdyQN-zRFaRrCQ" uri="practice.mgmt.whole_team.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NRlrUWCYEeKyN6GWGi5q3A" id="_VVRjYHoCEd2ozs6whO3m5w" uri="practice.tech.abrd.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NSFakWCYEeKyN6GWGi5q3A" id="_XLuWYHn8Ed2ozs6whO3m5w" uri="practice.tech.abrd.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NWXdoWCYEeKyN6GWGi5q3A" id="_IItp4MuXEdyLOriywSJkoQ" uri="practice.tech.concurrent_testing.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NW3M4WCYEeKyN6GWGi5q3A" id="_Hz9OMG5KEdyAHIxjZ9kpqw" uri="practice.tech.concurrent_testing.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NXk-kWCYEeKyN6GWGi5q3A" id="_h_9roM3PEdyKkus0T68H3Q" uri="practice.tech.continuous_integration.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NYCRkWCYEeKyN6GWGi5q3A" id="_D-ExQMktEdygFZkm1d5NtQ" uri="practice.tech.continuous_integration.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NYwqUWCYEeKyN6GWGi5q3A" id="_GxBjAM2sEdym_ZFqrJcXUg" uri="practice.tech.evolutionary_arch.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NaZCAWCYEeKyN6GWGi5q3A" id="_4gaS4LPREduocbW-TPTq7A" uri="practice.tech.evolutionary_arch.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NbNhYWCYEeKyN6GWGi5q3A" id="_XPLD8MudEdyRPtFYRAKVDg" uri="practice.tech.evolutionary_design.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NbywMWCYEeKyN6GWGi5q3A" id="_Z2cK0LPPEduocbW-TPTq7A" uri="practice.tech.evolutionary_design.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NcxnoWCYEeKyN6GWGi5q3A" id="_NjNCEMrmEdyd6uFrFHNXhA" uri="practice.tech.shared_vision.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NdOTkWCYEeKyN6GWGi5q3A" id="_Y9TKMLS9EduDY8LNbMCDBA" uri="practice.tech.shared_vision.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Nd5B8WCYEeKyN6GWGi5q3A" id="_00zMMMt1EdyRPtFYRAKVDg" uri="practice.tech.test_driven_development.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NeW8AWCYEeKyN6GWGi5q3A" id="_DZ1rEI7-Edy7q8CKc_B8eg" uri="practice.tech.test_driven_development.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NfHJ8WCYEeKyN6GWGi5q3A" id="_HYAA4MriEdyd6uFrFHNXhA" uri="practice.tech.use_case_driven_dev.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Nfm5MWCYEeKyN6GWGi5q3A" id="_GbYfULPaEduocbW-TPTq7A" uri="practice.tech.use_case_driven_dev.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Ng2PUWCYEeKyN6GWGi5q3A" id="_Pnn0sMruEd2sX5aq6os4oQ" uri="process.abrd.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Nwz98WCYEeKyN6GWGi5q3A" id="_Z7teANQ1EdyQ89W1tgswSQ" uri="process.openup.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_NzllIWCYEeKyN6GWGi5q3A" id="_xco1IMVNEd2pfdXgw7I2qQ" uri="publish.abrd.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_N0F7cWCYEeKyN6GWGi5q3A" id="_bIIs0FRFEd2CWscN8Mx6rg" uri="publish.all_epf_practices.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_N0x38GCYEeKyN6GWGi5q3A" id="_wDZIUOCFEeC1y_NExchKwQ" uri="practice.gen.doc_trng.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_N1kiIWCYEeKyN6GWGi5q3A" id="_mYfo8OCIEeC1y_NExchKwQ" uri="practice.gen.production_release.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_N2xcAWCYEeKyN6GWGi5q3A" id="_p0w9wJlfEeGlkdGl1HQlDA" uri="practice.gen.doc_trng.assign/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_N3X48WCYEeKyN6GWGi5q3A" id="_XOu58JljEeGlkdGl1HQlDA" uri="practice.gen.production_release.assign/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_D6kTUMlqEeCrm66MgLsmlQ" name="remicsMethodologyEpf" guid="_D6kTUMlqEeCrm66MgLsmlQ" briefDescription="Epf represetantion of the remics development methodology. Remics methodology aims to provide a better support for the migration of legacy system to cloud infrastructure through the application of new tools and methods.">
+    <methodElementProperty xmi:id="_D7pRYMlqEeCrm66MgLsmlQ" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_MRPloEFXEdy9ENCpSugIjA" href="uma://_MRPloEFXEdy9ENCpSugIjA#_MRPloEFXEdy9ENCpSugIjA"/>
+    <methodPlugins xmi:id="_vsno4EKmEdyrauqpmnA8jQ" href="uma://_vsno4EKmEdyrauqpmnA8jQ#_vsno4EKmEdyrauqpmnA8jQ"/>
+    <methodPlugins xmi:id="_iVydgENdEdy245g62lfWcA" href="uma://_iVydgENdEdy245g62lfWcA#_iVydgENdEdy245g62lfWcA"/>
+    <methodPlugins xmi:id="_A118oMYaEdyXeo04os5BOw" href="uma://_A118oMYaEdyXeo04os5BOw#_A118oMYaEdyXeo04os5BOw"/>
+    <methodPlugins xmi:id="_fRdVEMYbEdyXeo04os5BOw" href="uma://_fRdVEMYbEdyXeo04os5BOw#_fRdVEMYbEdyXeo04os5BOw"/>
+    <methodPlugins xmi:id="_WCUhAO8KEdmKSqa_gSYthg" href="uma://_WCUhAO8KEdmKSqa_gSYthg#_WCUhAO8KEdmKSqa_gSYthg"/>
+    <methodPlugins xmi:id="_Q_mBoGphEd24CboUCnKL3A" href="uma://_Q_mBoGphEd24CboUCnKL3A#_Q_mBoGphEd24CboUCnKL3A"/>
+    <methodPlugins xmi:id="_0TmecJ-VEdy3Nc4rvuj7bA" href="uma://_0TmecJ-VEdy3Nc4rvuj7bA#_0TmecJ-VEdy3Nc4rvuj7bA"/>
+    <methodPlugins xmi:id="_vJYucEfUEdyiPI8btkmvmw" href="uma://_vJYucEfUEdyiPI8btkmvmw#_vJYucEfUEdyiPI8btkmvmw"/>
+    <methodPlugins xmi:id="_LdRtkM3qEdyuBO4ZIzcyig" href="uma://_LdRtkM3qEdyuBO4ZIzcyig#_LdRtkM3qEdyuBO4ZIzcyig"/>
+    <methodPlugins xmi:id="_Qyp8YGpiEd24CboUCnKL3A" href="uma://_Qyp8YGpiEd24CboUCnKL3A#_Qyp8YGpiEd24CboUCnKL3A"/>
+    <methodPlugins xmi:id="_OOB2AAouEdyhlpBPrduOMw" href="uma://_OOB2AAouEdyhlpBPrduOMw#_OOB2AAouEdyhlpBPrduOMw"/>
+    <methodPlugins xmi:id="_-bv0ELXuEduGP_98XMd0fg" href="uma://_-bv0ELXuEduGP_98XMd0fg#_-bv0ELXuEduGP_98XMd0fg"/>
+    <methodPlugins xmi:id="_4ulTgMg7EdyXeo04os5BOw" href="uma://_4ulTgMg7EdyXeo04os5BOw#_4ulTgMg7EdyXeo04os5BOw"/>
+    <methodPlugins xmi:id="_IQcqQMviEeCphdH9-OcbCA" href="uma://_IQcqQMviEeCphdH9-OcbCA#_IQcqQMviEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_bvPv0MvjEeCphdH9-OcbCA" href="uma://_bvPv0MvjEeCphdH9-OcbCA#_bvPv0MvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_eYseUMvjEeCphdH9-OcbCA" href="uma://_eYseUMvjEeCphdH9-OcbCA#_eYseUMvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_gmxfcMvjEeCphdH9-OcbCA" href="uma://_gmxfcMvjEeCphdH9-OcbCA#_gmxfcMvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_iaOaEMvjEeCphdH9-OcbCA" href="uma://_iaOaEMvjEeCphdH9-OcbCA#_iaOaEMvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_kb4IwMvjEeCphdH9-OcbCA" href="uma://_kb4IwMvjEeCphdH9-OcbCA#_kb4IwMvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_loDA8MvjEeCphdH9-OcbCA" href="uma://_loDA8MvjEeCphdH9-OcbCA#_loDA8MvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_nuiMUMvjEeCphdH9-OcbCA" href="uma://_nuiMUMvjEeCphdH9-OcbCA#_nuiMUMvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_x_nakMvjEeCphdH9-OcbCA" href="uma://_x_nakMvjEeCphdH9-OcbCA#_x_nakMvjEeCphdH9-OcbCA"/>
+    <methodPlugins xmi:id="_4BH4wPNGEeGUHqJDPoQpuw" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+    <methodPlugins xmi:id="__20psPNGEeGUHqJDPoQpuw" href="uma://__20psPNGEeGUHqJDPoQpuw#__20psPNGEeGUHqJDPoQpuw"/>
+    <methodPlugins xmi:id="_ZuWoYPNHEeGUHqJDPoQpuw" href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_ZuWoYPNHEeGUHqJDPoQpuw"/>
+    <methodPlugins xmi:id="_gAWK4PNHEeGUHqJDPoQpuw" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_gAWK4PNHEeGUHqJDPoQpuw"/>
+    <methodPlugins xmi:id="_nynNUPNHEeGUHqJDPoQpuw" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+    <methodPlugins xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_sNlj0PNHEeGUHqJDPoQpuw"/>
+    <methodPlugins xmi:id="_bN9PYPW3EeG1CfjH63krNw" href="uma://_bN9PYPW3EeG1CfjH63krNw#_bN9PYPW3EeG1CfjH63krNw"/>
+    <methodPlugins xmi:id="_fFpCYFiuEeKBXYc66RG5vg" href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
+    <methodPlugins xmi:id="_J5jLMFjGEeKc_ty_5LPMaw" href="uma://_J5jLMFjGEeKc_ty_5LPMaw#_J5jLMFjGEeKc_ty_5LPMaw"/>
+    <methodPlugins xmi:id="__52BoEUNEeKK_ttnBPx9Rg" href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <methodPlugins xmi:id="_aXpWIEUOEeKK_ttnBPx9Rg" href="uma://_aXpWIEUOEeKK_ttnBPx9Rg#_aXpWIEUOEeKK_ttnBPx9Rg"/>
+    <methodPlugins xmi:id="_l29SEEUOEeKK_ttnBPx9Rg" href="uma://_l29SEEUOEeKK_ttnBPx9Rg#_l29SEEUOEeKK_ttnBPx9Rg"/>
+    <methodPlugins xmi:id="_hw8e8EUOEeKK_ttnBPx9Rg" href="uma://_hw8e8EUOEeKK_ttnBPx9Rg#_hw8e8EUOEeKK_ttnBPx9Rg"/>
+    <methodPlugins xmi:id="_iYT94Fl7EeK7IIGTa_iioQ" href="uma://_iYT94Fl7EeK7IIGTa_iioQ#_iYT94Fl7EeK7IIGTa_iioQ"/>
+    <methodPlugins xmi:id="_5W05UFmBEeKrerZnFJznjw" href="uma://_5W05UFmBEeKrerZnFJznjw#_5W05UFmBEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_2LfwUFmCEeKrerZnFJznjw" href="uma://_2LfwUFmCEeKrerZnFJznjw#_2LfwUFmCEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_-kDhQFmDEeKrerZnFJznjw" href="uma://_-kDhQFmDEeKrerZnFJznjw#_-kDhQFmDEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_6sDqEFmFEeKrerZnFJznjw" href="uma://_6sDqEFmFEeKrerZnFJznjw#_6sDqEFmFEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_e36i0FmHEeKrerZnFJznjw" href="uma://_e36i0FmHEeKrerZnFJznjw#_e36i0FmHEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_xuHXUFmIEeKrerZnFJznjw" href="uma://_xuHXUFmIEeKrerZnFJznjw#_xuHXUFmIEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_nwHnsFmJEeKrerZnFJznjw" href="uma://_nwHnsFmJEeKrerZnFJznjw#_nwHnsFmJEeKrerZnFJznjw"/>
+    <methodPlugins xmi:id="_FRit8FvqEeKHU9XooDK5Ng" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_hyLc4FvqEeKHU9XooDK5Ng" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_wwMUUFvqEeKHU9XooDK5Ng" href="uma://_wwMUUFvqEeKHU9XooDK5Ng#_wwMUUFvqEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_BLr2YFvrEeKHU9XooDK5Ng" href="uma://_BLr2YFvrEeKHU9XooDK5Ng#_BLr2YFvrEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_GuCEoFvrEeKHU9XooDK5Ng" href="uma://_GuCEoFvrEeKHU9XooDK5Ng#_GuCEoFvrEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_MGQtkFvrEeKHU9XooDK5Ng" href="uma://_MGQtkFvrEeKHU9XooDK5Ng#_MGQtkFvrEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_S0dD4FvrEeKHU9XooDK5Ng" href="uma://_S0dD4FvrEeKHU9XooDK5Ng#_S0dD4FvrEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_ZfNEoFvrEeKHU9XooDK5Ng" href="uma://_ZfNEoFvrEeKHU9XooDK5Ng#_ZfNEoFvrEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_d9RLYFvrEeKHU9XooDK5Ng" href="uma://_d9RLYFvrEeKHU9XooDK5Ng#_d9RLYFvrEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_OIlfwFvtEeKHU9XooDK5Ng" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_OIlfwFvtEeKHU9XooDK5Ng"/>
+    <methodPlugins xmi:id="_14Ft0M3pEdyuBO4ZIzcyig" href="uma://_14Ft0M3pEdyuBO4ZIzcyig#_14Ft0M3pEdyuBO4ZIzcyig"/>
+    <methodPlugins xmi:id="_ji3-gEMXEdyP_Jn83ylwUQ" href="uma://_ji3-gEMXEdyP_Jn83ylwUQ#_ji3-gEMXEdyP_Jn83ylwUQ"/>
+    <methodPlugins xmi:id="_CX-9AM3qEdyuBO4ZIzcyig" href="uma://_CX-9AM3qEdyuBO4ZIzcyig#_CX-9AM3qEdyuBO4ZIzcyig"/>
+    <methodPlugins xmi:id="_HVCXcE7xEd-ttuvo_zEJ_g" href="uma://_HVCXcE7xEd-ttuvo_zEJ_g#_HVCXcE7xEd-ttuvo_zEJ_g"/>
+    <methodPlugins xmi:id="_iNwFsMhNEdygFZkm1d5NtQ" href="uma://_iNwFsMhNEdygFZkm1d5NtQ#_iNwFsMhNEdygFZkm1d5NtQ"/>
+    <methodPlugins xmi:id="_qqyzAJ6WEdyQN-zRFaRrCQ" href="uma://_qqyzAJ6WEdyQN-zRFaRrCQ#_qqyzAJ6WEdyQN-zRFaRrCQ"/>
+    <methodPlugins xmi:id="_7uMwYDIWEd-YE6CeBfCofg" href="uma://_7uMwYDIWEd-YE6CeBfCofg#_7uMwYDIWEd-YE6CeBfCofg"/>
+    <methodPlugins xmi:id="_NOBspSZLEd-QuZFPf_YdqQ" href="uma://_NOBspSZLEd-QuZFPf_YdqQ#_NOBspSZLEd-QuZFPf_YdqQ"/>
+    <methodPlugins xmi:id="_NBRHwMh3EdygFZkm1d5NtQ" href="uma://_NBRHwMh3EdygFZkm1d5NtQ#_NBRHwMh3EdygFZkm1d5NtQ"/>
+    <methodPlugins xmi:id="_nKS10J6YEdyQN-zRFaRrCQ" href="uma://_nKS10J6YEdyQN-zRFaRrCQ#_nKS10J6YEdyQN-zRFaRrCQ"/>
+    <methodPlugins xmi:id="_4gXdoL8BEdyWX5Yd-9QZ1A" href="uma://_4gXdoL8BEdyWX5Yd-9QZ1A#_4gXdoL8BEdyWX5Yd-9QZ1A"/>
+    <methodPlugins xmi:id="_ugihsOxXEdyCFeiQwJE7Vg" href="uma://_ugihsOxXEdyCFeiQwJE7Vg#_ugihsOxXEdyCFeiQwJE7Vg"/>
+    <methodPlugins xmi:id="_44o4AOvVEdyp6czxLiQq9g" href="uma://_44o4AOvVEdyp6czxLiQq9g#_44o4AOvVEdyp6czxLiQq9g"/>
+    <methodPlugins xmi:id="_vtUfcEIuEd2GCesTWQms8Q" href="uma://_vtUfcEIuEd2GCesTWQms8Q#_vtUfcEIuEd2GCesTWQms8Q"/>
+    <methodPlugins xmi:id="_40sbAJ6YEdyQN-zRFaRrCQ" href="uma://_40sbAJ6YEdyQN-zRFaRrCQ#_40sbAJ6YEdyQN-zRFaRrCQ"/>
+    <methodPlugins xmi:id="_VVRjYHoCEd2ozs6whO3m5w" href="uma://_VVRjYHoCEd2ozs6whO3m5w#_VVRjYHoCEd2ozs6whO3m5w"/>
+    <methodPlugins xmi:id="_XLuWYHn8Ed2ozs6whO3m5w" href="uma://_XLuWYHn8Ed2ozs6whO3m5w#_XLuWYHn8Ed2ozs6whO3m5w"/>
+    <methodPlugins xmi:id="_IItp4MuXEdyLOriywSJkoQ" href="uma://_IItp4MuXEdyLOriywSJkoQ#_IItp4MuXEdyLOriywSJkoQ"/>
+    <methodPlugins xmi:id="_Hz9OMG5KEdyAHIxjZ9kpqw" href="uma://_Hz9OMG5KEdyAHIxjZ9kpqw#_Hz9OMG5KEdyAHIxjZ9kpqw"/>
+    <methodPlugins xmi:id="_h_9roM3PEdyKkus0T68H3Q" href="uma://_h_9roM3PEdyKkus0T68H3Q#_h_9roM3PEdyKkus0T68H3Q"/>
+    <methodPlugins xmi:id="_D-ExQMktEdygFZkm1d5NtQ" href="uma://_D-ExQMktEdygFZkm1d5NtQ#_D-ExQMktEdygFZkm1d5NtQ"/>
+    <methodPlugins xmi:id="_GxBjAM2sEdym_ZFqrJcXUg" href="uma://_GxBjAM2sEdym_ZFqrJcXUg#_GxBjAM2sEdym_ZFqrJcXUg"/>
+    <methodPlugins xmi:id="_4gaS4LPREduocbW-TPTq7A" href="uma://_4gaS4LPREduocbW-TPTq7A#_4gaS4LPREduocbW-TPTq7A"/>
+    <methodPlugins xmi:id="_XPLD8MudEdyRPtFYRAKVDg" href="uma://_XPLD8MudEdyRPtFYRAKVDg#_XPLD8MudEdyRPtFYRAKVDg"/>
+    <methodPlugins xmi:id="_Z2cK0LPPEduocbW-TPTq7A" href="uma://_Z2cK0LPPEduocbW-TPTq7A#_Z2cK0LPPEduocbW-TPTq7A"/>
+    <methodPlugins xmi:id="_NjNCEMrmEdyd6uFrFHNXhA" href="uma://_NjNCEMrmEdyd6uFrFHNXhA#_NjNCEMrmEdyd6uFrFHNXhA"/>
+    <methodPlugins xmi:id="_Y9TKMLS9EduDY8LNbMCDBA" href="uma://_Y9TKMLS9EduDY8LNbMCDBA#_Y9TKMLS9EduDY8LNbMCDBA"/>
+    <methodPlugins xmi:id="_00zMMMt1EdyRPtFYRAKVDg" href="uma://_00zMMMt1EdyRPtFYRAKVDg#_00zMMMt1EdyRPtFYRAKVDg"/>
+    <methodPlugins xmi:id="_DZ1rEI7-Edy7q8CKc_B8eg" href="uma://_DZ1rEI7-Edy7q8CKc_B8eg#_DZ1rEI7-Edy7q8CKc_B8eg"/>
+    <methodPlugins xmi:id="_HYAA4MriEdyd6uFrFHNXhA" href="uma://_HYAA4MriEdyd6uFrFHNXhA#_HYAA4MriEdyd6uFrFHNXhA"/>
+    <methodPlugins xmi:id="_GbYfULPaEduocbW-TPTq7A" href="uma://_GbYfULPaEduocbW-TPTq7A#_GbYfULPaEduocbW-TPTq7A"/>
+    <methodPlugins xmi:id="_Pnn0sMruEd2sX5aq6os4oQ" href="uma://_Pnn0sMruEd2sX5aq6os4oQ#_Pnn0sMruEd2sX5aq6os4oQ"/>
+    <methodPlugins xmi:id="_Z7teANQ1EdyQ89W1tgswSQ" href="uma://_Z7teANQ1EdyQ89W1tgswSQ#_Z7teANQ1EdyQ89W1tgswSQ"/>
+    <methodPlugins xmi:id="_xco1IMVNEd2pfdXgw7I2qQ" href="uma://_xco1IMVNEd2pfdXgw7I2qQ#_xco1IMVNEd2pfdXgw7I2qQ"/>
+    <methodPlugins xmi:id="_bIIs0FRFEd2CWscN8Mx6rg" href="uma://_bIIs0FRFEd2CWscN8Mx6rg#_bIIs0FRFEd2CWscN8Mx6rg"/>
+    <methodPlugins xmi:id="_wDZIUOCFEeC1y_NExchKwQ" href="uma://_wDZIUOCFEeC1y_NExchKwQ#_wDZIUOCFEeC1y_NExchKwQ"/>
+    <methodPlugins xmi:id="_mYfo8OCIEeC1y_NExchKwQ" href="uma://_mYfo8OCIEeC1y_NExchKwQ#_mYfo8OCIEeC1y_NExchKwQ"/>
+    <methodPlugins xmi:id="_p0w9wJlfEeGlkdGl1HQlDA" href="uma://_p0w9wJlfEeGlkdGl1HQlDA#_p0w9wJlfEeGlkdGl1HQlDA"/>
+    <methodPlugins xmi:id="_XOu58JljEeGlkdGl1HQlDA" href="uma://_XOu58JljEeGlkdGl1HQlDA#_XOu58JljEeGlkdGl1HQlDA"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

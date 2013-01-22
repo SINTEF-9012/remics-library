@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_xts4YDO8EeK5hZv7WCtlvg" guid="_xts4YDO8EeK5hZv7WCtlvg">
+    <resourceDescriptors xmi:id="_xts4YTO8EeK5hZv7WCtlvg" id="-Di5b1uxcFjFu48VzDN3FtA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Dz-aIUkaEeK7P-8D6a3Ujw" id="-W_L5TCiW86e5xgK7CVrKFw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Dz-aIkkaEeK7P-8D6a3Ujw" id="-aW2VXGFxUkLFip7BDt6gRw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Dz-aI0kaEeK7P-8D6a3Ujw" id="-jGgOukb1wynMvZVksNRn4g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_D0ILIEkaEeK7P-8D6a3Ujw" id="-Hq5Ss0alC6kzNnEAKdCJaA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_D0ILIUkaEeK7P-8D6a3Ujw" id="--A9AAQjng8dEwNq143mMWQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_D0ILIkkaEeK7P-8D6a3Ujw" id="-QPQgd6kiRaRmNQLAjqG7yw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_xsG88DO8EeK5hZv7WCtlvg" name="requirement" guid="_xsG88DO8EeK5hZv7WCtlvg">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHgEkZEeK7P-8D6a3Ujw" name="apply_techniques_to_evaluate_feasibility" guid="_8JxHgEkZEeK7P-8D6a3Ujw" presentationName="Apply techniques to evaluate feasibility" superActivities="_xsG88TO8EeK5hZv7WCtlvg" linkToPredecessor="_OGh9QVirEeKBXYc66RG5vg">
+      <presentation xmi:id="-W_L5TCiW86e5xgK7CVrKFw" href="uma://-Di5b1uxcFjFu48VzDN3FtA#-W_L5TCiW86e5xgK7CVrKFw"/>
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YMEkWEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHgUkZEeK7P-8D6a3Ujw" name="define_general_deployment_model" guid="_8JxHgUkZEeK7P-8D6a3Ujw" presentationName="Define general deployment model " superActivities="_xsG88TO8EeK5hZv7WCtlvg" linkToPredecessor="_Nay4oVirEeKBXYc66RG5vg">
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_NVWRcEkUEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHgkkZEeK7P-8D6a3Ujw" name="describe_the_system" guid="_8JxHgkkZEeK7P-8D6a3Ujw" presentationName="Describe the system" briefDescription="A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&#xD;&#xA;" superActivities="_xsG88TO8EeK5hZv7WCtlvg">
+      <presentation xmi:id="-aW2VXGFxUkLFip7BDt6gRw" href="uma://-Di5b1uxcFjFu48VzDN3FtA#-aW2VXGFxUkLFip7BDt6gRw"/>
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YMUkWEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHg0kZEeK7P-8D6a3Ujw" name="elaborate_glossary" guid="_8JxHg0kZEeK7P-8D6a3Ujw" presentationName="Elaborate Glossary" superActivities="_xsG88TO8EeK5hZv7WCtlvg">
+      <presentation xmi:id="-jGgOukb1wynMvZVksNRn4g" href="uma://-Di5b1uxcFjFu48VzDN3FtA#-jGgOukb1wynMvZVksNRn4g"/>
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YMkkWEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHhEkZEeK7P-8D6a3Ujw" name="establish_validation_criteria" guid="_8JxHhEkZEeK7P-8D6a3Ujw" presentationName="Establish Validation Criteria" briefDescription="Specify the indicators which will demonstrate that the system operates perfectly and that it meets the requirements. This will be obtained agreeing with the user the set of Validation Criteria that will be used in the acceptance test of the system. It is difficult to obtain an agreement of the validation criteria but it is crucial to establish an end to the project.&#xD;&#xA;" superActivities="_xsG88TO8EeK5hZv7WCtlvg" linkToPredecessor="_QuL8AVirEeKBXYc66RG5vg">
+      <presentation xmi:id="-Hq5Ss0alC6kzNnEAKdCJaA" href="uma://-Di5b1uxcFjFu48VzDN3FtA#-Hq5Ss0alC6kzNnEAKdCJaA"/>
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YM0kWEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHhUkZEeK7P-8D6a3Ujw" name="identify_actors" guid="_8JxHhUkZEeK7P-8D6a3Ujw" presentationName="Identify Actors" briefDescription="Usually a migration implies also the introduction of new features or the modification of some of the existing ones. Based on the System idea and the preliminary system description identify the new and the changing features. These changing features may include both functional and non-functional changes.&#xD;&#xA;" superActivities="_xsG88TO8EeK5hZv7WCtlvg">
+      <presentation xmi:id="--A9AAQjng8dEwNq143mMWQ" href="uma://-Di5b1uxcFjFu48VzDN3FtA#--A9AAQjng8dEwNq143mMWQ"/>
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YNEkWEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHhkkZEeK7P-8D6a3Ujw" name="identify_additional_requirements" guid="_8JxHhkkZEeK7P-8D6a3Ujw" presentationName="Identify Additional Requirements " superActivities="_xsG88TO8EeK5hZv7WCtlvg" linkToPredecessor="_Oz6AoVirEeKBXYc66RG5vg">
+      <presentation xmi:id="-QPQgd6kiRaRmNQLAjqG7yw" href="uma://-Di5b1uxcFjFu48VzDN3FtA#-QPQgd6kiRaRmNQLAjqG7yw"/>
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_wV5YNUkWEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHiEkZEeK7P-8D6a3Ujw" name="Prepare_and_demo_product_backlog" guid="_8JxHiEkZEeK7P-8D6a3Ujw" presentationName="Prepare and demo product backlog" briefDescription="Prepare and demo product backlog for requirements scrum" superActivities="_xsG88TO8EeK5hZv7WCtlvg" linkToPredecessor="_dadaUVirEeKBXYc66RG5vg _l7sbkVirEeKBXYc66RG5vg _mgvCUVirEeKBXYc66RG5vg">
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#__g3N4EkTEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHiUkZEeK7P-8D6a3Ujw" name="scrum_demo_and_retrospective" guid="_8JxHiUkZEeK7P-8D6a3Ujw" presentationName="Requirements scrum demo and retrospective" briefDescription="Requirements scrum demo and retrospective–  held at the end of each sprint" superActivities="_xsG88TO8EeK5hZv7WCtlvg">
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_oi8rMEkUEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8JxHikkZEeK7P-8D6a3Ujw" name="sprint_planning" guid="_8JxHikkZEeK7P-8D6a3Ujw" presentationName="Sprint planning" superActivities="_xsG88TO8EeK5hZv7WCtlvg" linkToPredecessor="_Rw_c0VirEeKBXYc66RG5vg">
+      <Task href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_UGwT0EkUEeKu7-3cM-oErg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Nay4oVirEeKBXYc66RG5vg" guid="_Nay4oVirEeKBXYc66RG5vg" pred="_8JxHgkkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OGh9QVirEeKBXYc66RG5vg" guid="_OGh9QVirEeKBXYc66RG5vg" pred="_8JxHgUkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Oz6AoVirEeKBXYc66RG5vg" guid="_Oz6AoVirEeKBXYc66RG5vg" pred="_8JxHhUkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PdHVsVirEeKBXYc66RG5vg" guid="_PdHVsVirEeKBXYc66RG5vg" pred="_8JxHhUkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QuL8AVirEeKBXYc66RG5vg" guid="_QuL8AVirEeKBXYc66RG5vg" pred="_8JxHhkkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Rw_c0VirEeKBXYc66RG5vg" guid="_Rw_c0VirEeKBXYc66RG5vg" pred="_8JxHiEkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dadaUVirEeKBXYc66RG5vg" guid="_dadaUVirEeKBXYc66RG5vg" pred="_8JxHiUkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_l7sbkVirEeKBXYc66RG5vg" guid="_l7sbkVirEeKBXYc66RG5vg" pred="_8JxHhEkZEeK7P-8D6a3Ujw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_mgvCUVirEeKBXYc66RG5vg" guid="_mgvCUVirEeKBXYc66RG5vg" pred="_8JxHgEkZEeK7P-8D6a3Ujw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_xsG88TO8EeK5hZv7WCtlvg" name="requirement" guid="_xsG88TO8EeK5hZv7WCtlvg" presentationName="requirement" breakdownElements="_8JxHgEkZEeK7P-8D6a3Ujw _8JxHgUkZEeK7P-8D6a3Ujw _8JxHgkkZEeK7P-8D6a3Ujw _8JxHg0kZEeK7P-8D6a3Ujw _8JxHhEkZEeK7P-8D6a3Ujw _8JxHhUkZEeK7P-8D6a3Ujw _8JxHhkkZEeK7P-8D6a3Ujw _8JxHiEkZEeK7P-8D6a3Ujw _8JxHiUkZEeK7P-8D6a3Ujw _8JxHikkZEeK7P-8D6a3Ujw">
+      <presentation xmi:id="-Di5b1uxcFjFu48VzDN3FtA" href="uma://-Di5b1uxcFjFu48VzDN3FtA#-Di5b1uxcFjFu48VzDN3FtA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

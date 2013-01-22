@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_fFyzYFiuEeKBXYc66RG5vg" guid="_fFyzYFiuEeKBXYc66RG5vg">
+    <resourceDescriptors xmi:id="_pkHzcViuEeKBXYc66RG5vg" id="-1VMdFltYzc31vgGuu0GwPg" uri="tasks/identify_withdrawal_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_pkHzcliuEeKBXYc66RG5vg" id="-uL-rik0vhtZcajo8CFnIIw" uri="tasks/implement_withdrawal_procedures.xmi"/>
+    <resourceDescriptors xmi:id="_OXTw8Vi7EeKc_ty_5LPMaw" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/withrawal.xmi"/>
+    <resourceDescriptors xmi:id="_U5arMV7eEeKFRuoPceMYcQ" id="-b-7zEp7mMK_55HfVP1L_aw" uri="tasks/prepare_and_demo_product_backlog.xmi"/>
+    <resourceDescriptors xmi:id="_U5gx0F7eEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
+    <resourceDescriptors xmi:id="_U5m4cF7eEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_fFpCYFiuEeKBXYc66RG5vg" name="practice.remics.agile.withrawal.base" guid="_fFpCYFiuEeKBXYc66RG5vg" changeDate="2013-01-15T07:39:19.007+0100">
+    <methodElementProperty xmi:id="_fFyzYliuEeKBXYc66RG5vg" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCYViuEeKBXYc66RG5vg" name="Content" guid="_fFpCYViuEeKBXYc66RG5vg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCYliuEeKBXYc66RG5vg" name="Categories" guid="_fFpCYliuEeKBXYc66RG5vg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCY1iuEeKBXYc66RG5vg" name="Domains" guid="_fFpCY1iuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZFiuEeKBXYc66RG5vg" name="Disciplines" guid="_fFpCZFiuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZViuEeKBXYc66RG5vg" name="RoleSets" guid="_fFpCZViuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZliuEeKBXYc66RG5vg" name="WP Types" guid="_fFpCZliuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCZ1iuEeKBXYc66RG5vg" name="Tools" guid="_fFpCZ1iuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCaFiuEeKBXYc66RG5vg" name="StandardCategories" guid="_fFpCaFiuEeKBXYc66RG5vg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCaViuEeKBXYc66RG5vg" name="CustomCategories" guid="_fFpCaViuEeKBXYc66RG5vg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCaliuEeKBXYc66RG5vg" name="Hidden" guid="_fFpCaliuEeKBXYc66RG5vg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_fFpCa1iuEeKBXYc66RG5vg" name="Custom Categories" guid="_fFpCa1iuEeKBXYc66RG5vg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fFpCbFiuEeKBXYc66RG5vg" name="CoreContent" guid="_fFpCbFiuEeKBXYc66RG5vg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kiCZoFiuEeKBXYc66RG5vg" name="withrawal" guid="_kiCZoFiuEeKBXYc66RG5vg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pXxZgFiuEeKBXYc66RG5vg" name="identify_withdrawal_procedures" guid="_pXxZgFiuEeKBXYc66RG5vg" presentationName="Identify Withdrawal Procedures">
+            <presentation xmi:id="-1VMdFltYzc31vgGuu0GwPg" href="uma://-1VMdFltYzc31vgGuu0GwPg#-1VMdFltYzc31vgGuu0GwPg"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEY15BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pXxZgViuEeKBXYc66RG5vg" name="implement_withdrawal_procedures" guid="_pXxZgViuEeKBXYc66RG5vg" presentationName="Implement Withdrawal Procedures">
+            <presentation xmi:id="-uL-rik0vhtZcajo8CFnIIw" href="uma://-uL-rik0vhtZcajo8CFnIIw#-uL-rik0vhtZcajo8CFnIIw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEY15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_wmP8cF7PEeKFRuoPceMYcQ"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_OISdgFi7EeKc_ty_5LPMaw" name="withrawal" guid="_OISdgFi7EeKc_ty_5LPMaw" presentationName="Withrawal" briefDescription="This activity cover the implementation of mechanism for supporting the possible withrawal fo the system. Due to the " contentReferences="_pXxZgFiuEeKBXYc66RG5vg _pXxZgViuEeKBXYc66RG5vg _U4jvkF7eEeKFRuoPceMYcQ _U4jvkV7eEeKFRuoPceMYcQ _U4jvkl7eEeKFRuoPceMYcQ">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_U4jvkF7eEeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_U4jvkF7eEeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum">
+            <presentation xmi:id="-b-7zEp7mMK_55HfVP1L_aw" href="uma://-b-7zEp7mMK_55HfVP1L_aw#-b-7zEp7mMK_55HfVP1L_aw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_U4jvkV7eEeKFRuoPceMYcQ" name="scrum_demo_and_retrospective" guid="_U4jvkV7eEeKFRuoPceMYcQ" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint">
+            <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_U4jvkl7eEeKFRuoPceMYcQ" name="sprint_planning" guid="_U4jvkl7eEeKFRuoPceMYcQ" presentationName="Sprint Planning">
+            <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fFpCbViuEeKBXYc66RG5vg" name="CapabilityPatterns" guid="_fFpCbViuEeKBXYc66RG5vg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fFpCbliuEeKBXYc66RG5vg" name="DeliveryProcesses" guid="_fFpCbliuEeKBXYc66RG5vg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fFpCb1iuEeKBXYc66RG5vg" name="ProcessContributions" guid="_fFpCb1iuEeKBXYc66RG5vg"/>
+    <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

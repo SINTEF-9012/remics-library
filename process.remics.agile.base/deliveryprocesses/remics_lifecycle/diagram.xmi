@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_Mlw3wFmgEeKAOuKD2mtUOg" name="remics_lifecycle">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Mlw3wVmgEeKAOuKD2mtUOg" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Mlw3wlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FU_XCEeGkJrjWR9R9NQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Mlw3w1mgEeKAOuKD2mtUOg" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqGlMFmgEeKAOuKD2mtUOg" name="Requirements Phase">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqGlMVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqGlMlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FW_XCEeGkJrjWR9R9NQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqGlM1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqHMQFmgEeKAOuKD2mtUOg" name="Recover Phase">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqHMQVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMQlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FT_XCEeGkJrjWR9R9NQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMQ1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqHMRFmgEeKAOuKD2mtUOg" name="Migrate Phase">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqHMRVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMRlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FSvXCEeGkJrjWR9R9NQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMR1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqHMSFmgEeKAOuKD2mtUOg" name="Validate Phase">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqHMSVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMSlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FQ_XCEeGkJrjWR9R9NQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMS1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqHMTFmgEeKAOuKD2mtUOg" name="Supervise Phase">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqHMTVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMTlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FVvXCEeGkJrjWR9R9NQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMT1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqHMUFmgEeKAOuKD2mtUOg" name="Withdrawal">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqHMUVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMUlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4t6FUvXCEeGkJrjWR9R9NQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMU1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_MqHMVFmgEeKAOuKD2mtUOg" name="Interoperability Sprint [1..n]">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MqHMVVmgEeKAOuKD2mtUOg" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMVlmgEeKAOuKD2mtUOg" key="uri" value="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_CHvTUVmYEeKLLc6iJZ0EJQ"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MqHMV1mgEeKAOuKD2mtUOg" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_Mlw3xFmgEeKAOuKD2mtUOg" type="AD" element="_Mlw3wFmgEeKAOuKD2mtUOg" name="remics_lifecycle" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_Mlw3xVmgEeKAOuKD2mtUOg"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_Mlw3xlmgEeKAOuKD2mtUOg"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_Mlw3x1mgEeKAOuKD2mtUOg"/>
+  </notation:Diagram>
+</xmi:XMI>

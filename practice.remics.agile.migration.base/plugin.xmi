@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_gAYAEPNHEeGUHqJDPoQpuw" guid="_gAYAEPNHEeGUHqJDPoQpuw">
+    <resourceDescriptors xmi:id="_nsaZ4UkWEeKu7-3cM-oErg" id="-I3y0J3LKJWUBXDV0gED5fQ" uri="tasks/complete_the_code.xmi"/>
+    <resourceDescriptors xmi:id="_ns3F0EkWEeKu7-3cM-oErg" id="-kZeqYgDpRoP-NvGocNUazw" uri="tasks/complete_definition_of_system_requirement.xmi"/>
+    <resourceDescriptors xmi:id="_ns3F0UkWEeKu7-3cM-oErg" id="-ayD25ygUo5BB00ZEA_DERA" uri="tasks/definition_of%20service_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_ntA20EkWEeKu7-3cM-oErg" id="-0E8LHUt-jOKPUkTpb_gsXQ" uri="tasks/definition_of_cloud_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_ntTxwEkWEeKu7-3cM-oErg" id="-xr49C5fN809-sz8U4vs7Rw" uri="tasks/implementation_design.xmi"/>
+    <resourceDescriptors xmi:id="_ntc7sEkWEeKu7-3cM-oErg" id="-4l3DawaVMajTCfyJgKUPkw" uri="tasks/psm_transformation.xmi"/>
+    <resourceDescriptors xmi:id="_lHvb0Vi7EeKc_ty_5LPMaw" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/migrate.xmi"/>
+    <resourceDescriptors xmi:id="_fUZ1IVjEEeKc_ty_5LPMaw" id="-PcLUpMPXsX6GDs8ZFegPig" uri="tasks/definition_of_overall_cloud_architecture.xmi"/>
+    <resourceDescriptors xmi:id="_fUjmIFjEEeKc_ty_5LPMaw" id="-Gqnp2a1CANG-Yk0lZg5-4Q" uri="tasks/componentization.xmi"/>
+    <resourceDescriptors xmi:id="_jPhm4VjEEeKc_ty_5LPMaw" id="-J7-e9k_I-HWuhsyv56Exwg" uri="tasks/perform_isolation_functional_testing.xmi"/>
+    <resourceDescriptors xmi:id="_3iyJYF7SEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
+    <resourceDescriptors xmi:id="_3i4QAF7SEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gAWK4PNHEeGUHqJDPoQpuw" name="practice.remics.agile.migration.base" guid="_gAWK4PNHEeGUHqJDPoQpuw" changeDate="2013-01-15T06:17:21.724+0100">
+    <methodElementProperty xmi:id="_gAYAEvNHEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK4fNHEeGUHqJDPoQpuw" name="Content" guid="_gAWK4fNHEeGUHqJDPoQpuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK4vNHEeGUHqJDPoQpuw" name="Categories" guid="_gAWK4vNHEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK4_NHEeGUHqJDPoQpuw" name="Domains" guid="_gAWK4_NHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK5PNHEeGUHqJDPoQpuw" name="Disciplines" guid="_gAWK5PNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK5fNHEeGUHqJDPoQpuw" name="RoleSets" guid="_gAWK5fNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK5vNHEeGUHqJDPoQpuw" name="WP Types" guid="_gAWK5vNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK5_NHEeGUHqJDPoQpuw" name="Tools" guid="_gAWK5_NHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK6PNHEeGUHqJDPoQpuw" name="StandardCategories" guid="_gAWK6PNHEeGUHqJDPoQpuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK6fNHEeGUHqJDPoQpuw" name="CustomCategories" guid="_gAWK6fNHEeGUHqJDPoQpuw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK6vNHEeGUHqJDPoQpuw" name="Hidden" guid="_gAWK6vNHEeGUHqJDPoQpuw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gAWK6_NHEeGUHqJDPoQpuw" name="Custom Categories" guid="_gAWK6_NHEeGUHqJDPoQpuw"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK7PNHEeGUHqJDPoQpuw" name="CoreContent" guid="_gAWK7PNHEeGUHqJDPoQpuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JhTs8DO8EeK5hZv7WCtlvg" name="migration" guid="_JhTs8DO8EeK5hZv7WCtlvg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MrlQkDO8EeK5hZv7WCtlvg" name="definition_of_overall_cloud_architecture" guid="_MrlQkDO8EeK5hZv7WCtlvg" presentationName="Definition of Overall Cloud Architecture ">
+            <presentation xmi:id="-PcLUpMPXsX6GDs8ZFegPig" href="uma://-PcLUpMPXsX6GDs8ZFegPig#-PcLUpMPXsX6GDs8ZFegPig"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WGsgYEkWEeKu7-3cM-oErg" name="componentization" guid="_WGsgYEkWEeKu7-3cM-oErg" presentationName="Componentization" briefDescription="Componentization of UML or RSL Models">
+            <presentation xmi:id="-Gqnp2a1CANG-Yk0lZg5-4Q" href="uma://-Gqnp2a1CANG-Yk0lZg5-4Q#-Gqnp2a1CANG-Yk0lZg5-4Q"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEVV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEVl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mKqTQEkWEeKu7-3cM-oErg" name="complete_the_code" guid="_mKqTQEkWEeKu7-3cM-oErg" presentationName="Complete the Code">
+            <presentation xmi:id="-I3y0J3LKJWUBXDV0gED5fQ" href="uma://-I3y0J3LKJWUBXDV0gED5fQ#-I3y0J3LKJWUBXDV0gED5fQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mK0EQEkWEeKu7-3cM-oErg" name="complete_definition_of_system_requirement" guid="_mK0EQEkWEeKu7-3cM-oErg" presentationName="complete Definition of System Requirement">
+            <presentation xmi:id="-kZeqYgDpRoP-NvGocNUazw" href="uma://-kZeqYgDpRoP-NvGocNUazw#-kZeqYgDpRoP-NvGocNUazw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEVl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mK0EQUkWEeKu7-3cM-oErg" name="definition_of service_architecture" guid="_mK0EQUkWEeKu7-3cM-oErg" presentationName="Definition of Service Architecture">
+            <presentation xmi:id="-ayD25ygUo5BB00ZEA_DERA" href="uma://-ayD25ygUo5BB00ZEA_DERA#-ayD25ygUo5BB00ZEA_DERA"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mK0EQkkWEeKu7-3cM-oErg" name="definition_of_cloud_architecture" guid="_mK0EQkkWEeKu7-3cM-oErg" presentationName="Definition of Cloud Architecture">
+            <presentation xmi:id="-0E8LHUt-jOKPUkTpb_gsXQ" href="uma://-0E8LHUt-jOKPUkTpb_gsXQ#-0E8LHUt-jOKPUkTpb_gsXQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mK0EQ0kWEeKu7-3cM-oErg" name="implementation_design" guid="_mK0EQ0kWEeKu7-3cM-oErg" presentationName="Implementation Design">
+            <presentation xmi:id="-xr49C5fN809-sz8U4vs7Rw" href="uma://-xr49C5fN809-sz8U4vs7Rw#-xr49C5fN809-sz8U4vs7Rw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEVV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_wmP8cF7PEeKFRuoPceMYcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mK0EREkWEeKu7-3cM-oErg" name="psm_transformation" guid="_mK0EREkWEeKu7-3cM-oErg" presentationName="PSM Transformation">
+            <presentation xmi:id="-4l3DawaVMajTCfyJgKUPkw" href="uma://-4l3DawaVMajTCfyJgKUPkw#-4l3DawaVMajTCfyJgKUPkw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_wmP8cF7PEeKFRuoPceMYcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pXie8EkWEeKu7-3cM-oErg" name="perform_isolation_functional_testing" guid="_pXie8EkWEeKu7-3cM-oErg" presentationName="Perform Isolation Functional Testing">
+            <presentation xmi:id="-J7-e9k_I-HWuhsyv56Exwg" href="uma://-J7-e9k_I-HWuhsyv56Exwg#-J7-e9k_I-HWuhsyv56Exwg"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_TFeMIF5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEVl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_k3YroFi7EeKc_ty_5LPMaw" name="migrate" guid="_k3YroFi7EeKc_ty_5LPMaw" presentationName="Migrate" briefDescription="This activity will define the architecture of the new system taking into account the expected system definition from the requirement and feasibility fase, the knowledge recovered in the recover fase, and other inputs from other activities in the methodology (interpoerability, validate, control and supervise, and withdrawal). It will also support the low level design and the coding of the different components that take part in the final solution.&#xD;&#xA;" contentReferences="_mK0EQEkWEeKu7-3cM-oErg _mKqTQEkWEeKu7-3cM-oErg _WGsgYEkWEeKu7-3cM-oErg _mK0EQkkWEeKu7-3cM-oErg _MrlQkDO8EeK5hZv7WCtlvg _mK0EQUkWEeKu7-3cM-oErg _mK0EQ0kWEeKu7-3cM-oErg _pXie8EkWEeKu7-3cM-oErg _mK0EREkWEeKu7-3cM-oErg _3hvAgF7SEeKFRuoPceMYcQ _3hvAgV7SEeKFRuoPceMYcQ _3hvAgl7SEeKFRuoPceMYcQ">
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3hvAgF7SEeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_3hvAgF7SEeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum">
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3hvAgV7SEeKFRuoPceMYcQ" name="scrum_demo_and_retrospective" guid="_3hvAgV7SEeKFRuoPceMYcQ" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint">
+            <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3hvAgl7SEeKFRuoPceMYcQ" name="sprint_planning" guid="_3hvAgl7SEeKFRuoPceMYcQ" presentationName="Sprint Planning">
+            <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gAWK7fNHEeGUHqJDPoQpuw" name="CapabilityPatterns" guid="_gAWK7fNHEeGUHqJDPoQpuw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gAWK7vNHEeGUHqJDPoQpuw" name="DeliveryProcesses" guid="_gAWK7vNHEeGUHqJDPoQpuw"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gAWK7_NHEeGUHqJDPoQpuw" name="ProcessContributions" guid="_gAWK7_NHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

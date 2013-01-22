@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b-7zEp7mMK_55HfVP1L_aw" name="Prepare_and_demo_product_backlog,__g3N4EkTEeKu7-3cM-oErg" guid="-b-7zEp7mMK_55HfVP1L_aw" changeDate="2013-01-07T13:04:26.487+0100">
+  <mainDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
+knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
+that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
+new components. The requirements product backlog is presented to the team on a short meeting.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
