@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TWH-u9fhILjpkF6MhNSpGg" name="new_checklist,_p2_RkHapEeK4jM7SNG5wsw" guid="-TWH-u9fhILjpkF6MhNSpGg" changeDate="2013-02-14T17:02:19.436+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The team's way of working is no longer being used.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Lessons learned are shared for future use.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

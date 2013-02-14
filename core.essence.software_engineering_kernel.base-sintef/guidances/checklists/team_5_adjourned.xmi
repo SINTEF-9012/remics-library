@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vv9RkvlwuuzzbRvS8k0GCw" name="new_checklist,_clNScHapEeK4jM7SNG5wsw" guid="-vv9RkvlwuuzzbRvS8k0GCw" changeDate="2013-02-14T14:35:09.789+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The team responsibilities have been handed over or fulfilled.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The team members are available for assignment to other teams.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        No further effort is being put in by the team to complete the mission.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

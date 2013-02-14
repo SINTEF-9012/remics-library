@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uLExSkXq35_JOMrCDcgggA" name="new_checklist,_5aSwwHaQEeK4jM7SNG5wsw" guid="-uLExSkXq35_JOMrCDcgggA" changeDate="2013-02-14T11:26:52.462+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        All the different groups of stakeholders that are, or will be, affected by the development and operation of the&#xD;
+        software system are identified.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        There is agreement on the stakeholder groups to be represented. At a minimum, the stakeholders groups that fund,&#xD;
+        use, support, and maintain the system have been considered.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The responsibilities of the stakeholder representatives have been defined.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

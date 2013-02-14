@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--_IKMAuA0t4fHbmTja_0PQ" name="new_checklist,_P737wHabEeK4jM7SNG5wsw" guid="--_IKMAuA0t4fHbmTja_0PQ" changeDate="2013-02-14T12:42:43.166+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A usable system that demonstrably addresses the opportunity is available.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholders agree that the available solution is worth deploying.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholders are satisfied that the solution produced addresses the opportunity.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

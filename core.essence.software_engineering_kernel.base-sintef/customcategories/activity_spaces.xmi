@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vCymeIvX8t5LRqUW2yrjLw" name="activity_spaces,_j1RXEHX2EeKWJu8IiPDXrQ" guid="-vCymeIvX8t5LRqUW2yrjLw" changeDate="2013-02-14T11:18:08.000+0100">
+  <mainDescription>Activity Spaces are representations of the essential things to do. The Activity Spaces provide descriptions of the&#xD;
+challenges a team faces when developing, maintaining and supporting software systems, and the kinds of things that the team&#xD;
+will do to meet them.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

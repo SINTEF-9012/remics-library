@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5nwuOtRy5EWHfBaFGBhv3A" name="new_checklist,_g52XcHapEeK4jM7SNG5wsw" guid="-5nwuOtRy5EWHfBaFGBhv3A" changeDate="2013-02-14T16:50:19.892+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Development work has been started.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Work progress is monitored.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The work is being broken down into actionable work items with clear definitions of done.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Team members are accepting and progressing tasks.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

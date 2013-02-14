@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-pNQbgj58LosXMiy08NUMkQ" name="customer,_F2I0YXX3EeKWJu8IiPDXrQ" guid="-pNQbgj58LosXMiy08NUMkQ">
+    <mainDescription>&lt;p>&#xD;
+    This area of concern contains everything to do with the actual use and exploitation of the software system to be&#xD;
+    produced.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Software engineering always involves at least one customer for the software that it produces. The customer perspective&#xD;
+    must be integrated into the day-to-day work of the team to prevent an inappropriate solution from being produced.&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-hBQk2okxEYFf5tYOTvctbw" name="Explore Possibilities,_Npjo8HadEeK4jM7SNG5wsw" guid="-hBQk2okxEYFf5tYOTvctbw">
+    <mainDescription>&lt;strong>&lt;font size=&quot;4&quot;>Explore Possibilities&lt;/font>&lt;/strong> &#xD;
+&lt;p>&#xD;
+    Explore the possibilities presented by the creation of a new or improved software system. This includes the analysis of&#xD;
+    the opportunity to be addressed and the identification of the stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Explore possibilities to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Enable the right stakeholders to be involved.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand the stakeholders’ needs.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify opportunities for the use of the software system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Understand why the software system is needed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Establish the value offered by the software system.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> None&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Stakeholders::Recognized, Opportunity::Identified, Opportunity::Solution Needed,&#xD;
+    Opportunity::Value Established.&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-pim2omisQ8eJ0sInUUHcnQ" name=",_gICWcXadEeK4jM7SNG5wsw" guid="-pim2omisQ8eJ0sInUUHcnQ">
+    <mainDescription>&lt;h3>&#xD;
+    Understand Stakeholders Needs&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Engage with the stakeholders to understand their needs and ensure that the right results are produced. This includes&#xD;
+    identifying and working with the stakeholder representatives to progress the opportunity.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Understand stakeholder needs to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ensure the right solution is created.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Align expectations.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Collect feedback and generate input.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure that the solution produced provides benefit to the stakeholders.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Stakeholders, Opportunity, Requirements, Software System&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Stakeholders::Represented, Stakeholders::Involved, Stakeholders::In Agreement,&#xD;
+    Opportunity::Viable&lt;br />&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-3ro_470cuHn0OAw3zG6o9g" name=",_yhAR0XadEeK4jM7SNG5wsw" guid="-3ro_470cuHn0OAw3zG6o9g">
+    <mainDescription>&lt;h3>&#xD;
+    Ensure Stakeholder Satisfaction&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Share the results of the development work with the stakeholders to gain their acceptance of the system produced and&#xD;
+    verify that the opportunity has been successfully addressed.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Ensure the satisfaction of the stakeholders to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Get approval for the deployment of the system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Validate that the system is of benefit to the stakeholders.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Validate that the system is acceptable to the stakeholders.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Independently verify that the system delivered is the one required.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Confirm the expected benefit that the system will provide.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Stakeholders, Opportunity, Requirements, Software System&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Stakeholders::Satisfied for Deployment, Opportunity::Addressed&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-Bu-p1_dyv8O1NceVQZrKGQ" name=",_9iEykHadEeK4jM7SNG5wsw" guid="-Bu-p1_dyv8O1NceVQZrKGQ">
+    <mainDescription>&lt;h3>&#xD;
+    Use the System&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Observe the use the system in an operational environment and how it benefits the stakeholders.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Use the system to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Generate measurable benefits.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Gather feedback from the use of the system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Confirm that the system meets the expectations of the stakeholders.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Establish the return-on-investment for the system.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Stakeholders, Opportunity, Requirements, Software System&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Stakeholders::Satisfied in Use, Opportunity::Benefit Accrued&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+</xmi:XMI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dT0ZtcnoLPLix-sPy-j5qg" name="kernel,_dvYW4HX2EeKWJu8IiPDXrQ" guid="-dT0ZtcnoLPLix-sPy-j5qg" changeDate="2013-02-14T11:16:11.566+0100">
+  <mainDescription>&lt;p>&#xD;
+    The Software Engineering Kernel is a stripped-down, light-weight set of definitions that captures the essence of&#xD;
+    effective, scalable software engineering in a practice independent way.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The focus of the kernel is to define a common basis for the definition of software development practices, one that&#xD;
+    allows them to be defined and applied independently. The practices can then be mixed and matched to create specific&#xD;
+    software engineering methods tailored to the specific needs of a specific software engineering community, project, team&#xD;
+    or organization. The kernel has many benefits including:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Allowing you to apply as few or as many practices as you like.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allowing you to easily capture your current practices in a reusable and extendable way.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allowing you to evaluate your current practices against a technique neutral control framework.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allowing you to align and compare your on-going work and methods to a common, technique neutral framework, and then&#xD;
+        to complement it with any missing critical practices or process elements.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Allowing you to start with a minimal method adding practices as the endeavor progresses and when you need them.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

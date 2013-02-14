@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AfNbPK66knIeha9RnHGuTQ" name="new_checklist,_7mm9sHaYEeK4jM7SNG5wsw" guid="-AfNbPK66knIeha9RnHGuTQ" changeDate="2013-02-14T12:24:06.464+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives have agreed to take on their responsibilities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives are authorized to carry out their responsibilities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The collaboration approach among the stakeholder representatives has been agreed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives support and respect the team's way of working.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

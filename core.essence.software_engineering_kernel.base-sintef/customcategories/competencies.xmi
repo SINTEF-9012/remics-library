@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HPdP2yuK-YQqt6rR-m2nMw" name="competencies,_6_bUEHX3EeKWJu8IiPDXrQ" guid="-HPdP2yuK-YQqt6rR-m2nMw" changeDate="2013-02-14T11:18:27.222+0100">
+  <mainDescription>Competencies are representations of the key competencies required to do software engineering.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

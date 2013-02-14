@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qgVZnTmiwO3O8n8wOohX-w" name="new_checklist,_1Fmc4HaaEeK4jM7SNG5wsw" guid="-qgVZnTmiwO3O8n8wOohX-w" changeDate="2013-02-14T12:41:07.999+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        An idea for a way of improving current ways of working, increasing market share or applying a new or innovative&#xD;
+        software system has been identified.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        At least one of the stakeholders wishes to make an investment in better understanding the opportunity and the value&#xD;
+        associated with addressing it.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The other stakeholders who share the opportunity have been identified.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

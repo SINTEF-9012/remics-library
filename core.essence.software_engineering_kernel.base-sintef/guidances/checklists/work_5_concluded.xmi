@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g7q1ACZW_DRilWWfDHLkOQ" name="new_checklist,_idk0AHapEeK4jM7SNG5wsw" guid="-g7q1ACZW_DRilWWfDHLkOQ" changeDate="2013-02-14T16:51:02.817+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        All outstanding tasks are administrative housekeeping or related to preparing the next piece of work.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Work results have been achieved.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder(s) has accepted the resulting software system.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

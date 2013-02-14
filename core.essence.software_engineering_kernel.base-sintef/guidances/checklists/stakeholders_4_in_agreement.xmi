@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MNVUA7Fy3WpPK8zS_KoofQ" name="new_checklist,_uvMJ4HaZEeK4jM7SNG5wsw" guid="-MNVUA7Fy3WpPK8zS_KoofQ" changeDate="2013-02-14T12:31:34.867+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives have agreed upon their minimal expectations for the next deployment of the new&#xD;
+        system.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives are happy with their involvement in the work.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives agree that their input is valued by the team and treated with respect.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The team members agree that their input is valued by the stakeholder representatives and treated with respect.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives agree with how their different priorities and perspectives are being balanced to&#xD;
+        provide a clear direction for the team.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

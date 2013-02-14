@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YP75c6DaoEfqGi9fjXuEdw" name="new_checklist,_lXMFcHapEeK4jM7SNG5wsw" guid="-YP75c6DaoEfqGi9fjXuEdw" changeDate="2013-02-14T17:00:16.389+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Principles and constraints are committed to by the team.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Principles and constraints are agreed to by the stakeholders.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The tool needs of the work and its stakeholders are agreed.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        A recommendation for the approach to be taken is available.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The context within which the team will operate is understood.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The constraints that apply to the selection, acquisition and use of practices and tools are known.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

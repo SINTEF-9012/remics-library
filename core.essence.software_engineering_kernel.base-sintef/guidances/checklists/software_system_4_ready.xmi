@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Oe7A_6CisbOiEKxNiJV7gQ" name="new_checklist,_qyx9sHakEeK4jM7SNG5wsw" guid="-Oe7A_6CisbOiEKxNiJV7gQ" changeDate="2013-02-14T13:58:45.182+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Installation and other user documentation are available.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives accept the system as fit-for-purpose.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholder representatives want to make the system operational.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Operational support is in place.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

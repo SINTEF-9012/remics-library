@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_H3DjQXX3EeKWJu8IiPDXrQ" guid="_H3DjQXX3EeKWJu8IiPDXrQ">
+    <resourceDescriptors xmi:id="_H3DjQnX3EeKWJu8IiPDXrQ" id="-D6jwTVyIF1lB0t_o8u6xmA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_13QF0HamEeK4jM7SNG5wsw" id="-eNi1P0yyIhfMXKKtdK4b6A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_9onJUHamEeK4jM7SNG5wsw" id="-QyE3kURLkPj14qqwEGLkkQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Awk_0HanEeK4jM7SNG5wsw" id="-OzTj2O-kE3IAmPot-L2BfA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_N4kJwHanEeK4jM7SNG5wsw" id="--Y_7CjdPYtUQwd6AlMs1cw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_TXR1MHanEeK4jM7SNG5wsw" id="-ptmXxSpuQ6c8uc7ZWz7fzw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_WnBHoHanEeK4jM7SNG5wsw" id="-fM50xSgVNH1H1dUdcZhX8w" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_H2wBQHX3EeKWJu8IiPDXrQ" name="solution" guid="_H2wBQHX3EeKWJu8IiPDXrQ">
+    <methodElementProperty xmi:id="_H2wBQnX3EeKWJu8IiPDXrQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_DWxSIHX7EeKWJu8IiPDXrQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_f7YrcHamEeK4jM7SNG5wsw" name="Understand the Requirements" guid="_f7YrcHamEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_f7YrcXamEeK4jM7SNG5wsw" name="Understand the Requirements" guid="_f7YrcXamEeK4jM7SNG5wsw" presentationName="Understand the Requirements" briefDescription="Establish a shared understanding of what the system to be produced must do." superActivities="_H2wBQXX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-eNi1P0yyIhfMXKKtdK4b6A" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#-eNi1P0yyIhfMXKKtdK4b6A"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_i9oUcHamEeK4jM7SNG5wsw" name="Shape the System" guid="_i9oUcHamEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_i9oUcXamEeK4jM7SNG5wsw" name="Shape the System" guid="_i9oUcXamEeK4jM7SNG5wsw" presentationName="Shape the System" briefDescription="Shape the system so that it is easy to develop, change and maintain, and can cope with current and expected future demands." superActivities="_H2wBQXX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-QyE3kURLkPj14qqwEGLkkQ" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#-QyE3kURLkPj14qqwEGLkkQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_n8DWQHamEeK4jM7SNG5wsw" name="Implement the System" guid="_n8DWQHamEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_n8DWQXamEeK4jM7SNG5wsw" name="Implement the System" guid="_n8DWQXamEeK4jM7SNG5wsw" presentationName="Implement the System" briefDescription="Build a system by implementing, testing and integrating one or more system elements. " superActivities="_H2wBQXX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-OzTj2O-kE3IAmPot-L2BfA" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#-OzTj2O-kE3IAmPot-L2BfA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ppg9oHamEeK4jM7SNG5wsw" name="Test the System" guid="_ppg9oHamEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_ppg9oXamEeK4jM7SNG5wsw" name="Test the System" guid="_ppg9oXamEeK4jM7SNG5wsw" presentationName="Test the System" briefDescription="Verify that the system produced meets the stakeholders’ requirements." superActivities="_H2wBQXX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="--Y_7CjdPYtUQwd6AlMs1cw" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#--Y_7CjdPYtUQwd6AlMs1cw"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rB5F0HamEeK4jM7SNG5wsw" name="Deploy the System" guid="_rB5F0HamEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_rB5F0XamEeK4jM7SNG5wsw" name="Deploy the System" guid="_rB5F0XamEeK4jM7SNG5wsw" presentationName="Deploy the System" briefDescription="Take the tested system and make it available for use outside the development team. " superActivities="_H2wBQXX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-ptmXxSpuQ6c8uc7ZWz7fzw" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#-ptmXxSpuQ6c8uc7ZWz7fzw"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_s2zZAHamEeK4jM7SNG5wsw" name="Operate the System" guid="_s2zZAHamEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_s2zZAXamEeK4jM7SNG5wsw" name="Operate the System" guid="_s2zZAXamEeK4jM7SNG5wsw" presentationName="Operate the System" briefDescription="Support the use of the software system in the live environment." superActivities="_H2wBQXX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-fM50xSgVNH1H1dUdcZhX8w" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#-fM50xSgVNH1H1dUdcZhX8w"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_H2wBQXX3EeKWJu8IiPDXrQ" name="solution" guid="_H2wBQXX3EeKWJu8IiPDXrQ" presentationName="Solution" briefDescription="This area of concern covers everything to do with the specification and development of the software system." breakdownElements="_f7YrcXamEeK4jM7SNG5wsw _i9oUcXamEeK4jM7SNG5wsw _n8DWQXamEeK4jM7SNG5wsw _ppg9oXamEeK4jM7SNG5wsw _rB5F0XamEeK4jM7SNG5wsw _s2zZAXamEeK4jM7SNG5wsw">
+      <presentation xmi:id="-D6jwTVyIF1lB0t_o8u6xmA" href="uma://-D6jwTVyIF1lB0t_o8u6xmA#-D6jwTVyIF1lB0t_o8u6xmA"/>
+      <defaultContext href="uma://_D6kTUMlqEeCrm66MgLsmlQ#_CO1WgHX3EeKWJu8IiPDXrQ"/>
+      <validContext href="uma://_D6kTUMlqEeCrm66MgLsmlQ#_CO1WgHX3EeKWJu8IiPDXrQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

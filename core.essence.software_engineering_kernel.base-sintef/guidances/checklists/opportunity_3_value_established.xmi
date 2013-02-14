@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hMP3K-Q_WG0Bnm67gFFfZw" name="new_checklist,_GnVOQHabEeK4jM7SNG5wsw" guid="-hMP3K-Q_WG0Bnm67gFFfZw" changeDate="2013-02-14T12:41:55.114+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The value of addressing the opportunity has been quantified either in absolute terms or in returns or savings per&#xD;
+        time period (e.g. per annum).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The impact of the solution on the stakeholders is understood.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The value that the software system offers to the stakeholders that fund and use the software system is understood.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The success criteria by which the deployment of the software system is to be judged are clear.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The desired outcomes required of the solution are clear and quantified.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

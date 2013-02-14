@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hjKKF4fr4YBBaBFMwT6KwA" name="new_checklist,_e__S0HapEeK4jM7SNG5wsw" guid="-hjKKF4fr4YBBaBFMwT6KwA" changeDate="2013-02-14T16:49:25.902+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The result required of the work being initiated is clear.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Any constraints on the work’s performance are clearly identified.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholders that will fund the work are known.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The initiator of the work is clearly identified.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The stakeholders that will accept the results are known.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The source of funding is clear.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The priority of the work is clear.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

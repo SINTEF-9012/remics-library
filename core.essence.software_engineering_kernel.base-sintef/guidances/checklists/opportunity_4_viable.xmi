@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qjNS_fywpNJIRj_iM_ChnQ" name="new_checklist,_LL0GEHabEeK4jM7SNG5wsw" guid="-qjNS_fywpNJIRj_iM_ChnQ" changeDate="2013-02-14T12:42:20.316+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A solution has been outlined.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The indications are that the solution can be developed and deployed within constraints.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The risks associated with the solution are acceptable and manageable.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The indicative (ball-park) costs of the solution are less than the anticipated value of the opportunity.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The reasons for the development of a software-based solution are understood by all members of the team.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        It is clear that the pursuit of the opportunity is viable.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

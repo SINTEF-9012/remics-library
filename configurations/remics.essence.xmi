@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_CO1WgHX3EeKWJu8IiPDXrQ" name="remics.essence" guid="_CO1WgHX3EeKWJu8IiPDXrQ">
+  <methodPluginSelection href="uma://_fsD_oHXuEeKWJu8IiPDXrQ#_fsD_oHXuEeKWJu8IiPDXrQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_F2I0YHX3EeKWJu8IiPDXrQ#_F2I0YHX3EeKWJu8IiPDXrQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_fsD_oHXuEeKWJu8IiPDXrQ#_fsD_rXXuEeKWJu8IiPDXrQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_fsD_oHXuEeKWJu8IiPDXrQ#_fsD_oXXuEeKWJu8IiPDXrQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_H2wBQHX3EeKWJu8IiPDXrQ#_H2wBQHX3EeKWJu8IiPDXrQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_Jcny4HX3EeKWJu8IiPDXrQ#_Jcny4HX3EeKWJu8IiPDXrQ"/>
+</org.eclipse.epf.uma:MethodConfiguration>

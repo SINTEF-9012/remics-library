@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eHGarkSsqtWRPvGPWFU3hw" name="new_checklist,_bsgI0HapEeK4jM7SNG5wsw" guid="-eHGarkSsqtWRPvGPWFU3hw" changeDate="2013-02-14T14:34:47.836+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        The team consistently meets its commitments.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The team continuously adapts to the changing context.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The team identifies and addresses problems without outside help.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Effective progress is being achieved with minimal avoidable backtracking and reworking.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Wasted work, and the potential for wasted work are continuously eliminated.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

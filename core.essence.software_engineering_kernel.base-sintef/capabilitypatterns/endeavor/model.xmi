@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Jc7U4HX3EeKWJu8IiPDXrQ" guid="_Jc7U4HX3EeKWJu8IiPDXrQ">
+    <resourceDescriptors xmi:id="_Jc7U4XX3EeKWJu8IiPDXrQ" id="-PFM6jz7tZ85JAgY8bhYUaQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nNzKUHbAEeK4jM7SNG5wsw" id="-s3YG8avRqq5lbvSjQFxP7Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_22evYHbAEeK4jM7SNG5wsw" id="-mmgjfpAHgQulqR0KnY8i_g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="__3xwwHbAEeK4jM7SNG5wsw" id="-A8Kt-uTn7YBW8SX-Deje8A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_K2VwEHbBEeK4jM7SNG5wsw" id="-Xw2ciwunYrEsbsUKMy9xLQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_T3zJgHbBEeK4jM7SNG5wsw" id="-9_Z55zCAQukzQqtqLpvWNA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_Jcny4HX3EeKWJu8IiPDXrQ" name="endeavor" guid="_Jcny4HX3EeKWJu8IiPDXrQ">
+    <methodElementProperty xmi:id="_Jcny4nX3EeKWJu8IiPDXrQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_iRAdEHX4EeKWJu8IiPDXrQ" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_edLpQHbAEeK4jM7SNG5wsw" name="Prepare to do the Work" guid="_edLpQHbAEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_edMQUHbAEeK4jM7SNG5wsw" name="Prepare to do the Work" guid="_edMQUHbAEeK4jM7SNG5wsw" presentationName="Prepare to do the Work" briefDescription="Set up the team and its working environment." superActivities="_Jcny4XX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-s3YG8avRqq5lbvSjQFxP7Q" href="uma://-PFM6jz7tZ85JAgY8bhYUaQ#-s3YG8avRqq5lbvSjQFxP7Q"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e8IPEHbAEeK4jM7SNG5wsw" name="Coordinate Activity" guid="_e8IPEHbAEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_e8IPEXbAEeK4jM7SNG5wsw" name="Coordinate Activity" guid="_e8IPEXbAEeK4jM7SNG5wsw" presentationName="Coordinate Activity" briefDescription="Co-ordinate and direct the team’s work. " superActivities="_Jcny4XX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-mmgjfpAHgQulqR0KnY8i_g" href="uma://-PFM6jz7tZ85JAgY8bhYUaQ#-mmgjfpAHgQulqR0KnY8i_g"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fX0skHbAEeK4jM7SNG5wsw" name="Support the Team" guid="_fX0skHbAEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_fX1ToHbAEeK4jM7SNG5wsw" name="Support the Team" guid="_fX1ToHbAEeK4jM7SNG5wsw" presentationName="Support the Team" briefDescription="Help the team members to help themselves, collaborate and improve their way of working. " superActivities="_Jcny4XX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-A8Kt-uTn7YBW8SX-Deje8A" href="uma://-PFM6jz7tZ85JAgY8bhYUaQ#-A8Kt-uTn7YBW8SX-Deje8A"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fzriIHbAEeK4jM7SNG5wsw" name="Track Progress" guid="_fzriIHbAEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_fzriIXbAEeK4jM7SNG5wsw" name="Track Progress" guid="_fzriIXbAEeK4jM7SNG5wsw" presentationName="Track Progress" briefDescription="Measure and assess the progress made by the team. " superActivities="_Jcny4XX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-Xw2ciwunYrEsbsUKMy9xLQ" href="uma://-PFM6jz7tZ85JAgY8bhYUaQ#-Xw2ciwunYrEsbsUKMy9xLQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gSPGYHbAEeK4jM7SNG5wsw" name="Stop the Work" guid="_gSPGYHbAEeK4jM7SNG5wsw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_gSPGYXbAEeK4jM7SNG5wsw" name="Stop the Work" guid="_gSPGYXbAEeK4jM7SNG5wsw" presentationName="Stop the Work" briefDescription="Shut-down the software engineering endeavor and handover the team’s responsibilities." superActivities="_Jcny4XX3EeKWJu8IiPDXrQ">
+        <presentation xmi:id="-9_Z55zCAQukzQqtqLpvWNA" href="uma://-PFM6jz7tZ85JAgY8bhYUaQ#-9_Z55zCAQukzQqtqLpvWNA"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_Jcny4XX3EeKWJu8IiPDXrQ" name="endeavor" guid="_Jcny4XX3EeKWJu8IiPDXrQ" presentationName="Endeavor" briefDescription="This area of concern contains everything to do with the team, and the way that they approach their work. " breakdownElements="_edMQUHbAEeK4jM7SNG5wsw _e8IPEXbAEeK4jM7SNG5wsw _fX1ToHbAEeK4jM7SNG5wsw _fzriIXbAEeK4jM7SNG5wsw _gSPGYXbAEeK4jM7SNG5wsw">
+      <presentation xmi:id="-PFM6jz7tZ85JAgY8bhYUaQ" href="uma://-PFM6jz7tZ85JAgY8bhYUaQ#-PFM6jz7tZ85JAgY8bhYUaQ"/>
+      <defaultContext href="uma://_D6kTUMlqEeCrm66MgLsmlQ#_CO1WgHX3EeKWJu8IiPDXrQ"/>
+      <validContext href="uma://_D6kTUMlqEeCrm66MgLsmlQ#_CO1WgHX3EeKWJu8IiPDXrQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

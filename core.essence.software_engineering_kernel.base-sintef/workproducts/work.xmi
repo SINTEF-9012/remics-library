@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YJMGHuniSogZKTu2k6NKdw" name="new_artifact,_JLNeEHaMEeK4jM7SNG5wsw" guid="-YJMGHuniSogZKTu2k6NKdw" changeDate="2013-02-14T10:52:10.470+0100">
+  <mainDescription>&lt;p>&#xD;
+    Activity involving mental or physical effort done in order to achieve a result.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    In the context of software engineering, work is everything that the team does to meet the goals of producing a software&#xD;
+    system matching the requirements, and addressing the opportunity, presented by the stakeholders. The work is guided by&#xD;
+    the practices that make up the team’s way-of-working.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

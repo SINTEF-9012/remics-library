@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-PFM6jz7tZ85JAgY8bhYUaQ" name="endeavor,_Jcny4XX3EeKWJu8IiPDXrQ" guid="-PFM6jz7tZ85JAgY8bhYUaQ">
+    <mainDescription>&lt;p>&#xD;
+    This area of concern contains everything to do with the team, and the way that they approach their work.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Software engineering is a significant endeavor that typically takes many weeks to complete, affects many different&#xD;
+    people (the stakeholders) and involves a development team (rather than a single developer). Any practical method must&#xD;
+    describe a set of practices to effectively plan, lead and monitor the efforts of the team.&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-s3YG8avRqq5lbvSjQFxP7Q" name="Prepare to do the Work,_edMQUHbAEeK4jM7SNG5wsw" guid="-s3YG8avRqq5lbvSjQFxP7Q">
+    <mainDescription>&lt;h3>&#xD;
+    Prepare to do the Work&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Set up the team and its working environment. Understand and commit to completing the work.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Prepare to do the work to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Put the initial plans in place.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Establish the initial way of working.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Assemble and motivate the initial project team.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Secure funding and resources.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Stakeholders, Opportunity, Requirements&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Team::Seeded, Way of Working::Principles Established, Way of Working::Foundation&#xD;
+    Established, Work::Initiated, Work::Prepared&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-mmgjfpAHgQulqR0KnY8i_g" name="2,_e8IPEXbAEeK4jM7SNG5wsw" guid="-mmgjfpAHgQulqR0KnY8i_g">
+    <mainDescription>&lt;h3>&#xD;
+    Coordinate Activity&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Co-ordinate and direct the team’s work. This includes all ongoing planning and re-planning of the work, and adding any&#xD;
+    additional resources needed to complete the formation of the team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Coordinate activity to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Select and prioritize work.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Adapt plans to reflect results.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Get the right people on the team.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ensure that objectives are met.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Handle change.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Requirements, Team, Work, Way of Working&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Team::Formed, Work::Started, Work::Under Control&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-A8Kt-uTn7YBW8SX-Deje8A" name="3,_fX1ToHbAEeK4jM7SNG5wsw" guid="-A8Kt-uTn7YBW8SX-Deje8A">
+    <mainDescription>&lt;p>&#xD;
+    Help the team members to help themselves, collaborate and improve their way of working.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Support the team to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Improve team working.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Overcome any obstacles.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Improve ways of working.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Team, Work, Way of Working&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Team::Collaborating, Way of Working::In Use, Way of Working::In Place&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-Xw2ciwunYrEsbsUKMy9xLQ" name="4,_fzriIXbAEeK4jM7SNG5wsw" guid="-Xw2ciwunYrEsbsUKMy9xLQ">
+    <mainDescription>&lt;h3>&#xD;
+    Track Progress&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Measure and assess the progress made by the team.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Track progress to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Evaluate the results of work done.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Measure progress.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identify impediments.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Requirements, Team, Work, Way of Working&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Team::Performing, Way of Working::Working Well, Work::Under Control,&#xD;
+    Work::Concluded&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-9_Z55zCAQukzQqtqLpvWNA" name="5,_gSPGYXbAEeK4jM7SNG5wsw" guid="-9_Z55zCAQukzQqtqLpvWNA">
+    <mainDescription>&lt;h3>&#xD;
+    Stop the Work&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    Shut-down the software engineering endeavor and handover the team’s responsibilities.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Stop the work to:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Close the work.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Handover any outstanding responsibilities.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Handover any outstanding work items.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Stand down the team.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Archive all work done.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Input:&lt;/strong> Requirements, Team, Work, Way of Working&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Completion Criteria:&lt;/strong> Team::Adjourned, Way of Working::Retired, Work::Closed&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+</xmi:XMI>

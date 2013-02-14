@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LgFGfSUqSHuLrowy0rpCKA" name="new_checklist,_pFCQMHapEeK4jM7SNG5wsw" guid="-LgFGfSUqSHuLrowy0rpCKA" changeDate="2013-02-14T17:01:52.772+0100">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Team members are making progress as planned by using and adapting the way-of-working to suit their current context.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The team naturally applies the practices without thinking about them&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The tools naturally support the way that the team works.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        The team continually tunes their use of the practices and tools.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

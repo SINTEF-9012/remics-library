@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--u0JjaOrq1tvTUYs-dFjfw" name="endeavor,_vfRgEHX2EeKWJu8IiPDXrQ" guid="--u0JjaOrq1tvTUYs-dFjfw" changeDate="2013-02-14T17:05:35.870+0100">
+  <mainDescription>&lt;p>&#xD;
+    This area of concern contains everything to do with the team, and the way that they approach their work.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Software engineering is a significant endeavor that typically takes many weeks to complete, affects many different&#xD;
+    people (the stakeholders) and involves a development team (rather than a single developer). Any practical method must&#xD;
+    describe a set of practices to effectively plan, lead and monitor the efforts of the team.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

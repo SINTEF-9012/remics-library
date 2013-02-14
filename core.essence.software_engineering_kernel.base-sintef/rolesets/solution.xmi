@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-haFGQl5hlpv0dGRuUgRMww" name="solution,_FIOJAHX4EeKWJu8IiPDXrQ" guid="-haFGQl5hlpv0dGRuUgRMww">
+  <mainDescription>&lt;p>&#xD;
+    This area of concern covers everything to do with the specification and development of the software system.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The goal of software engineering is to develop working software as part of the solution to some problem. Any method&#xD;
+    adopted must describe a set of practices to help the team produce good quality software in a productive and&#xD;
+    collaborative fashion.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
