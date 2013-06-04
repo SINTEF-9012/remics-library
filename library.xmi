@@ -99,6 +99,7 @@
     <subManagers xmi:id="_1m5p0HXvEeKWJu8IiPDXrQ" href="uma://_1m30oHXvEeKWJu8IiPDXrQ#_1m5p0HXvEeKWJu8IiPDXrQ"/>
     <subManagers xmi:id="_BuvlYHXwEeKWJu8IiPDXrQ" href="uma://_BusiEHXwEeKWJu8IiPDXrQ#_BuvlYHXwEeKWJu8IiPDXrQ"/>
     <subManagers xmi:id="_wWcRQHX5EeKWJu8IiPDXrQ" href="uma://_wWWxsHX5EeKWJu8IiPDXrQ#_wWcRQHX5EeKWJu8IiPDXrQ"/>
+    <subManagers xmi:id="_6Ab_IeF4Edyp34pwdTOSVQ" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_IeF4Edyp34pwdTOSVQ"/>
     <resourceDescriptors xmi:id="_D6k6YclqEeCrm66MgLsmlQ" id="_D6kTUMlqEeCrm66MgLsmlQ" uri=""/>
     <resourceDescriptors xmi:id="_MXC68clrEeCrm66MgLsmlQ" id="_MRPloEFXEdy9ENCpSugIjA" uri="core.default.cat_def.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_MXbVcclrEeCrm66MgLsmlQ" id="_vsno4EKmEdyrauqpmnA8jQ" uri="core.default.nav_view.base/plugin.xmi"/>
@@ -198,6 +199,7 @@
     <resourceDescriptors xmi:id="_1m5p0XXvEeKWJu8IiPDXrQ" id="_1m30oHXvEeKWJu8IiPDXrQ" uri="core.essence.software_engineering_kernel.extend_development-sintef/plugin.xmi"/>
     <resourceDescriptors xmi:id="_BuvlYXXwEeKWJu8IiPDXrQ" id="_BusiEHXwEeKWJu8IiPDXrQ" uri="core.essence.software_engineering_kernel.extend_task_management-sintef/plugin.xmi"/>
     <resourceDescriptors xmi:id="_wWcRQXX5EeKWJu8IiPDXrQ" id="_wWWxsHX5EeKWJu8IiPDXrQ" uri="publish.essence.base-sintef/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_TuUMkM0UEeKXZ8LmJZzn7w" id="_6Ab_EOF4Edyp34pwdTOSVQ" uri="practice.mgmt.scrum.base-sintef/plugin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodLibrary xmi:id="_D6kTUMlqEeCrm66MgLsmlQ" name="remicsMethodologyEpf" guid="_D6kTUMlqEeCrm66MgLsmlQ" briefDescription="Epf represetantion of the remics development methodology. Remics methodology aims to provide a better support for the migration of legacy system to cloud infrastructure through the application of new tools and methods.">
     <methodElementProperty xmi:id="_D7pRYMlqEeCrm66MgLsmlQ" name="library_synFree" value="true"/>
@@ -299,5 +301,6 @@
     <methodPlugins xmi:id="_1m30oHXvEeKWJu8IiPDXrQ" href="uma://_1m30oHXvEeKWJu8IiPDXrQ#_1m30oHXvEeKWJu8IiPDXrQ"/>
     <methodPlugins xmi:id="_BusiEHXwEeKWJu8IiPDXrQ" href="uma://_BusiEHXwEeKWJu8IiPDXrQ#_BusiEHXwEeKWJu8IiPDXrQ"/>
     <methodPlugins xmi:id="_wWWxsHX5EeKWJu8IiPDXrQ" href="uma://_wWWxsHX5EeKWJu8IiPDXrQ#_wWWxsHX5EeKWJu8IiPDXrQ"/>
+    <methodPlugins xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
   </org.eclipse.epf.uma:MethodLibrary>
 </xmi:XMI>
