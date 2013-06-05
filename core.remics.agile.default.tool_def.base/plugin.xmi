@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="__5_LkUUNEeKK_ttnBPx9Rg" guid="__5_LkUUNEeKK_ttnBPx9Rg"/>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="__52BoEUNEeKK_ttnBPx9Rg" name="tool.remics.agile.base" guid="__52BoEUNEeKK_ttnBPx9Rg" changeDate="2013-01-11T13:14:04.280+0100">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="__52BoEUNEeKK_ttnBPx9Rg" name="core.remics.agile.default.tool_def.base" guid="__52BoEUNEeKK_ttnBPx9Rg" changeDate="2013-06-05T13:09:56.391+0200">
     <methodElementProperty xmi:id="_wldrAFl5EeK7IIGTa_iioQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_YSXgIM3QEeKOw8KXk47y0g" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__52BoUUNEeKK_ttnBPx9Rg" name="Content" guid="__52BoUUNEeKK_ttnBPx9Rg">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__52BokUNEeKK_ttnBPx9Rg" name="Categories" guid="__52BokUNEeKK_ttnBPx9Rg">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__52Bo0UNEeKK_ttnBPx9Rg" name="Domains" guid="__52Bo0UNEeKK_ttnBPx9Rg"/>

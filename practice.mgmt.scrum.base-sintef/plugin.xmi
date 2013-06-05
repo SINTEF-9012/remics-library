@@ -4,7 +4,6 @@
     <subManagers xmi:id="_rxrMgQ-NEeGvZJJrUZdBHA" href="uma://_rsd8YA-NEeGvZJJrUZdBHA#_rxrMgQ-NEeGvZJJrUZdBHA"/>
     <resourceDescriptors xmi:id="_SCv2ouF7Edyp34pwdTOSVQ" id="-u_0D0nwGoZhpANLeqrq14A" uri="roles/scrum_team.xmi"/>
     <resourceDescriptors xmi:id="_JIsokOGCEdyp34pwdTOSVQ" id="-v5-z0Dm_JF0P2xtKd0FDrA" uri="workproducts/product_backlog.xmi"/>
-    <resourceDescriptors xmi:id="_RWaQ4eGCEdyp34pwdTOSVQ" id="-_aNvcFLkG6dHmKhaz93BwA" uri="guidances/supportingmaterials/scrum_copyright.xmi"/>
     <resourceDescriptors xmi:id="_MDvQYOvVEdyEBJO-n5l0YA" id="--OmeeCdOSH1ki1_i9TN0kg" uri="roles/product_owner.xmi"/>
     <resourceDescriptors xmi:id="_chOZsOvZEdyEBJO-n5l0YA" id="-yuXxE_O0V_WcpgWeUmX8fQ" uri="roles/scrum_master.xmi"/>
     <resourceDescriptors xmi:id="_J5sZUO4HEdyKhak5q-de9w" id="-2Wj3V9GSZ2lAtr6E5xISGQ" uri="tasks/sprint_planning_meeting.xmi"/>
@@ -37,7 +36,7 @@
     <resourceDescriptors xmi:id="_F0buwIcPEeKDAPAbcNl48A" id="-YG8aUAJJSP90-g5KM_jbSg" uri="workproducts/sprint_goal.xmi"/>
     <resourceDescriptors xmi:id="_wTGZoF5UEd22Gu98eFOlrQ" id="-vYDEjOsyiDLCq28_kSwqLg" uri="guidances/termdefinitions/sprint_goal.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="practice.mgmt.scrum.base-sintef" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="This plugin defines the base Scrum practice." changeDate="2013-06-04T14:37:34.072+0200" copyrightStatement="_4kVeYOGBEdyp34pwdTOSVQ">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="practice.mgmt.scrum.base-sintef" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="This plugin defines the base Scrum practice." changeDate="2013-06-05T13:18:40.829+0200">
     <methodElementProperty xmi:id="_kDCTINeMEd-Mq_S1iaxctg" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_h8rlMM0TEeKXZ8LmJZzn7w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
@@ -72,17 +71,20 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_HOF4Edyp34pwdTOSVQ" name="CoreContent" guid="_6Ab_HOF4Edyp34pwdTOSVQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Arzq4OF5Edyp34pwdTOSVQ" name="scrum" guid="_Arzq4OF5Edyp34pwdTOSVQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QcnRMOF5Edyp34pwdTOSVQ" name="product_owner" guid="_QcnRMOF5Edyp34pwdTOSVQ" presentationName="Product Owner" briefDescription="The Product Owner represents the interests of all stakeholders, defines the features of the product and manages the Product Backlog." responsibleFor="_OZIPIOF8Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QcnRMOF5Edyp34pwdTOSVQ" name="product_owner" guid="_QcnRMOF5Edyp34pwdTOSVQ" briefDescription="The Product Owner represents the interests of all stakeholders, defines the features of the product and manages the Product Backlog." variabilityType="contributes" responsibleFor="_OZIPIOF8Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_4L4UIIKJEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="--OmeeCdOSH1ki1_i9TN0kg" href="uma://--OmeeCdOSH1ki1_i9TN0kg#--OmeeCdOSH1ki1_i9TN0kg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Bw-twOF6Edyp34pwdTOSVQ" name="scrum_master" guid="_Bw-twOF6Edyp34pwdTOSVQ" presentationName="Scrum Master" briefDescription="The Scrum Master is responsible for ensuring Scrum is understood and enacted.&#xD;&#xA;&#xD;&#xA;The ScrumMaster facilitates the daily scrum and becomes responsible for removing any obstacles that are brought up by the team during those meetings. ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Bw-twOF6Edyp34pwdTOSVQ" name="scrum_master" guid="_Bw-twOF6Edyp34pwdTOSVQ" briefDescription="The Scrum Master is responsible for ensuring Scrum is understood and enacted.&#xD;&#xA;&#xD;&#xA;The ScrumMaster facilitates the daily scrum and becomes responsible for removing any obstacles that are brought up by the team during those meetings. " variabilityType="contributes">
             <methodElementProperty xmi:id="_T6odsIKLEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-yuXxE_O0V_WcpgWeUmX8fQ" href="uma://-yuXxE_O0V_WcpgWeUmX8fQ#-yuXxE_O0V_WcpgWeUmX8fQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O65KUOF6Edyp34pwdTOSVQ" name="scrum_team" guid="_O65KUOF6Edyp34pwdTOSVQ" presentationName="Scrum Team" briefDescription="The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master." responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ _6p8zUIcOEeKDAPAbcNl48A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O65KUOF6Edyp34pwdTOSVQ" name="scrum_team" guid="_O65KUOF6Edyp34pwdTOSVQ" briefDescription="The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master." variabilityType="contributes" responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ _6p8zUIcOEeKDAPAbcNl48A">
             <methodElementProperty xmi:id="_glSksIKGEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-u_0D0nwGoZhpANLeqrq14A" href="uma://-u_0D0nwGoZhpANLeqrq14A#-u_0D0nwGoZhpANLeqrq14A"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OZIPIOF8Edyp34pwdTOSVQ" name="product_backlog" guid="_OZIPIOF8Edyp34pwdTOSVQ" presentationName="Product Backlog" briefDescription="The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product.">
             <methodElementProperty xmi:id="_vYXOgIcHEeKDAPAbcNl48A" name="me_edited" value="true"/>
@@ -157,11 +159,11 @@
             <presentation xmi:id="-TMAqqwL18VXjxXqVxv9bbA" href="uma://-TMAqqwL18VXjxXqVxv9bbA#-TMAqqwL18VXjxXqVxv9bbA"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="uma://_vsno4EKmEdyrauqpmnA8jQ#__nHToFndEd2EdJKkAyeBng"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_gFV9sA-MEeGvZJJrUZdBHA" name="how_to_adopt_scrum" guid="_gFV9sA-MEeGvZJJrUZdBHA" presentationName="How to adopt the Scrum (Essentials) practice." briefDescription="This roadmap describes how to adopt the Scrum (Essentials) practice." conceptsAndPapers="_i0jJsBCvEeGhfJHCQDJMKQ _tprjYBCzEeGhfJHCQDJMKQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_gFV9sA-MEeGvZJJrUZdBHA" name="how_to_adopt_scrum" guid="_gFV9sA-MEeGvZJJrUZdBHA" presentationName="How to adopt the Scrum practice." briefDescription="This roadmap describes how to adopt the Scrum practice." conceptsAndPapers="_i0jJsBCvEeGhfJHCQDJMKQ _tprjYBCzEeGhfJHCQDJMKQ">
             <methodElementProperty xmi:id="_MAhVkIKFEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-yoVWQ8Fd-WyblXjvh49hTA" href="uma://-yoVWQ8Fd-WyblXjvh49hTA#-yoVWQ8Fd-WyblXjvh49hTA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_hhlSMA-MEeGvZJJrUZdBHA" name="scrum" guid="_hhlSMA-MEeGvZJJrUZdBHA" presentationName="Scrum (Essentials)" briefDescription="This practice describes how to apply the main principles of the Scrum Guide." contentReferences="_tprjYBCzEeGhfJHCQDJMKQ _i0jJsBCvEeGhfJHCQDJMKQ __uNYkPVgEdyMdecrgpMbRg _OZIPIOF8Edyp34pwdTOSVQ _Q5Ki8OF8Edyp34pwdTOSVQ _6p8zUIcOEeKDAPAbcNl48A _oSM0AOF-Edyp34pwdTOSVQ _4gCKAOF9Edyp34pwdTOSVQ _sKJ9AOF-Edyp34pwdTOSVQ _i_fkQOF-Edyp34pwdTOSVQ _EChNoBC0EeGhfJHCQDJMKQ _QcnRMOF5Edyp34pwdTOSVQ _Bw-twOF6Edyp34pwdTOSVQ _O65KUOF6Edyp34pwdTOSVQ _gFV9sA-MEeGvZJJrUZdBHA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_hhlSMA-MEeGvZJJrUZdBHA" name="scrum" guid="_hhlSMA-MEeGvZJJrUZdBHA" presentationName="Scrum" briefDescription="This practice describes how to apply the main principles of the Scrum Guide." contentReferences="_tprjYBCzEeGhfJHCQDJMKQ _i0jJsBCvEeGhfJHCQDJMKQ __uNYkPVgEdyMdecrgpMbRg _OZIPIOF8Edyp34pwdTOSVQ _Q5Ki8OF8Edyp34pwdTOSVQ _6p8zUIcOEeKDAPAbcNl48A _oSM0AOF-Edyp34pwdTOSVQ _4gCKAOF9Edyp34pwdTOSVQ _sKJ9AOF-Edyp34pwdTOSVQ _i_fkQOF-Edyp34pwdTOSVQ _EChNoBC0EeGhfJHCQDJMKQ _QcnRMOF5Edyp34pwdTOSVQ _Bw-twOF6Edyp34pwdTOSVQ _O65KUOF6Edyp34pwdTOSVQ _gFV9sA-MEeGvZJJrUZdBHA">
             <methodElementProperty xmi:id="_q-kJoIJaEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-cSBrmzHqaQpVZtM6x-GfjQ" href="uma://-cSBrmzHqaQpVZtM6x-GfjQ#-cSBrmzHqaQpVZtM6x-GfjQ"/>
             <activityReferences href="uma://_rsd8YA-NEeGvZJJrUZdBHA#_rsd8cw-NEeGvZJJrUZdBHA"/>
@@ -174,9 +176,10 @@
             <methodElementProperty xmi:id="_2-10kIY_EeKVEqVT82eARQ" name="me_edited" value="true"/>
             <presentation xmi:id="-lVhZvhfJKHi_eZRjA1RWaA" href="uma://-lVhZvhfJKHi_eZRjA1RWaA#-lVhZvhfJKHi_eZRjA1RWaA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_EChNoBC0EeGhfJHCQDJMKQ" name="development_team" guid="_EChNoBC0EeGhfJHCQDJMKQ" presentationName="Development Team" briefDescription="The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint." responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_EChNoBC0EeGhfJHCQDJMKQ" name="development_team" guid="_EChNoBC0EeGhfJHCQDJMKQ" briefDescription="The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint." variabilityType="contributes" responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_qa1GcIKGEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-04lpq0FVf2B8LgJ2RhJibg" href="uma://-04lpq0FVf2B8LgJ2RhJibg#-04lpq0FVf2B8LgJ2RhJibg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_AwUgMM3SEeKOw8KXk47y0g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_5X7g8IZBEeKVEqVT82eARQ" name="development_team" guid="_5X7g8IZBEeKVEqVT82eARQ" presentationName="Development Team">
             <methodElementProperty xmi:id="_6wSbAIZBEeKVEqVT82eARQ" name="me_edited" value="true"/>
@@ -196,17 +199,12 @@
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vAUaIA-KEeGvZJJrUZdBHA" name="release_info" guid="_vAUaIA-KEeGvZJJrUZdBHA">
-          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_vAUaIQ-KEeGvZJJrUZdBHA" name="release_info_scrum" guid="_vAUaIQ-KEeGvZJJrUZdBHA" presentationName="Practice: Scrum (Essentials)" briefDescription="Scrum (Essentials) practice release info." shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_vAUaIQ-KEeGvZJJrUZdBHA" name="release_info_scrum" guid="_vAUaIQ-KEeGvZJJrUZdBHA" presentationName="Practice: Scrum" briefDescription="Scrum practice release info." shapeicon="guidances/supportingmaterials/resources/whats_new.gif" nodeicon="guidances/supportingmaterials/resources/whats_new_obj.gif">
             <methodElementProperty xmi:id="_j45j8IJZEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-62zxtOdNIZ0VWUt6KseFAQ" href="uma://-62zxtOdNIZ0VWUt6KseFAQ#-62zxtOdNIZ0VWUt6KseFAQ"/>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uE76gA-LEeGvZJJrUZdBHA" name="copyright" guid="_uE76gA-LEeGvZJJrUZdBHA">
-          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_4kVeYOGBEdyp34pwdTOSVQ" name="scrum_copyright" guid="_4kVeYOGBEdyp34pwdTOSVQ" presentationName="Copyright" shapeicon="guidances/supportingmaterials/resources/cr_sym_obj.gif" nodeicon="guidances/supportingmaterials/resources/cr_sym_obj.gif">
-            <methodElementProperty xmi:id="_zm3ycIWrEeK6FPIgecRwUQ" name="me_edited" value="true"/>
-            <presentation xmi:id="-_aNvcFLkG6dHmKhaz93BwA" href="uma://-_aNvcFLkG6dHmKhaz93BwA#-_aNvcFLkG6dHmKhaz93BwA"/>
-          </contentElements>
-        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uE76gA-LEeGvZJJrUZdBHA" name="copyright" guid="_uE76gA-LEeGvZJJrUZdBHA"/>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6Ab_HeF4Edyp34pwdTOSVQ" name="CapabilityPatterns" guid="_6Ab_HeF4Edyp34pwdTOSVQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_q6CZ4A-NEeGvZJJrUZdBHA" name="scrum" guid="_q6CZ4A-NEeGvZJJrUZdBHA">
@@ -216,5 +214,8 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6Ab_HuF4Edyp34pwdTOSVQ" name="DeliveryProcesses" guid="_6Ab_HuF4Edyp34pwdTOSVQ"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6Ab_H-F4Edyp34pwdTOSVQ" name="ProcessContributions" guid="_6Ab_H-F4Edyp34pwdTOSVQ"/>
+    <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

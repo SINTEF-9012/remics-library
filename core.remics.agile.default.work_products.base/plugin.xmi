@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_FRiuAVvqEeKHU9XooDK5Ng" guid="_FRiuAVvqEeKHU9XooDK5Ng"/>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_FRit8FvqEeKHU9XooDK5Ng" name="workproduct.remics.agile.base" guid="_FRit8FvqEeKHU9XooDK5Ng">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_FRit8FvqEeKHU9XooDK5Ng" name="core.remics.agile.default.work_products.base" guid="_FRit8FvqEeKHU9XooDK5Ng" changeDate="2013-06-05T13:11:57.538+0200">
     <methodElementProperty xmi:id="_FRiuA1vqEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_vJaJUM3QEeKOw8KXk47y0g" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit8VvqEeKHU9XooDK5Ng" name="Content" guid="_FRit8VvqEeKHU9XooDK5Ng">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit8lvqEeKHU9XooDK5Ng" name="Categories" guid="_FRit8lvqEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit81vqEeKHU9XooDK5Ng" name="Domains" guid="_FRit81vqEeKHU9XooDK5Ng"/>

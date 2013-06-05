@@ -133,7 +133,7 @@
     <resourceDescriptors xmi:id="_bOQKUfW3EeG1CfjH63krNw" id="_bN9PYPW3EeG1CfjH63krNw" uri="publish.remics.agile.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_fFyzYViuEeKBXYc66RG5vg" id="_fFpCYFiuEeKBXYc66RG5vg" uri="practice.remics.agile.withrawal.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_J5jLQljGEeKc_ty_5LPMaw" id="_J5jLMFjGEeKc_ty_5LPMaw" uri="practice.remics.agile.interoperability.base/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_PKX-0Fl6EeK7IIGTa_iioQ" id="__52BoEUNEeKK_ttnBPx9Rg" uri="tool.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_PKX-0Fl6EeK7IIGTa_iioQ" id="__52BoEUNEeKK_ttnBPx9Rg" uri="core.remics.agile.default.tool_def.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_PK0qwFl6EeK7IIGTa_iioQ" id="_aXpWIEUOEeKK_ttnBPx9Rg" uri="toolmentor.remics.control_supervise.extend_interoperability_framework-sintef/plugin.xmi"/>
     <resourceDescriptors xmi:id="_PK90sFl6EeK7IIGTa_iioQ" id="_l29SEEUOEeKK_ttnBPx9Rg" uri="toolmentor.remics.migrate.extend_modelio-sintef/plugin.xmi"/>
     <resourceDescriptors xmi:id="_PK90x1l6EeK7IIGTa_iioQ" id="_hw8e8EUOEeKK_ttnBPx9Rg" uri="toolmentor.remics.recover.extend_modelio-sintef/plugin.xmi"/>
@@ -145,8 +145,8 @@
     <resourceDescriptors xmi:id="_e36i4lmHEeKrerZnFJznjw" id="_e36i0FmHEeKrerZnFJznjw" uri="toolmentor.remics.requirements.extend_tale-tecnalia/plugin.xmi"/>
     <resourceDescriptors xmi:id="_xuHXYlmIEeKrerZnFJznjw" id="_xuHXUFmIEeKrerZnFJznjw" uri="toolmentor.remics.requirements.extend_trac-tecnalia/plugin.xmi"/>
     <resourceDescriptors xmi:id="_nwHnwlmJEeKrerZnFJznjw" id="_nwHnsFmJEeKrerZnFJznjw" uri="toolmentor.remics.extend_remics_installer-tecnalia/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_FRiuAlvqEeKHU9XooDK5Ng" id="_FRit8FvqEeKHU9XooDK5Ng" uri="workproduct.remics.agile.base/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_hyLc8lvqEeKHU9XooDK5Ng" id="_hyLc4FvqEeKHU9XooDK5Ng" uri="role.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_FRiuAlvqEeKHU9XooDK5Ng" id="_FRit8FvqEeKHU9XooDK5Ng" uri="core.remics.agile.default.work_products.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_hyLc8lvqEeKHU9XooDK5Ng" id="_hyLc4FvqEeKHU9XooDK5Ng" uri="core.remics.agile.default.role_def.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_wwMUYlvqEeKHU9XooDK5Ng" id="_wwMUUFvqEeKHU9XooDK5Ng" uri="process.remics.agile.control_and_supervise.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_BLr2clvrEeKHU9XooDK5Ng" id="_BLr2YFvrEeKHU9XooDK5Ng" uri="process.remics.agile.interoperability.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_GuCEslvrEeKHU9XooDK5Ng" id="_GuCEoFvrEeKHU9XooDK5Ng" uri="process.remics.agile.migration.base/plugin.xmi"/>
