@@ -9,11 +9,13 @@
     <resourceDescriptors xmi:id="_wpGBAEkWEeKu7-3cM-oErg" id="-XOq91-q-cnB_V8dJ1vJljw" uri="tasks/identify_additional_requirements.xmi"/>
     <resourceDescriptors xmi:id="_VaOaEVi7EeKc_ty_5LPMaw" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/requirements.xmi"/>
     <resourceDescriptors xmi:id="_Lyct4FjDEeKc_ty_5LPMaw" id="-N7nD6a_EIsWhRrMFa88T2g" uri="tasks/define_general_deployment_model.xmi"/>
-    <resourceDescriptors xmi:id="_L1bJYFjDEeKc_ty_5LPMaw" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
-    <resourceDescriptors xmi:id="_L1kTUFjDEeKc_ty_5LPMaw" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
+    <resourceDescriptors xmi:id="_L1bJYFjDEeKc_ty_5LPMaw" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning_meeting.extends.xmi"/>
+    <resourceDescriptors xmi:id="_L1kTUFjDEeKc_ty_5LPMaw" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/sprint_retrospective.extends.xmi"/>
+    <resourceDescriptors xmi:id="_b4XkgN_6EeKdMZ3N0jsS2w" id="-5rCJ8-tHVVVty23lSi_y-Q" uri="tasks/sprint_review.extends.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_4BH4wPNGEeGUHqJDPoQpuw" name="practice.remics.agile.requirements.base" guid="_4BH4wPNGEeGUHqJDPoQpuw" changeDate="2013-01-14T17:48:30.254+0100">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_4BH4wPNGEeGUHqJDPoQpuw" name="practice.remics.agile.requirements.base" guid="_4BH4wPNGEeGUHqJDPoQpuw" changeDate="2013-06-28T14:04:43.700+0200">
     <methodElementProperty xmi:id="_4BK8EvNGEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_-HHgEN_qEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4BH4wfNGEeGUHqJDPoQpuw" name="Content" guid="_4BH4wfNGEeGUHqJDPoQpuw">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4BH4wvNGEeGUHqJDPoQpuw" name="Categories" guid="_4BH4wvNGEeGUHqJDPoQpuw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4BH4w_NGEeGUHqJDPoQpuw" name="Domains" guid="_4BH4w_NGEeGUHqJDPoQpuw"/>
@@ -30,83 +32,107 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4BH4zPNGEeGUHqJDPoQpuw" name="CoreContent" guid="_4BH4zPNGEeGUHqJDPoQpuw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_akb2wDO8EeK5hZv7WCtlvg" name="requirements" guid="_akb2wDO8EeK5hZv7WCtlvg">
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__g3N4EkTEeKu7-3cM-oErg" name="prepare_and_demo_product_backlog" guid="__g3N4EkTEeKu7-3cM-oErg" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__g3N4EkTEeKu7-3cM-oErg" name="prepare_and_demo_product_backlog" guid="__g3N4EkTEeKu7-3cM-oErg" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum" mandatoryInput="_FxNEQV5BEeKVU8eUCvi3Og _FxNEWl5BEeKVU8eUCvi3Og">
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
             <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NVWRcEkUEeKu7-3cM-oErg" name="define_general_deployment_model" guid="_NVWRcEkUEeKu7-3cM-oErg" presentationName="Define General Deployment Model ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NVWRcEkUEeKu7-3cM-oErg" name="define_general_deployment_model" guid="_NVWRcEkUEeKu7-3cM-oErg" presentationName="Define General Deployment Model " output="_FxNETV5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-N7nD6a_EIsWhRrMFa88T2g" href="uma://-N7nD6a_EIsWhRrMFa88T2g#-N7nD6a_EIsWhRrMFa88T2g"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNETV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_333P4N_nEeKdMZ3N0jsS2w#_FxNEWV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="#_FxNEWl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UGwT0EkUEeKu7-3cM-oErg" name="sprint_planning" guid="_UGwT0EkUEeKu7-3cM-oErg" presentationName="Sprint Planning">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UGwT0EkUEeKu7-3cM-oErg" name="sprint_planning_meeting.extends" guid="_UGwT0EkUEeKu7-3cM-oErg" presentationName="Requirements Sprint Planning Meeting" variabilityType="extends" mandatoryInput="_5aIOsN_5EeKdMZ3N0jsS2w" output="_5aIOsN_5EeKdMZ3N0jsS2w">
+            <methodElementProperty xmi:id="_EjxcoN_6EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4gCKAOF9Edyp34pwdTOSVQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oi8rMEkUEeKu7-3cM-oErg" name="scrum_demo_and_retrospective" guid="_oi8rMEkUEeKu7-3cM-oErg" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oi8rMEkUEeKu7-3cM-oErg" name="sprint_retrospective.extends" guid="_oi8rMEkUEeKu7-3cM-oErg" presentationName="Requirements Sprint Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends">
+            <methodElementProperty xmi:id="_jXQX8N_6EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_sKJ9AOF-Edyp34pwdTOSVQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YMEkWEeKu7-3cM-oErg" name="apply_techniques_to_evaluate_feasibility" guid="_wV5YMEkWEeKu7-3cM-oErg" presentationName="Apply Techniques to Evaluate Feasibility">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YMEkWEeKu7-3cM-oErg" name="apply_techniques_to_evaluate_feasibility" guid="_wV5YMEkWEeKu7-3cM-oErg" presentationName="Apply Techniques to Evaluate Feasibility" output="_FxNEWl5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-Q4FlCTipRTiuL1M_i2F72w" href="uma://-Q4FlCTipRTiuL1M_i2F72w#-Q4FlCTipRTiuL1M_i2F72w"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_333P4N_nEeKdMZ3N0jsS2w#_FxNEWV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YMUkWEeKu7-3cM-oErg" name="describe_the_system" guid="_wV5YMUkWEeKu7-3cM-oErg" presentationName="Describe the System" briefDescription="A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&#xD;&#xA;">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YMUkWEeKu7-3cM-oErg" name="describe_the_system" guid="_wV5YMUkWEeKu7-3cM-oErg" presentationName="Describe the System" briefDescription="A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&#xD;&#xA;" output="_FxNEWl5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-m91h2-zxzCyIi8cn7fbNmA" href="uma://-m91h2-zxzCyIi8cn7fbNmA#-m91h2-zxzCyIi8cn7fbNmA"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_333P4N_nEeKdMZ3N0jsS2w#_FxNEWV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YMkkWEeKu7-3cM-oErg" name="elaborate_glossary" guid="_wV5YMkkWEeKu7-3cM-oErg" presentationName="Elaborate Glossary">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YMkkWEeKu7-3cM-oErg" name="elaborate_glossary" guid="_wV5YMkkWEeKu7-3cM-oErg" presentationName="Elaborate Glossary" output="_FxNEUV5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-d_J9Q977gPDGSF7sj1LY1w" href="uma://-d_J9Q977gPDGSF7sj1LY1w#-d_J9Q977gPDGSF7sj1LY1w"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_333P4N_nEeKdMZ3N0jsS2w#_FxNEWV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YM0kWEeKu7-3cM-oErg" name="establish_validation_criteria" guid="_wV5YM0kWEeKu7-3cM-oErg" presentationName="Establish Validation Criteria">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YM0kWEeKu7-3cM-oErg" name="establish_validation_criteria" guid="_wV5YM0kWEeKu7-3cM-oErg" presentationName="Establish Validation Criteria" mandatoryInput="_FxNEQV5BEeKVU8eUCvi3Og _FxNEWl5BEeKVU8eUCvi3Og" output="_FxNEYl5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-63cdZqLPsAVQAiDXa1kxIQ" href="uma://-63cdZqLPsAVQAiDXa1kxIQ#-63cdZqLPsAVQAiDXa1kxIQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEYl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YNEkWEeKu7-3cM-oErg" name="identify_actors" guid="_wV5YNEkWEeKu7-3cM-oErg" presentationName="Identify Actors">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YNEkWEeKu7-3cM-oErg" name="identify_actors" guid="_wV5YNEkWEeKu7-3cM-oErg" presentationName="Identify Actors" mandatoryInput="_FxNEQV5BEeKVU8eUCvi3Og" output="_FxNEQF5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-sFRA6sApD0V2DoLDRQ2QLg" href="uma://-sFRA6sApD0V2DoLDRQ2QLg#-sFRA6sApD0V2DoLDRQ2QLg"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQF5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YNUkWEeKu7-3cM-oErg" name="identify_additional_requirements" guid="_wV5YNUkWEeKu7-3cM-oErg" presentationName="Identify Additional Requirements ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wV5YNUkWEeKu7-3cM-oErg" name="identify_additional_requirements" guid="_wV5YNUkWEeKu7-3cM-oErg" presentationName="Identify Additional Requirements " output="_FxNEQV5BEeKVU8eUCvi3Og">
             <presentation xmi:id="-XOq91-q-cnB_V8dJ1vJljw" href="uma://-XOq91-q-cnB_V8dJ1vJljw#-XOq91-q-cnB_V8dJ1vJljw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_333P4N_nEeKdMZ3N0jsS2w#_FxNEWV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="#_FxNEWl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_VNSKQFi7EeKc_ty_5LPMaw" name="requirements" guid="_VNSKQFi7EeKc_ty_5LPMaw" presentationName="Requirements" briefDescription="This activity will provide an overview of the desired system together with the addtional requirements to be added to the migrated system." contentReferences="_wV5YMEkWEeKu7-3cM-oErg _NVWRcEkUEeKu7-3cM-oErg _wV5YMUkWEeKu7-3cM-oErg _wV5YMkkWEeKu7-3cM-oErg _wV5YM0kWEeKu7-3cM-oErg _wV5YNEkWEeKu7-3cM-oErg _wV5YNUkWEeKu7-3cM-oErg __g3N4EkTEeKu7-3cM-oErg _oi8rMEkUEeKu7-3cM-oErg _UGwT0EkUEeKu7-3cM-oErg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_VNSKQFi7EeKc_ty_5LPMaw" name="requirements" guid="_VNSKQFi7EeKc_ty_5LPMaw" presentationName="Requirements" briefDescription="This activity will provide an overview of the desired system together with the addtional requirements to be added to the migrated system." contentReferences="_5aIOsN_5EeKdMZ3N0jsS2w _FxNEQF5BEeKVU8eUCvi3Og _FxNEQV5BEeKVU8eUCvi3Og _FxNETV5BEeKVU8eUCvi3Og _FxNEUV5BEeKVU8eUCvi3Og _nVBZkN_wEeKdMZ3N0jsS2w _FxNEWl5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _wV5YMEkWEeKu7-3cM-oErg _NVWRcEkUEeKu7-3cM-oErg _wV5YMUkWEeKu7-3cM-oErg _wV5YMkkWEeKu7-3cM-oErg _wV5YM0kWEeKu7-3cM-oErg _wV5YNEkWEeKu7-3cM-oErg _wV5YNUkWEeKu7-3cM-oErg __g3N4EkTEeKu7-3cM-oErg _UGwT0EkUEeKu7-3cM-oErg _oi8rMEkUEeKu7-3cM-oErg _aM_AwN_6EeKdMZ3N0jsS2w">
+            <methodElementProperty xmi:id="_T5z9EN_7EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWl5BEeKVU8eUCvi3Og" name="system_overview" guid="_FxNEWl5BEeKVU8eUCvi3Og" presentationName="System Overview">
+            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNESF5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQl5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNETV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_nVBZkN_wEeKdMZ3N0jsS2w" name="requirements_model.assign" guid="_nVBZkN_wEeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEWl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNETV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQV5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_owSdsN_wEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQF5BEeKVU8eUCvi3Og" name="actors" guid="_FxNEQF5BEeKVU8eUCvi3Og" presentationName="Actors"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNETV5BEeKVU8eUCvi3Og" name="deployment" guid="_FxNETV5BEeKVU8eUCvi3Og" presentationName="Deployment"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUV5BEeKVU8eUCvi3Og" name="glossary.assign" guid="_FxNEUV5BEeKVU8eUCvi3Og" variabilityType="contributes">
+            <methodElementProperty xmi:id="_pqdKcN_xEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_lyFKsN_xEeKdMZ3N0jsS2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYl5BEeKVU8eUCvi3Og" name="validation_criteria" guid="_FxNEYl5BEeKVU8eUCvi3Og" presentationName="Validation Criteria"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQV5BEeKVU8eUCvi3Og" name="additional_system_requirements" guid="_FxNEQV5BEeKVU8eUCvi3Og" presentationName="Additional System Requirements">
+            <deliveredWorkProducts href="#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNEYl5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNEQF5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEV15BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNET15BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5aIOsN_5EeKdMZ3N0jsS2w" name="product_backlog.extends" guid="_5aIOsN_5EeKdMZ3N0jsS2w" presentationName="Requirements Product Backlog" variabilityType="extends">
+            <methodElementProperty xmi:id="_7aI-oN_5EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_OZIPIOF8Edyp34pwdTOSVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aM_AwN_6EeKdMZ3N0jsS2w" name="sprint_review.extends" guid="_aM_AwN_6EeKdMZ3N0jsS2w" presentationName="Requirements Sprint Review" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends" mandatoryInput="_5aIOsN_5EeKdMZ3N0jsS2w" output="_5aIOsN_5EeKdMZ3N0jsS2w">
+            <methodElementProperty xmi:id="_fU3gkN_6EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-5rCJ8-tHVVVty23lSi_y-Q" href="uma://-5rCJ8-tHVVVty23lSi_y-Q#-5rCJ8-tHVVVty23lSi_y-Q"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_i_fkQOF-Edyp34pwdTOSVQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -116,5 +142,9 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_4BH4z_NGEeGUHqJDPoQpuw" name="ProcessContributions" guid="_4BH4z_NGEeGUHqJDPoQpuw"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
     <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
+    <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

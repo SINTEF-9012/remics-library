@@ -11,8 +11,9 @@
     <resourceDescriptors xmi:id="_P7lp0F7fEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
     <resourceDescriptors xmi:id="_P7rwcF7fEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_J5jLMFjGEeKc_ty_5LPMaw" name="practice.remics.agile.interoperability.base" guid="_J5jLMFjGEeKc_ty_5LPMaw" changeDate="2013-01-15T07:45:56.727+0100">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_J5jLMFjGEeKc_ty_5LPMaw" name="practice.remics.agile.interoperability.base" guid="_J5jLMFjGEeKc_ty_5LPMaw" changeDate="2013-06-28T14:02:43.783+0200">
     <methodElementProperty xmi:id="_J5jLQ1jGEeKc_ty_5LPMaw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_sjssoN_qEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J5jLMVjGEeKc_ty_5LPMaw" name="Content" guid="_J5jLMVjGEeKc_ty_5LPMaw">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J5jLMljGEeKc_ty_5LPMaw" name="Categories" guid="_J5jLMljGEeKc_ty_5LPMaw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J5jLM1jGEeKc_ty_5LPMaw" name="Domains" guid="_J5jLM1jGEeKc_ty_5LPMaw"/>
@@ -64,7 +65,7 @@
             <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_ZeHFQFjGEeKc_ty_5LPMaw" name="interoperability" guid="_ZeHFQFjGEeKc_ty_5LPMaw" presentationName="Interoperability" briefDescription="This activity address the iteroperability problems that may appear as part of the migration to the cloud and the implementation of addtional features during the migration effort." contentReferences="_WdUNwFjGEeKc_ty_5LPMaw _WdUNwVjGEeKc_ty_5LPMaw _WdUNwljGEeKc_ty_5LPMaw _WdUNw1jGEeKc_ty_5LPMaw _WdUNxFjGEeKc_ty_5LPMaw _P6ig8F7fEeKFRuoPceMYcQ _P6ig8V7fEeKFRuoPceMYcQ _P6ig8l7fEeKFRuoPceMYcQ">
-            <presentation xsi:type="org.eclipse.epf.uma:PracticeDescription" xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+            <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P6ig8F7fEeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_P6ig8F7fEeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum">
             <presentation xmi:id="-b-7zEp7mMK_55HfVP1L_aw" href="uma://-b-7zEp7mMK_55HfVP1L_aw#-b-7zEp7mMK_55HfVP1L_aw"/>
@@ -99,5 +100,12 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_J5jLP1jGEeKc_ty_5LPMaw" name="ProcessContributions" guid="_J5jLP1jGEeKc_ty_5LPMaw"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
     <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_OIlfwFvtEeKHU9XooDK5Ng"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+    <bases href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_ZuWoYPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_gAWK4PNHEeGUHqJDPoQpuw"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

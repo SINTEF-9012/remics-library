@@ -21,44 +21,71 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit_FvqEeKHU9XooDK5Ng" name="CoreContent" guid="_FRit_FvqEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_QVe8gFvqEeKHU9XooDK5Ng" name="remics.agile" guid="_QVe8gFvqEeKHU9XooDK5Ng">
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8GimoEkUEeKu7-3cM-oErg" name="Product Backlog" guid="_8GimoEkUEeKu7-3cM-oErg" presentationName="New Deliverable"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQF5BEeKVU8eUCvi3Og" name="actors" guid="_FxNEQF5BEeKVU8eUCvi3Og" presentationName="Actors"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQV5BEeKVU8eUCvi3Og" name="additional_system_requirements" guid="_FxNEQV5BEeKVU8eUCvi3Og" presentationName="Additional System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNEV15BEeKVU8eUCvi3Og _FxNET15BEeKVU8eUCvi3Og"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQl5BEeKVU8eUCvi3Og" name="architecture" guid="_FxNEQl5BEeKVU8eUCvi3Og" presentationName="Architecture"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQ15BEeKVU8eUCvi3Og" name="cloud_deployment_model" guid="_FxNEQ15BEeKVU8eUCvi3Og" presentationName="Cloud Deployment Model"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNERF5BEeKVU8eUCvi3Og" name="code" guid="_FxNERF5BEeKVU8eUCvi3Og" presentationName="Code"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNERV5BEeKVU8eUCvi3Og" name="complete_system_requirements" guid="_FxNERV5BEeKVU8eUCvi3Og" presentationName="Complete System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNEV15BEeKVU8eUCvi3Og _FxNET15BEeKVU8eUCvi3Og"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNERV5BEeKVU8eUCvi3Og" name="complete_system_requirements" guid="_FxNERV5BEeKVU8eUCvi3Og" presentationName="Complete System Requirements">
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNEV15BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNET15BEeKVU8eUCvi3Og"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNERl5BEeKVU8eUCvi3Og" name="component_description" guid="_FxNERl5BEeKVU8eUCvi3Og" presentationName="Component Description"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNER15BEeKVU8eUCvi3Og" name="component_implementation_design" guid="_FxNER15BEeKVU8eUCvi3Og" presentationName="Component Implementation Design"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNESF5BEeKVU8eUCvi3Og" name="components_description" guid="_FxNESF5BEeKVU8eUCvi3Og" presentationName="Components_Description" deliveredWorkProducts="_FxNERl5BEeKVU8eUCvi3Og"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNESV5BEeKVU8eUCvi3Og" name="control_and_monitoring_infrastructure" guid="_FxNESV5BEeKVU8eUCvi3Og" presentationName="Control and Monitoring Infrastructure"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNESl5BEeKVU8eUCvi3Og" name="control_and_monitoring_results" guid="_FxNESl5BEeKVU8eUCvi3Og" presentationName="Control and Monitoring Results"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNES15BEeKVU8eUCvi3Og" name="control_and_monitoring_system_requirements" guid="_FxNES15BEeKVU8eUCvi3Og" presentationName="Control and Monitoring System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNEV15BEeKVU8eUCvi3Og _FxNET15BEeKVU8eUCvi3Og"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNES15BEeKVU8eUCvi3Og" name="control_and_monitoring_system_requirements" guid="_FxNES15BEeKVU8eUCvi3Og" presentationName="Control and Monitoring System Requirements">
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNEV15BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNET15BEeKVU8eUCvi3Og"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNETF5BEeKVU8eUCvi3Og" name="corrective_actions" guid="_FxNETF5BEeKVU8eUCvi3Og" presentationName="Corrective Actions"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNETV5BEeKVU8eUCvi3Og" name="deployment" guid="_FxNETV5BEeKVU8eUCvi3Og" presentationName="Deployment"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNETl5BEeKVU8eUCvi3Og" name="deviations" guid="_FxNETl5BEeKVU8eUCvi3Og" presentationName="Deviations"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNET15BEeKVU8eUCvi3Og" name="domain_model" guid="_FxNET15BEeKVU8eUCvi3Og" presentationName="Domain Model"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUF5BEeKVU8eUCvi3Og" name="generated code" guid="_FxNEUF5BEeKVU8eUCvi3Og" presentationName="Generated Code"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUV5BEeKVU8eUCvi3Og" name="glossary" guid="_FxNEUV5BEeKVU8eUCvi3Og" presentationName="Glossary"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUl5BEeKVU8eUCvi3Og" name="interoperability_system_requirements" guid="_FxNEUl5BEeKVU8eUCvi3Og" presentationName="Interoperability System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNEV15BEeKVU8eUCvi3Og _FxNET15BEeKVU8eUCvi3Og"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEU15BEeKVU8eUCvi3Og" name="knowledge_model" guid="_FxNEU15BEeKVU8eUCvi3Og" presentationName="Knowledge Model"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVF5BEeKVU8eUCvi3Og" name="legacy_code" guid="_FxNEVF5BEeKVU8eUCvi3Og" presentationName="Legacy Code"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVV5BEeKVU8eUCvi3Og" name="recovered_system_models" guid="_FxNEVV5BEeKVU8eUCvi3Og" presentationName="Recovered System Models" deliveredWorkProducts="_FxNEU15BEeKVU8eUCvi3Og _FxNEW15BEeKVU8eUCvi3Og"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVl5BEeKVU8eUCvi3Og" name="recovered_system_requirements" guid="_FxNEVl5BEeKVU8eUCvi3Og" presentationName="Recovered System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNEV15BEeKVU8eUCvi3Og _FxNET15BEeKVU8eUCvi3Og"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUl5BEeKVU8eUCvi3Og" name="interoperability_system_requirements" guid="_FxNEUl5BEeKVU8eUCvi3Og" presentationName="Interoperability System Requirements">
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNEV15BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNET15BEeKVU8eUCvi3Og"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEV15BEeKVU8eUCvi3Og" name="requirements_description" guid="_FxNEV15BEeKVU8eUCvi3Og" presentationName="Requirements Description"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWF5BEeKVU8eUCvi3Og" name="service_architecture_model" guid="_FxNEWF5BEeKVU8eUCvi3Og" presentationName="Service Architecture Model"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWV5BEeKVU8eUCvi3Og" name="system_idea" guid="_FxNEWV5BEeKVU8eUCvi3Og" presentationName="System Idea"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWl5BEeKVU8eUCvi3Og" name="system_overview" guid="_FxNEWl5BEeKVU8eUCvi3Og" presentationName="System Overview" deliveredWorkProducts="_FxNESF5BEeKVU8eUCvi3Og _FxNEQl5BEeKVU8eUCvi3Og _FxNETV5BEeKVU8eUCvi3Og"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEW15BEeKVU8eUCvi3Og" name="uml_model" guid="_FxNEW15BEeKVU8eUCvi3Og" presentationName="UML Model"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEXF5BEeKVU8eUCvi3Og" name="validation_and_verification_architecture" guid="_FxNEXF5BEeKVU8eUCvi3Og" presentationName="Validation and Verification Architecture"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEXV5BEeKVU8eUCvi3Og" name="validation_and_verification_components" guid="_FxNEXV5BEeKVU8eUCvi3Og" presentationName="Validation and Verification Components"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEXl5BEeKVU8eUCvi3Og" name="validation_and_verification_data" guid="_FxNEXl5BEeKVU8eUCvi3Og" presentationName="Validation and Verification Data"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEX15BEeKVU8eUCvi3Og" name="validation_and_verification_infrastructure" guid="_FxNEX15BEeKVU8eUCvi3Og" presentationName="Validation and Verification Infrastructure"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYF5BEeKVU8eUCvi3Og" name="validation_and_verification_result" guid="_FxNEYF5BEeKVU8eUCvi3Og" presentationName="Validation and Verification Result"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYV5BEeKVU8eUCvi3Og" name="validation_and_verification_system_requirements" guid="_FxNEYV5BEeKVU8eUCvi3Og" presentationName="Validation and Verification System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNEV15BEeKVU8eUCvi3Og _FxNET15BEeKVU8eUCvi3Og"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYl5BEeKVU8eUCvi3Og" name="validation_criteria" guid="_FxNEYl5BEeKVU8eUCvi3Og" presentationName="Validation Criteria"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYV5BEeKVU8eUCvi3Og" name="validation_and_verification_system_requirements" guid="_FxNEYV5BEeKVU8eUCvi3Og" presentationName="Validation and Verification System Requirements">
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNEV15BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="#_FxNET15BEeKVU8eUCvi3Og"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEY15BEeKVU8eUCvi3Og" name="withdrawal_infrastructure" guid="_FxNEY15BEeKVU8eUCvi3Og" presentationName="Withdrawal Infrastructure"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_wmP8cF7PEeKFRuoPceMYcQ" name="implementation_design" guid="_wmP8cF7PEeKFRuoPceMYcQ" presentationName="Implementation Design"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_uAFfkF7cEeKFRuoPceMYcQ" name="monitoring_information" guid="_uAFfkF7cEeKFRuoPceMYcQ" presentationName="Monitoring Information"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8RPV0N_lEeKdMZ3N0jsS2w" name="requirements_model" guid="_8RPV0N_lEeKdMZ3N0jsS2w" presentationName="Requirements Model">
+            <methodElementProperty xmi:id="_9s6CkN_lEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_YAkHIN_nEeKdMZ3N0jsS2w" name="project_plan" guid="_YAkHIN_nEeKdMZ3N0jsS2w" presentationName="Project Plan">
+            <methodElementProperty xmi:id="_ZC8KIN_nEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_lyFKsN_xEeKdMZ3N0jsS2w" name="glossary" guid="_lyFKsN_xEeKdMZ3N0jsS2w" presentationName="Glossary">
+            <methodElementProperty xmi:id="_m2As4N_xEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_vj2KQN_yEeKdMZ3N0jsS2w" name="source_code" guid="_vj2KQN_yEeKdMZ3N0jsS2w" presentationName="Source Code">
+            <methodElementProperty xmi:id="_xZut0N_yEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_umMDoN_8EeKdMZ3N0jsS2w" name="system_model" guid="_umMDoN_8EeKdMZ3N0jsS2w" presentationName="System Model">
+            <methodElementProperty xmi:id="_vhSZ8N_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FRit_VvqEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_FRit_VvqEeKHU9XooDK5Ng"/>

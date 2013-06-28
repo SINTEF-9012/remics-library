@@ -14,8 +14,9 @@
     <resourceDescriptors xmi:id="_3iyJYF7SEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
     <resourceDescriptors xmi:id="_3i4QAF7SEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gAWK4PNHEeGUHqJDPoQpuw" name="practice.remics.agile.migration.base" guid="_gAWK4PNHEeGUHqJDPoQpuw" changeDate="2013-01-15T06:17:21.724+0100">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_gAWK4PNHEeGUHqJDPoQpuw" name="practice.remics.agile.migration.base" guid="_gAWK4PNHEeGUHqJDPoQpuw" changeDate="2013-06-28T14:03:21.136+0200">
     <methodElementProperty xmi:id="_gAYAEvNHEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_wQ-PoN_qEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK4fNHEeGUHqJDPoQpuw" name="Content" guid="_gAWK4fNHEeGUHqJDPoQpuw">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK4vNHEeGUHqJDPoQpuw" name="Categories" guid="_gAWK4vNHEeGUHqJDPoQpuw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gAWK4_NHEeGUHqJDPoQpuw" name="Domains" guid="_gAWK4_NHEeGUHqJDPoQpuw"/>
@@ -137,5 +138,11 @@
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gAWK7_NHEeGUHqJDPoQpuw" name="ProcessContributions" guid="_gAWK7_NHEeGUHqJDPoQpuw"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
     <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_OIlfwFvtEeKHU9XooDK5Ng"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_ZuWoYPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
+    <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
+    <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

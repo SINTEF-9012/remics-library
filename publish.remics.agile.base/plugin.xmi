@@ -11,7 +11,7 @@
     <resourceDescriptors xmi:id="_KKKhwPW4EeG1CfjH63krNw" id="-HTMJFV29MTZkKWqnIo01Gg" uri="guidances/concepts/core_principle_focus.xmi"/>
     <resourceDescriptors xmi:id="_Lfxp0fW4EeG1CfjH63krNw" id="-id3gpeJmU5zSUE12SUm8Ag" uri="guidances/supportingmaterials/release_info_remics.xmi"/>
     <resourceDescriptors xmi:id="_bg_DofW4EeGUg8dPeN6LMg" id="-cGfGHqSFsvSqPwBKeoShxA" uri="disciplinegroupings/remics_disciplines.xmi"/>
-    <resourceDescriptors xmi:id="_kIdPwvW4EeGUg8dPeN6LMg" id="-PSRjLwuucSbqE2ylFAbF9w" uri="customcategories/practices.xmi"/>
+    <resourceDescriptors xmi:id="_kIdPwvW4EeGUg8dPeN6LMg" id="-PSRjLwuucSbqE2ylFAbF9w" uri="customcategories/practices.replaces.xmi"/>
     <resourceDescriptors xmi:id="_qvFlgPW4EeGUg8dPeN6LMg" id="-BZL7M9SUWacUmnxTIShrmA" uri="customcategories/getting_started.xmi"/>
     <resourceDescriptors xmi:id="_QjPIkV7zEeKFRuoPceMYcQ" id="-5KKBPZ4Oza-UdqN4OlQiqg" uri="guidances/supportingmaterials/terminology.xmi"/>
     <resourceDescriptors xmi:id="_YPU4AGR5EeKHNrKfLiQo8g" id="-wyecoieomapEfPXAfnVqJg" uri="guidances/supportingmaterials/introdiction_to_remics.xmi"/>
@@ -21,7 +21,7 @@
     <resourceDescriptors xmi:id="_YPfQEGR5EeKHNrKfLiQo8g" id="-66ZlVicGZ5Yx4YKgDETNxg" uri="guidances/supportingmaterials/terminology.xmi"/>
     <resourceDescriptors xmi:id="_YPhFQGR5EeKHNrKfLiQo8g" id="-NCj6Ua8eTn_txMxFO4_7yw" uri="guidances/supportingmaterials/tool_support%202.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bN9PYPW3EeG1CfjH63krNw" name="publish.remics.agile.base" guid="_bN9PYPW3EeG1CfjH63krNw" changeDate="2013-06-04T14:44:51.548+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bN9PYPW3EeG1CfjH63krNw" name="publish.remics.agile.base" guid="_bN9PYPW3EeG1CfjH63krNw" changeDate="2013-06-28T14:09:57.898+0200">
     <methodElementProperty xmi:id="_bOjFQPW3EeG1CfjH63krNw" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_jXgH8M0UEeKXZ8LmJZzn7w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PYfW3EeG1CfjH63krNw" name="Content" guid="_bN9PYfW3EeG1CfjH63krNw">
@@ -40,10 +40,11 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PavW3EeG1CfjH63krNw" name="Hidden" guid="_bN9PavW3EeG1CfjH63krNw">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bN9Pa_W3EeG1CfjH63krNw" name="Custom Categories" guid="_bN9Pa_W3EeG1CfjH63krNw" categorizedElements="_dV7zEPW4EeGUg8dPeN6LMg"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dV7zEPW4EeGUg8dPeN6LMg" name="view_tabs_for_remics" guid="_dV7zEPW4EeGUg8dPeN6LMg" presentationName="View Tabs for Remics" shapeicon="customcategories/resources/lib_32.gif" nodeicon="customcategories/resources/lib_16.gif" categorizedElements="_gcn3MPW4EeGUg8dPeN6LMg _hnEREPW4EeGUg8dPeN6LMg"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_gcn3MPW4EeGUg8dPeN6LMg" name="epf_practices_library" guid="_gcn3MPW4EeGUg8dPeN6LMg" presentationName="EPF Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" categorizedElements="_j2xp4PW4EeGUg8dPeN6LMg"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_dV7zEPW4EeGUg8dPeN6LMg" name="view_tabs_for_remics" guid="_dV7zEPW4EeGUg8dPeN6LMg" presentationName="View Tabs for Remics" shapeicon="customcategories/resources/lib_32.gif" nodeicon="customcategories/resources/lib_16.gif" categorizedElements="_hnEREPW4EeGUg8dPeN6LMg _OLyysN_tEeKdMZ3N0jsS2w _j2xp4PW4EeGUg8dPeN6LMg">
+            <methodElementProperty xmi:id="_mSka4N_sEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hnEREPW4EeGUg8dPeN6LMg" name="remics" guid="_hnEREPW4EeGUg8dPeN6LMg" presentationName="OpenUP" shapeicon="customcategories/resources/delproc_lg_dgm32.gif" nodeicon="customcategories/resources/delproc_obj.gif" categorizedElements="_qg-RAfW4EeGUg8dPeN6LMg _qg-RAvW4EeGUg8dPeN6LMg"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j2xp4PW4EeGUg8dPeN6LMg" name="practices" guid="_j2xp4PW4EeGUg8dPeN6LMg" presentationName="Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" variabilityType="replaces" categorizedElements="_lu_vwPW4EeGUg8dPeN6LMg _lOwJcPW4EeGUg8dPeN6LMg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j2xp4PW4EeGUg8dPeN6LMg" name="practices.replaces" guid="_j2xp4PW4EeGUg8dPeN6LMg" presentationName="Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" variabilityType="replaces" categorizedElements="_lu_vwPW4EeGUg8dPeN6LMg _lOwJcPW4EeGUg8dPeN6LMg">
             <methodElementProperty xmi:id="_YDVDYGR5EeKHNrKfLiQo8g" name="PUBLISH_CATEGORY" value="false"/>
             <methodElementProperty xmi:id="_YDVDYWR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
             <presentation xmi:id="-PSRjLwuucSbqE2ylFAbF9w" href="uma://-PSRjLwuucSbqE2ylFAbF9w#-PSRjLwuucSbqE2ylFAbF9w"/>
@@ -51,6 +52,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lOwJcPW4EeGUg8dPeN6LMg" name="management_practice_list" guid="_lOwJcPW4EeGUg8dPeN6LMg" presentationName="Management Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
             <methodElementProperty xmi:id="_nYNkUM0UEeKXZ8LmJZzn7w" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_333P4N_nEeKdMZ3N0jsS2w#_7xDH8N_nEeKdMZ3N0jsS2w"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_hhlSMA-MEeGvZJJrUZdBHA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lu_vwPW4EeGUg8dPeN6LMg" name="technical_practice_list" guid="_lu_vwPW4EeGUg8dPeN6LMg" presentationName="Technical Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
@@ -72,6 +74,15 @@
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_Id-zwlv1EeKNxMP178zm7Q"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="#_LczOUfW4EeG1CfjH63krNw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" href="uma://_iVydgENdEdy245g62lfWcA#_YOPJwGmJEd2wW88Ut0zE5w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OLyysN_tEeKdMZ3N0jsS2w" name="work_products.replaces" guid="_OLyysN_tEeKdMZ3N0jsS2w" presentationName="Work Products" shapeicon="customcategories/resources/workproduct_dgm32.gif" nodeicon="customcategories/resources/workproduct_obj.gif" variabilityType="replaces">
+            <methodElementProperty xmi:id="_QO4r0N_tEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="__O9XQN_9EeKdMZ3N0jsS2w" name="CategoryElementsSortType" value="Alphabetic"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_Id-zwFv1EeKNxMP178zm7Q"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_YAkHIN_nEeKdMZ3N0jsS2w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_lyFKsN_xEeKdMZ3N0jsS2w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_umMDoN_8EeKdMZ3N0jsS2w"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -146,5 +157,9 @@
     <bases href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_OIlfwFvtEeKHU9XooDK5Ng"/>
     <bases href="uma://_iVydgENdEdy245g62lfWcA#_iVydgENdEdy245g62lfWcA"/>
     <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
+    <bases href="uma://_333P4N_nEeKdMZ3N0jsS2w#_333P4N_nEeKdMZ3N0jsS2w"/>
+    <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
+    <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

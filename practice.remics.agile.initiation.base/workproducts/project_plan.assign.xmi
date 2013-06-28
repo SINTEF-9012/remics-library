@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i85cRvC6ZP4C3-mcekjZFQ" name="new_deliverable,_0-WPoN_oEeKdMZ3N0jsS2w" guid="-i85cRvC6ZP4C3-mcekjZFQ" changeDate="2013-06-28T13:58:56.509+0200">
+  <mainDescription>&lt;p>&#xD;
+    The Project Plan should contain the following:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Preliminary business plan&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Preliminary project plan&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Assess feasibility&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Business potentials (opportunities)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Architecture modernization assessment&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Technologies&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Costs &amp;amp; risks&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        People and competency&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>
