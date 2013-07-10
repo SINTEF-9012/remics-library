@@ -75,9 +75,7 @@
             <methodElementProperty xmi:id="_sNtgUlvtEeKHU9XooDK5Ng" name="CategoryElementsSortType" value="Alphabetic"/>
             <methodElementProperty xmi:id="_sNtgU1vtEeKHU9XooDK5Ng" name="include" value="Practice"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sMqXYFvtEeKHU9XooDK5Ng" name="structured_practice_list" guid="_sMqXYFvtEeKHU9XooDK5Ng" presentationName="Practices" briefDescription="List of included practices" shapeicon="customcategories/resources/practice_set.gif" nodeicon="customcategories/resources/practice_set_obj.gif">
-            <presentation xmi:id="-k2NlICHyHtI5SlMLr7c5cg" href="customcategories/structured_practice_list.xmi#-k2NlICHyHtI5SlMLr7c5cg"/>
-          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sMqXYFvtEeKHU9XooDK5Ng" name="structured_practice_list" guid="_sMqXYFvtEeKHU9XooDK5Ng" presentationName="Practices" briefDescription="List of included practices" shapeicon="customcategories/resources/practice_set.gif" nodeicon="customcategories/resources/practice_set_obj.gif"/>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_sMqXYVvtEeKHU9XooDK5Ng" name="report_list" guid="_sMqXYVvtEeKHU9XooDK5Ng" presentationName="Reports" shapeicon="customcategories/resources/report_dgm32.gif" nodeicon="customcategories/resources/report_obj.gif">
             <methodElementProperty xmi:id="_sNtgVFvtEeKHU9XooDK5Ng" name="CategoryElementsSortType" value="Alphabetic"/>
             <methodElementProperty xmi:id="_sNtgVVvtEeKHU9XooDK5Ng" name="include" value="Report"/>

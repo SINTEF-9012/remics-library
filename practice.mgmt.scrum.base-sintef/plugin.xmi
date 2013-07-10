@@ -86,9 +86,10 @@
             <presentation xmi:id="-u_0D0nwGoZhpANLeqrq14A" href="uma://-u_0D0nwGoZhpANLeqrq14A#-u_0D0nwGoZhpANLeqrq14A"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OZIPIOF8Edyp34pwdTOSVQ" name="product_backlog" guid="_OZIPIOF8Edyp34pwdTOSVQ" presentationName="Product Backlog" briefDescription="The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OZIPIOF8Edyp34pwdTOSVQ" name="product_backlog" guid="_OZIPIOF8Edyp34pwdTOSVQ" briefDescription="The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product." variabilityType="contributes">
             <methodElementProperty xmi:id="_vYXOgIcHEeKDAPAbcNl48A" name="me_edited" value="true"/>
             <presentation xmi:id="-v5-z0Dm_JF0P2xtKd0FDrA" href="uma://-v5-z0Dm_JF0P2xtKd0FDrA#-v5-z0Dm_JF0P2xtKd0FDrA"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q5Ki8OF8Edyp34pwdTOSVQ" name="sprint_backlog" guid="_Q5Ki8OF8Edyp34pwdTOSVQ" presentationName="Sprint Backlog" briefDescription="The sprint backlog is the list of tasks that the Scrum team is committing that they will complete in the current sprint. ">
             <methodElementProperty xmi:id="_C5SlkIcKEeKDAPAbcNl48A" name="me_edited" value="true"/>

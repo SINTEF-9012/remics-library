@@ -21,7 +21,7 @@
     <resourceDescriptors xmi:id="_YPfQEGR5EeKHNrKfLiQo8g" id="-66ZlVicGZ5Yx4YKgDETNxg" uri="guidances/supportingmaterials/terminology.xmi"/>
     <resourceDescriptors xmi:id="_YPhFQGR5EeKHNrKfLiQo8g" id="-NCj6Ua8eTn_txMxFO4_7yw" uri="guidances/supportingmaterials/tool_support%202.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bN9PYPW3EeG1CfjH63krNw" name="publish.remics.agile.base" guid="_bN9PYPW3EeG1CfjH63krNw" changeDate="2013-06-28T14:09:57.898+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_bN9PYPW3EeG1CfjH63krNw" name="publish.remics.agile.base" guid="_bN9PYPW3EeG1CfjH63krNw" changeDate="2013-07-10T14:00:48.471+0200">
     <methodElementProperty xmi:id="_bOjFQPW3EeG1CfjH63krNw" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_jXgH8M0UEeKXZ8LmJZzn7w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bN9PYfW3EeG1CfjH63krNw" name="Content" guid="_bN9PYfW3EeG1CfjH63krNw">
@@ -52,8 +52,9 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lOwJcPW4EeGUg8dPeN6LMg" name="management_practice_list" guid="_lOwJcPW4EeGUg8dPeN6LMg" presentationName="Management Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
             <methodElementProperty xmi:id="_nYNkUM0UEeKXZ8LmJZzn7w" name="me_edited" value="true"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_333P4N_nEeKdMZ3N0jsS2w#_7xDH8N_nEeKdMZ3N0jsS2w"/>
+            <methodElementProperty xmi:id="_aR9QsOlYEeKwz9k73swTBQ" name="CategoryElementsSortType" value="Alphabetic"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_hhlSMA-MEeGvZJJrUZdBHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_DsFsgOlXEeKwz9k73swTBQ#_cqo0wOlXEeKwz9k73swTBQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lu_vwPW4EeGUg8dPeN6LMg" name="technical_practice_list" guid="_lu_vwPW4EeGUg8dPeN6LMg" presentationName="Technical Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_VNSKQFi7EeKc_ty_5LPMaw"/>
@@ -83,6 +84,8 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_YAkHIN_nEeKdMZ3N0jsS2w"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_lyFKsN_xEeKdMZ3N0jsS2w"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_umMDoN_8EeKdMZ3N0jsS2w"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_vj2KQN_yEeKdMZ3N0jsS2w"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -157,9 +160,9 @@
     <bases href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_OIlfwFvtEeKHU9XooDK5Ng"/>
     <bases href="uma://_iVydgENdEdy245g62lfWcA#_iVydgENdEdy245g62lfWcA"/>
     <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
-    <bases href="uma://_333P4N_nEeKdMZ3N0jsS2w#_333P4N_nEeKdMZ3N0jsS2w"/>
     <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
     <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_DsFsgOlXEeKwz9k73swTBQ#_DsFsgOlXEeKwz9k73swTBQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

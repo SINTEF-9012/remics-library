@@ -86,6 +86,9 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_umMDoN_8EeKdMZ3N0jsS2w" name="system_model" guid="_umMDoN_8EeKdMZ3N0jsS2w" presentationName="System Model">
             <methodElementProperty xmi:id="_vhSZ8N_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hRKbUOlUEeKGG9BOhTeXDw" name="product_backlog" guid="_hRKbUOlUEeKGG9BOhTeXDw" presentationName="Product Backlog">
+            <methodElementProperty xmi:id="_ied78OlUEeKGG9BOhTeXDw" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FRit_VvqEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_FRit_VvqEeKHU9XooDK5Ng"/>
