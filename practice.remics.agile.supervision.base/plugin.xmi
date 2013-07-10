@@ -11,10 +11,11 @@
     <resourceDescriptors xmi:id="_gtIeIEkXEeKu7-3cM-oErg" id="-15w0nqRqTsd-ugRdrMflEQ" uri="tasks/monitor_the_performance_of_the_system_in_the_cloud.xmi"/>
     <resourceDescriptors xmi:id="_gtIeIUkXEeKu7-3cM-oErg" id="-e3P16WIKSAzy02J7xTTAGA" uri="tasks/perform_corrective_actions.xmi"/>
     <resourceDescriptors xmi:id="__SjMwVjEEeKc_ty_5LPMaw" id="-b-7zEp7mMK_55HfVP1L_aw" uri="tasks/Prepare_and_demo_product_backlog.xmi"/>
-    <resourceDescriptors xmi:id="_W0f_MF7bEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/scrum_demo_and_retrospective.xmi"/>
-    <resourceDescriptors xmi:id="_W0f_MV7bEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning.xmi"/>
+    <resourceDescriptors xmi:id="_W0f_MF7bEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/sprint_retrospective.extends.xmi"/>
+    <resourceDescriptors xmi:id="_W0f_MV7bEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning_meeting.extends.xmi"/>
+    <resourceDescriptors xmi:id="_y8jAgOlrEeKXeuh9rEjGtw" id="-jT4-eJ619Tvis2nVtGw_SQ" uri="tasks/sprint_review.extends.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" name="practice.remics.agile.control_and_supervise.base" guid="_sNlj0PNHEeGUHqJDPoQpuw" changeDate="2013-06-28T14:01:42.614+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" name="practice.remics.agile.supervision.base" guid="_sNlj0PNHEeGUHqJDPoQpuw" changeDate="2013-07-10T16:18:33.280+0200">
     <methodElementProperty xmi:id="_sNnZAvNHEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_idiU8N_qEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0fNHEeGUHqJDPoQpuw" name="Content" guid="_sNlj0fNHEeGUHqJDPoQpuw">
@@ -32,77 +33,90 @@
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNmK5vNHEeGUHqJDPoQpuw" name="CoreContent" guid="_sNmK5vNHEeGUHqJDPoQpuw">
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J77UoPNLEeGUHqJDPoQpuw" name="control_and_supervise" guid="_J77UoPNLEeGUHqJDPoQpuw">
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_M7RaoPNLEeGUHqJDPoQpuw" name="detect_deviations" guid="_M7RaoPNLEeGUHqJDPoQpuw" presentationName="Detect Deviations">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J77UoPNLEeGUHqJDPoQpuw" name="supervision" guid="_J77UoPNLEeGUHqJDPoQpuw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_M7RaoPNLEeGUHqJDPoQpuw" name="detect_deviations" guid="_M7RaoPNLEeGUHqJDPoQpuw" presentationName="Detect Deviations" mandatoryInput="_uAFfkF7cEeKFRuoPceMYcQ">
             <presentation xmi:id="-amaJA0JXPTj8Z7r_QQuj-w" href="uma://-amaJA0JXPTj8Z7r_QQuj-w#-amaJA0JXPTj8Z7r_QQuj-w"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dauygPNSEeGUHqJDPoQpuw" name="monitor_corrective_actions" guid="_dauygPNSEeGUHqJDPoQpuw" presentationName="Monitor Corrective Actions">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dauygPNSEeGUHqJDPoQpuw" name="monitor_corrective_actions" guid="_dauygPNSEeGUHqJDPoQpuw" presentationName="Monitor Corrective Actions" output="_uAFfkF7cEeKFRuoPceMYcQ">
             <presentation xmi:id="-hYe5Pov2DLVBbkctF2uXrQ" href="uma://-hYe5Pov2DLVBbkctF2uXrQ#-hYe5Pov2DLVBbkctF2uXrQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_w98XoPW8EeGkJrjWR9R9NQ" name="control_and_supervise" guid="_w98XoPW8EeGkJrjWR9R9NQ" presentationName="Control and Supervise" briefDescription="This activity support the control and supervision of the features that are running in the cloud. It could involve the implementation of additional components and features as part of the final system." contentReferences="_M7RaoPNLEeGUHqJDPoQpuw _f4KlAUkXEeKu7-3cM-oErg _f4KlAkkXEeKu7-3cM-oErg _dauygPNSEeGUHqJDPoQpuw _f4KlBEkXEeKu7-3cM-oErg _f4KlBUkXEeKu7-3cM-oErg _Wzi88F7bEeKFRuoPceMYcQ _Wzi88V7bEeKFRuoPceMYcQ _Wzi88l7bEeKFRuoPceMYcQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_w98XoPW8EeGkJrjWR9R9NQ" name="control_and_supervise" guid="_w98XoPW8EeGkJrjWR9R9NQ" presentationName="Control and Supervise" briefDescription="This activity support the control and supervision of the features that are running in the cloud. It could involve the implementation of additional components and features as part of the final system." contentReferences="_sp3hgOlrEeKXeuh9rEjGtw _uAFfkF7cEeKFRuoPceMYcQ _SQJbwOlrEeKXeuh9rEjGtw _M7RaoPNLEeGUHqJDPoQpuw _f4KlAUkXEeKu7-3cM-oErg _f4KlAkkXEeKu7-3cM-oErg _dauygPNSEeGUHqJDPoQpuw _f4KlBEkXEeKu7-3cM-oErg _f4KlBUkXEeKu7-3cM-oErg _Wzi88F7bEeKFRuoPceMYcQ _Wzi88l7bEeKFRuoPceMYcQ _Wzi88V7bEeKFRuoPceMYcQ _x6oQgOlrEeKXeuh9rEjGtw">
+            <methodElementProperty xmi:id="_LpkT4OlsEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAUkXEeKu7-3cM-oErg" name="identify_monitoring_procedures" guid="_f4KlAUkXEeKu7-3cM-oErg" presentationName="Identify Monitoring Procedures">
             <presentation xmi:id="-qiEb7k8X7CjLWtrM-zj6Kg" href="uma://-qiEb7k8X7CjLWtrM-zj6Kg#-qiEb7k8X7CjLWtrM-zj6Kg"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAkkXEeKu7-3cM-oErg" name="implement_monitoring_procedures" guid="_f4KlAkkXEeKu7-3cM-oErg" presentationName="Implement Monitoring Procedures">
             <presentation xmi:id="-d1uoZdMPn5jfbmg5nM6EEQ" href="uma://-d1uoZdMPn5jfbmg5nM6EEQ#-d1uoZdMPn5jfbmg5nM6EEQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEWF5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBEkXEeKu7-3cM-oErg" name="monitor_the_performance_of_the_system_in_the_cloud" guid="_f4KlBEkXEeKu7-3cM-oErg" presentationName="Monitor the Performance of the System in the Cloud">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBEkXEeKu7-3cM-oErg" name="monitor_the_performance_of_the_system_in_the_cloud" guid="_f4KlBEkXEeKu7-3cM-oErg" presentationName="Monitor the Performance of the System in the Cloud" output="_uAFfkF7cEeKFRuoPceMYcQ">
             <presentation xmi:id="-15w0nqRqTsd-ugRdrMflEQ" href="uma://-15w0nqRqTsd-ugRdrMflEQ#-15w0nqRqTsd-ugRdrMflEQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
+            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBUkXEeKu7-3cM-oErg" name="perform_corrective_actions" guid="_f4KlBUkXEeKu7-3cM-oErg" presentationName="Perform Corrective Actions">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlBUkXEeKu7-3cM-oErg" name="perform_corrective_actions" guid="_f4KlBUkXEeKu7-3cM-oErg" presentationName="Perform Corrective Actions" mandatoryInput="_uAFfkF7cEeKFRuoPceMYcQ">
             <presentation xmi:id="-e3P16WIKSAzy02J7xTTAGA" href="uma://-e3P16WIKSAzy02J7xTTAGA#-e3P16WIKSAzy02J7xTTAGA"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_uAFfkF7cEeKFRuoPceMYcQ"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNERF5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQ15BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWF5BEeKVU8eUCvi3Og"/>
+            <output href="#_uAFfkF7cEeKFRuoPceMYcQ"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERF5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEQ15BEeKVU8eUCvi3Og"/>
+            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEWF5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88F7bEeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_Wzi88F7bEeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog">
             <presentation xmi:id="-b-7zEp7mMK_55HfVP1L_aw" href="uma://-b-7zEp7mMK_55HfVP1L_aw#-b-7zEp7mMK_55HfVP1L_aw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88V7bEeKFRuoPceMYcQ" name="scrum_demo_and_retrospective" guid="_Wzi88V7bEeKFRuoPceMYcQ" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88V7bEeKFRuoPceMYcQ" name="sprint_retrospective.extends" guid="_Wzi88V7bEeKFRuoPceMYcQ" presentationName="Supervision Sprint Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends">
+            <methodElementProperty xmi:id="_4KlLoOlrEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_sKJ9AOF-Edyp34pwdTOSVQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88l7bEeKFRuoPceMYcQ" name="sprint_planning" guid="_Wzi88l7bEeKFRuoPceMYcQ" presentationName="Sprint Planning">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Wzi88l7bEeKFRuoPceMYcQ" name="sprint_planning_meeting.extends" guid="_Wzi88l7bEeKFRuoPceMYcQ" presentationName="Supervision Sprint Planning Meeting" variabilityType="extends" mandatoryInput="_sp3hgOlrEeKXeuh9rEjGtw" output="_sp3hgOlrEeKXeuh9rEjGtw">
+            <methodElementProperty xmi:id="_p9uEUOlrEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4gCKAOF9Edyp34pwdTOSVQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_uAFfkF7cEeKFRuoPceMYcQ" name="monitoring_information" guid="_uAFfkF7cEeKFRuoPceMYcQ" presentationName="Monitoring Information"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_SQJbwOlrEeKXeuh9rEjGtw" name="supervision_model.assign" guid="_SQJbwOlrEeKXeuh9rEjGtw" variabilityType="contributes" deliveredWorkProducts="_uAFfkF7cEeKFRuoPceMYcQ">
+            <methodElementProperty xmi:id="_TWQIMOlrEeKXeuh9rEjGtw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_OqotoOlrEeKXeuh9rEjGtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_sp3hgOlrEeKXeuh9rEjGtw" name="product_backlog.extends" guid="_sp3hgOlrEeKXeuh9rEjGtw" presentationName="Supervision Product Backlog" variabilityType="extends">
+            <methodElementProperty xmi:id="_tk9QwOlrEeKXeuh9rEjGtw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_x6oQgOlrEeKXeuh9rEjGtw" name="sprint_review.extends" guid="_x6oQgOlrEeKXeuh9rEjGtw" presentationName="Supervision Sprint Review" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends" mandatoryInput="_sp3hgOlrEeKXeuh9rEjGtw" output="_sp3hgOlrEeKXeuh9rEjGtw">
+            <methodElementProperty xmi:id="_2KEFYOlrEeKXeuh9rEjGtw" name="me_edited" value="true"/>
+            <presentation xmi:id="-jT4-eJ619Tvis2nVtGw_SQ" href="uma://-jT4-eJ619Tvis2nVtGw_SQ#-jT4-eJ619Tvis2nVtGw_SQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_i_fkQOF-Edyp34pwdTOSVQ"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -120,5 +134,6 @@
     <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
     <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
     <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
+    <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

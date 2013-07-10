@@ -5,7 +5,7 @@
     <keyConsiderations>&lt;p>&#xD;
     Continuous Integration&#xD;
 &lt;/p></keyConsiderations>
-    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the code stubs and the system model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) complete the code to make the code stubs working.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the code stubs and the system model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) complete the code to make the code stubs working.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CY3Qyb0Zivd0v7ZggXDkHQ" name="complete_definition_of_system_requirement,_3zayUUkZEeK7P-8D6a3Ujw" guid="-CY3Qyb0Zivd0v7ZggXDkHQ">
     <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the system description, the additional requirement and the recover requirements integrate the final system requirement definition. This will be basically the aggregation of the additional and recovered requirements, with some requirements about the functionality at high level. The objective is to create a unique based on requirements with the purpose of validating the final system.&lt;/SPAN>&lt;SPAN lang=EN-GB>.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
@@ -31,7 +31,7 @@
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aGIDgIv8zNxueWIURgeoTA" name="psm_transformation,_3zayWEkZEeK7P-8D6a3Ujw" guid="-aGIDgIv8zNxueWIURgeoTA">
-    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the complete model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) generate the code stubs necessary to run that system in the different cloud components.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the complete model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) generate the code stubs necessary to run that system in the different cloud components.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-imLqVMcEsGMCsThXwggP0w" name="componentization,_3zayUkkZEeK7P-8D6a3Ujw" guid="-imLqVMcEsGMCsThXwggP0w">
     <refinedDescription>An automated activity which generates suggested new components (services) from the UML or RSL models of the system.&#xD;
@@ -61,5 +61,79 @@ team reflects on the sprint and discusses what improvements can be made in the s
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YeqhYYkGLV-vQfLyYM24iQ" name="sprint_planning,_X4Swwl7WEeKFRuoPceMYcQ" guid="-YeqhYYkGLV-vQfLyYM24iQ">
     <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
 backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-F9VcswZOvYiWWrofPWjY3Q" name="increment,_6Z9UoeloEeKXeuh9rEjGtw" guid="-F9VcswZOvYiWWrofPWjY3Q">
+    <refinedDescription>&lt;h3>&#xD;
+    Increment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints. At the&#xD;
+    end of a Sprint, the new Increment must be “Done,” which means it must be in useable condition and meet the Scrum&#xD;
+    Team’s &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/guidances/concepts/definition_of_done_B52B998F.html&quot;&#xD;
+    guid=&quot;_tprjYBCzEeGhfJHCQDJMKQ&quot;>Definition of &quot;Done&quot;&lt;/a>. It must be in useable condition regardless of whether the&#xD;
+    Product Owner decides to actually release it.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-d1eO1Ch1o19kZkdxx6vcsA" name="sprint_backlog,_6Z-iweloEeKXeuh9rEjGtw" guid="-d1eO1Ch1o19kZkdxx6vcsA">
+    <refinedDescription>&lt;h3>&#xD;
+    Sprint Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is the set of Product Backlog items selected for the Sprint plus a plan for delivering the product&#xD;
+    Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Development Team about what&#xD;
+    functionality will be in the next Increment and the work needed to deliver that functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog defines the work the Development Team will perform to turn Product Backlog items into a “Done”&#xD;
+    Increment. The Sprint Backlog makes visible all of the work that the Development Team identifies as necessary to meet&#xD;
+    the Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is a plan with enough detail that changes in progress can be understood in the Daily Scrum. The&#xD;
+    Development Team modifies Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint. This&#xD;
+    emergence occurs as the Development Team works through the plan and learns more about the work needed to achieve the&#xD;
+    Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As new work is required, the Development Team adds it to the Sprint Backlog. As work is performed or completed, the&#xD;
+    estimated remaining work is updated. When elements of the plan are deemed unnecessary, they are removed. Only the&#xD;
+    Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time&#xD;
+    picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the&#xD;
+    Development Team.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Monitoring Sprint Progress&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    At any point in time in a Sprint, the total work remaining in the Sprint Backlog items can be summed. The Development&#xD;
+    Team tracks this total work remaining at least for every Daily Scrum. The Development Team tracks these sums daily and&#xD;
+    projects the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the&#xD;
+    Development Team can manage its progress.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum does not consider the time spent working on Sprint Backlog Items. The work remaining and date are the only&#xD;
+    variables of interest.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FEK_NlulbJ832ClFw3Bihw" name="sprint_goal,_6Z_J0eloEeKXeuh9rEjGtw" guid="-FEK_NlulbJ832ClFw3Bihw">
+    <refinedDescription>&lt;h4>&#xD;
+    Sprint Goal&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog,&#xD;
+    and it provides guidance to the Development Team on why it is building the Increment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the Development Team works, it keeps this goal in mind. In order to satisfy the Sprint Goal, it implements the&#xD;
+    functionality and technology. If the work turns out to be different than the Development Team expected, then they&#xD;
+    collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal may be a milestone in the larger purpose of the product roadmap.&#xD;
+&lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

@@ -36,7 +36,6 @@
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8GimoEkUEeKu7-3cM-oErg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NVWRcEkUEeKu7-3cM-oErg" name="define_general_deployment_model" guid="_NVWRcEkUEeKu7-3cM-oErg" presentationName="Define General Deployment Model " output="_FxNETV5BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_cCjZsOlaEeKFapxeEIkyJg" name="me_edited" value="true"/>
@@ -104,11 +103,7 @@
             <methodElementProperty xmi:id="_T5z9EN_7EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWl5BEeKVU8eUCvi3Og" name="system_overview" guid="_FxNEWl5BEeKVU8eUCvi3Og" presentationName="System Overview">
-            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNESF5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQl5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="#_FxNETV5BEeKVU8eUCvi3Og"/>
-          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWl5BEeKVU8eUCvi3Og" name="system_overview" guid="_FxNEWl5BEeKVU8eUCvi3Og" presentationName="System Overview" deliveredWorkProducts="_FxNETV5BEeKVU8eUCvi3Og"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_nVBZkN_wEeKdMZ3N0jsS2w" name="requirements_model.assign" guid="_nVBZkN_wEeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEWl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og _FxNETV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQV5BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_owSdsN_wEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
@@ -120,13 +115,7 @@
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_lyFKsN_xEeKdMZ3N0jsS2w"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYl5BEeKVU8eUCvi3Og" name="validation_criteria" guid="_FxNEYl5BEeKVU8eUCvi3Og" presentationName="Validation Criteria"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQV5BEeKVU8eUCvi3Og" name="additional_system_requirements" guid="_FxNEQV5BEeKVU8eUCvi3Og" presentationName="Additional System Requirements">
-            <deliveredWorkProducts href="#_FxNEUV5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="#_FxNEYl5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="#_FxNEQF5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEV15BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNET15BEeKVU8eUCvi3Og"/>
-          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQV5BEeKVU8eUCvi3Og" name="additional_system_requirements" guid="_FxNEQV5BEeKVU8eUCvi3Og" presentationName="Additional System Requirements" deliveredWorkProducts="_FxNEUV5BEeKVU8eUCvi3Og _FxNEYl5BEeKVU8eUCvi3Og _FxNEQF5BEeKVU8eUCvi3Og"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5aIOsN_5EeKdMZ3N0jsS2w" name="product_backlog.extends" guid="_5aIOsN_5EeKdMZ3N0jsS2w" presentationName="Requirements Product Backlog" variabilityType="extends">
             <methodElementProperty xmi:id="_7aI-oN_5EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_OZIPIOF8Edyp34pwdTOSVQ"/>

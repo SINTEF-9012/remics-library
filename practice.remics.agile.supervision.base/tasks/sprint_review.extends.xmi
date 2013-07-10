@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jT4-eJ619Tvis2nVtGw_SQ" name="sprint_review.extends,_x6oQgOlrEeKXeuh9rEjGtw" guid="-jT4-eJ619Tvis2nVtGw_SQ" changeDate="2013-01-07T13:07:07.129+0100">
+  <mainDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

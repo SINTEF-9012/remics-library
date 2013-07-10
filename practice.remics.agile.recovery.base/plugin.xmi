@@ -128,8 +128,6 @@
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEV15BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNET15BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_iwtqcN_8EeKdMZ3N0jsS2w" name="requirements_model.assign" guid="_iwtqcN_8EeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEVl5BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_j3gTYN_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>

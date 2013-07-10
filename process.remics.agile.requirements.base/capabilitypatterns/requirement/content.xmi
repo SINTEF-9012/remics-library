@@ -2,49 +2,118 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:ProcessDescription xmi:id="-Di5b1uxcFjFu48VzDN3FtA" name="requirement_scrum,_xsG88TO8EeK5hZv7WCtlvg" guid="-Di5b1uxcFjFu48VzDN3FtA"/>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-W_L5TCiW86e5xgK7CVrKFw" name="apply_techniques_to_evaluate_feasibility,_8JxHgEkZEeK7P-8D6a3Ujw" guid="-W_L5TCiW86e5xgK7CVrKFw">
-    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>In a migrated system not all the parts are equally reusable; in fact there are many different ways to reuse components. In some cases the best way to reuse a component may be to wrap it, in other cases to reengineer, in other cases to replace with an external one, and in other cases to implement from scratch, etc. The SMART method provides a methodology to evaluate the feasibility of the different approaches, providing valuable information for this decision making process.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>In the end, the output of this work will be the System Description, and it will contain relevant information that justifies the selection of the implementation strategies for the different parts of the system. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Analyst, project manager, user and customer should participate in this analysis and in the final decision about the best strategy for the division of the system.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>This activity has no automation possibilities.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>There are tools for feasibility analysis that can be used in this activity. From REMICS perspective, this activity is not expected to be supported by specific tools developed in the REMICS.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>In a migrated system not all the parts are equally reusable; in fact there are many different ways to reuse components. In some cases the best way to reuse a component may be to wrap it, in other cases to reengineer, in other cases to replace with an external one, and in other cases to implement from scratch, etc. The SMART method provides a methodology to evaluate the feasibility of the different approaches, providing valuable information for this decision making process.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aW2VXGFxUkLFip7BDt6gRw" name="describe_the_system,_8JxHgkkZEeK7P-8D6a3Ujw" guid="-aW2VXGFxUkLFip7BDt6gRw">
     <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
 &lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>A preliminary description is necessary, so with the System Idea, and some additional information, a description of the system will be obtained. The System Idea could come from inside the company or outside (a customer). Regarding to the additional information, if any is needed; it could be obtained through several means such as surveys, meetings and market reviews.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>One of the objectives of this preliminary description is to serve as a basis for the evaluation of the feasibility of the system. Therefore, during this activity it is possible that more than one description is developed in order to allow the evaluation of different alternatives. Another objective of the System Description is to serve as a brief summary of the nature of the service. It will be useful to acquire a quick idea about the system that it is going to be developed without having to read the entire System Requirements document. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>In the end, the output of this work will be the System Description, and it will contain relevant information about the system to develop. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Users are who have to describe their needs and expectations, while the analysts have to help them in the identification of all the relevant aspects of the system. Finally the users, the analysts and the project manager should agree with the description.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>This activity has no automation possibilities.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>There are tools for requirement gathering that can be used in this activity. From REMICS perspective, this activity is not expected to be supported by specific tools developed in the REMICS.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;/SPAN>&lt;/P></refinedDescription>
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>One of the objectives of this preliminary description is to serve as a basis for the evaluation of the feasibility of the system. Therefore, during this activity it is possible that more than one description is developed in order to allow the evaluation of different alternatives. Another objective of the System Description is to serve as a brief summary of the nature of the service. It will be useful to acquire a quick idea about the system that it is going to be developed without having to read the entire System Requirements document. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jGgOukb1wynMvZVksNRn4g" name="elaborate_glossary,_8JxHg0kZEeK7P-8D6a3Ujw" guid="-jGgOukb1wynMvZVksNRn4g">
-    <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Gather the system terminology in a Glossary which supports the non-ambiguous use of the terms related with the system. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>The output is a Glossary document that has to be updated during the course of the system development. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Analysts, users and the project manager have to gather together the terms and agree with a common definition, so the understanding between all the roles in the project is better.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>This activity has no automation possibilities.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>There are tools for glossary definition that can be used in this activity. From REMICS perspective, this activity is not expected to be supported by specific tools developed in the REMICS.&lt;/SPAN>&lt;/SPAN>&lt;/P></refinedDescription>
+    <refinedDescription>&lt;p style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=&quot;MsoBodyText&quot;>&#xD;
+    &lt;span lang=&quot;EN-GB&quot;>Gather the system terminology in a Glossary which supports the non-ambiguous use of the terms&#xD;
+    related with the system.&lt;/span>&#xD;
+&lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Hq5Ss0alC6kzNnEAKdCJaA" name="establish_validation_criteria,_8JxHhEkZEeK7P-8D6a3Ujw" guid="-Hq5Ss0alC6kzNnEAKdCJaA">
+    <keyConsiderations>Executed together with the requirements identification</keyConsiderations>
     <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Specify the indicators which will demonstrate that the system operates perfectly and that it meets the requirements. This will be obtained agreeing with the user the set of Validation Criteria that will be used in the acceptance test of the system. It is difficult to obtain an agreement of the validation criteria but it is crucial to establish an end to the project.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>The output is a Validation Criteria document which contains a set of valuable indicators. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Analysts and the project manager together with the users prepare the set of validation criteria and later the users will decide to accept or reject. All can ask for changes until an agreement is obtained.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>This activity has no automation possibilities.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>There are tools for requirement validation that can be used in this activity. From REMICS perspective, this activity will be supported by a customised version of Trac.&lt;/SPAN>&lt;/SPAN>&lt;/P></refinedDescription>
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Specify the indicators which will demonstrate that the system operates perfectly and that it meets the requirements. This will be obtained agreeing with the user the set of Validation Criteria that will be used in the acceptance test of the system. It is difficult to obtain an agreement of the validation criteria but it is crucial to establish an end to the project.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="--A9AAQjng8dEwNq143mMWQ" name="identify_actors,_8JxHhUkZEeK7P-8D6a3Ujw" guid="--A9AAQjng8dEwNq143mMWQ">
     <refinedDescription>&lt;SPAN lang=EN-GB>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the gathered information in the System Description and the System Requirements it should agree with stakeholders (especially with the one that will pay the system) which actors are required to take part in the final solution. An actor is any person, machine, entity and so on that interacts with the system. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>The outputs from this work will be the description of the involved actors that will take part in the delivery of the system functionality described in the System Requirements Document.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Users provide all the external actors that they require in the final solution. The analysts will be the responsible of the gathering of this information from the users.&lt;/SPAN>&lt;/SPAN>&lt;/P></refinedDescription>
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the gathered information in the System Description and the System Requirements it should agree with stakeholders (especially with the one that will pay the system) which actors are required to take part in the final solution. An actor is any person, machine, entity and so on that interacts with the system. &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;/SPAN></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QPQgd6kiRaRmNQLAjqG7yw" name="identify_additional_requirements,_8JxHhkkZEeK7P-8D6a3Ujw" guid="-QPQgd6kiRaRmNQLAjqG7yw">
+    <keyConsiderations>Modelling by two techniques can&amp;nbsp;be applied</keyConsiderations>
     <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Usually migration implies also the introduction of new features or the modification of some of the existing ones. Based on the System idea and the preliminary system description identify the new and the changing features. These changing features may include both functional and non-functional changes.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>These functionalities will be represented as UML use cases, and they will include a description that optionally could incorporate an activity or a sequence diagram. The result from this work will be the System Requirements requested by the entity that will pay for the system.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>All the features are provided mainly by the users (or a people that represent his interests). These features will be evaluated and estimated by the analysts and finally selected and prioritised by the one that will pay for the development.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>This activity has no automation possibilities.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
-&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>There are tools for requirement gathering that can be used in this activity. From REMICS perspective, this activity will be supported by a customised version of trac.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>These functionalities will be represented as UML use cases, and they will include a description that optionally could incorporate an activity or a sequence diagram. The result from this work will be the System Requirements requested by the entity that will pay for the system.&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PVxssTSNvaYNqH7sOzC3TQ" name="define_general_deployment_model,_8JxHgUkZEeK7P-8D6a3Ujw" guid="-PVxssTSNvaYNqH7sOzC3TQ">
+    <refinedDescription>The cloud models and deployment architecture is defined as a session. The product owner and some representatives from the&#xD;
+scrum teams participated in the session.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-bksA4ClOh3VtOrpgx6fWsg" name="sprint_retrospective.extends,_8JxHiUkZEeK7P-8D6a3Ujw" guid="-bksA4ClOh3VtOrpgx6fWsg">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a5DowfTr2rRbc0UXrunbWQ" name="sprint_planning_meeting.extends,_8JxHikkZEeK7P-8D6a3Ujw" guid="-a5DowfTr2rRbc0UXrunbWQ">
+    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
+backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cp78HHZ99-pWPBHpgUGEvw" name="increment,_6dFhIeloEeKXeuh9rEjGtw" guid="-cp78HHZ99-pWPBHpgUGEvw">
+    <refinedDescription>&lt;h3>&#xD;
+    Increment&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Increment is the sum of all the Product Backlog items completed during a Sprint and all previous Sprints. At the&#xD;
+    end of a Sprint, the new Increment must be “Done,” which means it must be in useable condition and meet the Scrum&#xD;
+    Team’s &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../practice.mgmt.scrum.base-sintef/guidances/concepts/definition_of_done_B52B998F.html&quot;&#xD;
+    guid=&quot;_tprjYBCzEeGhfJHCQDJMKQ&quot;>Definition of &quot;Done&quot;&lt;/a>. It must be in useable condition regardless of whether the&#xD;
+    Product Owner decides to actually release it.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_a_f9_rIVIpRycA36BkIOw" name="sprint_backlog,_6dFhJOloEeKXeuh9rEjGtw" guid="-_a_f9_rIVIpRycA36BkIOw">
+    <refinedDescription>&lt;h3>&#xD;
+    Sprint Backlog&#xD;
+&lt;/h3>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is the set of Product Backlog items selected for the Sprint plus a plan for delivering the product&#xD;
+    Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast by the Development Team about what&#xD;
+    functionality will be in the next Increment and the work needed to deliver that functionality.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog defines the work the Development Team will perform to turn Product Backlog items into a “Done”&#xD;
+    Increment. The Sprint Backlog makes visible all of the work that the Development Team identifies as necessary to meet&#xD;
+    the Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Backlog is a plan with enough detail that changes in progress can be understood in the Daily Scrum. The&#xD;
+    Development Team modifies Sprint Backlog throughout the Sprint, and the Sprint Backlog emerges during the Sprint. This&#xD;
+    emergence occurs as the Development Team works through the plan and learns more about the work needed to achieve the&#xD;
+    Sprint Goal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As new work is required, the Development Team adds it to the Sprint Backlog. As work is performed or completed, the&#xD;
+    estimated remaining work is updated. When elements of the plan are deemed unnecessary, they are removed. Only the&#xD;
+    Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time&#xD;
+    picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the&#xD;
+    Development Team.&#xD;
+&lt;/p>&#xD;
+&lt;h4>&#xD;
+    Monitoring Sprint Progress&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    At any point in time in a Sprint, the total work remaining in the Sprint Backlog items can be summed. The Development&#xD;
+    Team tracks this total work remaining at least for every Daily Scrum. The Development Team tracks these sums daily and&#xD;
+    projects the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the&#xD;
+    Development Team can manage its progress.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Scrum does not consider the time spent working on Sprint Backlog Items. The work remaining and date are the only&#xD;
+    variables of interest.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-09nEFr3-goIrcwI2EA8Q4Q" name="sprint_goal,_6dGIMeloEeKXeuh9rEjGtw" guid="-09nEFr3-goIrcwI2EA8Q4Q">
+    <refinedDescription>&lt;h4>&#xD;
+    Sprint Goal&#xD;
+&lt;/h4>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal is an objective that will be met within the Sprint through the implementation of the Product Backlog,&#xD;
+    and it provides guidance to the Development Team on why it is building the Increment.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    As the Development Team works, it keeps this goal in mind. In order to satisfy the Sprint Goal, it implements the&#xD;
+    functionality and technology. If the work turns out to be different than the Development Team expected, then they&#xD;
+    collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Sprint Goal may be a milestone in the larger purpose of the product roadmap.&#xD;
+&lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

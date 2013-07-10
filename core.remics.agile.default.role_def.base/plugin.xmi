@@ -22,7 +22,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ktORsFvqEeKHU9XooDK5Ng" name="remics.agile" guid="_ktORsFvqEeKHU9XooDK5Ng">
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_39RPwF4_EeKVU8eUCvi3Og" name="scrum_master" guid="_39RPwF4_EeKVU8eUCvi3Og" presentationName="Scrum Master"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7ilwoF4_EeKVU8eUCvi3Og" name="product_owner" guid="_7ilwoF4_EeKVU8eUCvi3Og" presentationName="Product Owner"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gi9t0F5AEeKVU8eUCvi3Og" name="requirement_team" guid="_Gi9t0F5AEeKVU8eUCvi3Og" presentationName="Requirement Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gi9t0F5AEeKVU8eUCvi3Og" name="requirements_team" guid="_Gi9t0F5AEeKVU8eUCvi3Og" presentationName="Requirements Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_zb8qoM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Jin84F5AEeKVU8eUCvi3Og" name="recovery_team" guid="_Jin84F5AEeKVU8eUCvi3Og" presentationName="Recovery Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
@@ -47,7 +47,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AwUgMM3SEeKOw8KXk47y0g" name="development_team" guid="_AwUgMM3SEeKOw8KXk47y0g" presentationName="Development Team">
             <methodElementProperty xmi:id="_CrZs0M3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DRxwUM3SEeKOw8KXk47y0g" name="scrum team" guid="_DRxwUM3SEeKOw8KXk47y0g" presentationName="Scrum Team">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DRxwUM3SEeKOw8KXk47y0g" name="scrum_team" guid="_DRxwUM3SEeKOw8KXk47y0g" presentationName="Scrum Team">
             <methodElementProperty xmi:id="_Eme5cM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
