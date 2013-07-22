@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5tMhPZ2e6lVUl9qny9Lh8g" name="alphas,_hwXgEHX2EeKWJu8IiPDXrQ" guid="-5tMhPZ2e6lVUl9qny9Lh8g" changeDate="2013-02-14T11:17:35.399+0100">
-  <mainDescription>Alphas are representations of the essential things to work with. The Alphas provide descriptions of the kind of things that&#xD;
-a team will manage, produce, and use in the process of developing, maintaining and supporting software. They also act as&#xD;
-the anchor for any additional sub-alphas and work products required by the software engineering practices.</mainDescription>
-</org.eclipse.epf.uma:ContentDescription>

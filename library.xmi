@@ -94,11 +94,6 @@
     <subManagers xmi:id="_N1kiIGCYEeKyN6GWGi5q3A" href="uma://_mYfo8OCIEeC1y_NExchKwQ#_N1kiIGCYEeKyN6GWGi5q3A"/>
     <subManagers xmi:id="_N2xcAGCYEeKyN6GWGi5q3A" href="uma://_p0w9wJlfEeGlkdGl1HQlDA#_N2xcAGCYEeKyN6GWGi5q3A"/>
     <subManagers xmi:id="_N3X48GCYEeKyN6GWGi5q3A" href="uma://_XOu58JljEeGlkdGl1HQlDA#_N3X48GCYEeKyN6GWGi5q3A"/>
-    <subManagers xmi:id="_fsdBMHXuEeKWJu8IiPDXrQ" href="uma://_fsD_oHXuEeKWJu8IiPDXrQ#_fsdBMHXuEeKWJu8IiPDXrQ"/>
-    <subManagers xmi:id="_qAj40HXvEeKWJu8IiPDXrQ" href="uma://_qAckEHXvEeKWJu8IiPDXrQ#_qAj40HXvEeKWJu8IiPDXrQ"/>
-    <subManagers xmi:id="_1m5p0HXvEeKWJu8IiPDXrQ" href="uma://_1m30oHXvEeKWJu8IiPDXrQ#_1m5p0HXvEeKWJu8IiPDXrQ"/>
-    <subManagers xmi:id="_BuvlYHXwEeKWJu8IiPDXrQ" href="uma://_BusiEHXwEeKWJu8IiPDXrQ#_BuvlYHXwEeKWJu8IiPDXrQ"/>
-    <subManagers xmi:id="_wWcRQHX5EeKWJu8IiPDXrQ" href="uma://_wWWxsHX5EeKWJu8IiPDXrQ#_wWcRQHX5EeKWJu8IiPDXrQ"/>
     <subManagers xmi:id="_6Ab_IeF4Edyp34pwdTOSVQ" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_IeF4Edyp34pwdTOSVQ"/>
     <subManagers xmi:id="_k4GBgdTqEeK_xckCJAmBKQ" href="uma://_k4GBcNTqEeK_xckCJAmBKQ#_k4GBgdTqEeK_xckCJAmBKQ"/>
     <subManagers xmi:id="_u18_8N11EeKJSdWLwfZ04g" href="uma://_u1SRkN11EeKJSdWLwfZ04g#_u18_8N11EeKJSdWLwfZ04g"/>
@@ -198,11 +193,6 @@
     <resourceDescriptors xmi:id="_N1kiIWCYEeKyN6GWGi5q3A" id="_mYfo8OCIEeC1y_NExchKwQ" uri="practice.gen.production_release.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_N2xcAWCYEeKyN6GWGi5q3A" id="_p0w9wJlfEeGlkdGl1HQlDA" uri="practice.gen.doc_trng.assign/plugin.xmi"/>
     <resourceDescriptors xmi:id="_N3X48WCYEeKyN6GWGi5q3A" id="_XOu58JljEeGlkdGl1HQlDA" uri="practice.gen.production_release.assign/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_fsdBMXXuEeKWJu8IiPDXrQ" id="_fsD_oHXuEeKWJu8IiPDXrQ" uri="core.essence.software_engineering_kernel.base-sintef/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_qAj40XXvEeKWJu8IiPDXrQ" id="_qAckEHXvEeKWJu8IiPDXrQ" uri="core.essence.software_engineering_kernel.extend_business_analysis-sintef/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_1m5p0XXvEeKWJu8IiPDXrQ" id="_1m30oHXvEeKWJu8IiPDXrQ" uri="core.essence.software_engineering_kernel.extend_development-sintef/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_BuvlYXXwEeKWJu8IiPDXrQ" id="_BusiEHXwEeKWJu8IiPDXrQ" uri="core.essence.software_engineering_kernel.extend_task_management-sintef/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_wWcRQXX5EeKWJu8IiPDXrQ" id="_wWWxsHX5EeKWJu8IiPDXrQ" uri="publish.essence.base-sintef/plugin.xmi"/>
     <resourceDescriptors xmi:id="_TuUMkM0UEeKXZ8LmJZzn7w" id="_6Ab_EOF4Edyp34pwdTOSVQ" uri="practice.mgmt.scrum.base-sintef/plugin.xmi"/>
     <resourceDescriptors xmi:id="_grnq4NTzEeKvV7kYUDXKsA" id="_k4GBcNTqEeK_xckCJAmBKQ" uri="process.sei.smart.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_u18_8d11EeKJSdWLwfZ04g" id="_u1SRkN11EeKJSdWLwfZ04g" uri="toolmentor.remics.migrate.extend_d2cm-tecnalia/plugin.xmi"/>
@@ -304,11 +294,6 @@
     <methodPlugins xmi:id="_mYfo8OCIEeC1y_NExchKwQ" href="uma://_mYfo8OCIEeC1y_NExchKwQ#_mYfo8OCIEeC1y_NExchKwQ"/>
     <methodPlugins xmi:id="_p0w9wJlfEeGlkdGl1HQlDA" href="uma://_p0w9wJlfEeGlkdGl1HQlDA#_p0w9wJlfEeGlkdGl1HQlDA"/>
     <methodPlugins xmi:id="_XOu58JljEeGlkdGl1HQlDA" href="uma://_XOu58JljEeGlkdGl1HQlDA#_XOu58JljEeGlkdGl1HQlDA"/>
-    <methodPlugins xmi:id="_fsD_oHXuEeKWJu8IiPDXrQ" href="uma://_fsD_oHXuEeKWJu8IiPDXrQ#_fsD_oHXuEeKWJu8IiPDXrQ"/>
-    <methodPlugins xmi:id="_qAckEHXvEeKWJu8IiPDXrQ" href="uma://_qAckEHXvEeKWJu8IiPDXrQ#_qAckEHXvEeKWJu8IiPDXrQ"/>
-    <methodPlugins xmi:id="_1m30oHXvEeKWJu8IiPDXrQ" href="uma://_1m30oHXvEeKWJu8IiPDXrQ#_1m30oHXvEeKWJu8IiPDXrQ"/>
-    <methodPlugins xmi:id="_BusiEHXwEeKWJu8IiPDXrQ" href="uma://_BusiEHXwEeKWJu8IiPDXrQ#_BusiEHXwEeKWJu8IiPDXrQ"/>
-    <methodPlugins xmi:id="_wWWxsHX5EeKWJu8IiPDXrQ" href="uma://_wWWxsHX5EeKWJu8IiPDXrQ#_wWWxsHX5EeKWJu8IiPDXrQ"/>
     <methodPlugins xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
     <methodPlugins xmi:id="_k4GBcNTqEeK_xckCJAmBKQ" href="uma://_k4GBcNTqEeK_xckCJAmBKQ#_k4GBcNTqEeK_xckCJAmBKQ"/>
     <methodPlugins xmi:id="_u1SRkN11EeKJSdWLwfZ04g" href="uma://_u1SRkN11EeKJSdWLwfZ04g#_u1SRkN11EeKJSdWLwfZ04g"/>
