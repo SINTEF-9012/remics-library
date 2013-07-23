@@ -5,7 +5,7 @@
     <keyConsiderations>&lt;p>&#xD;
     Continuous Integration&#xD;
 &lt;/p></keyConsiderations>
-    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the code stubs and the system model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) complete the code to make the code stubs working.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the code stubs and the system model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) complete the code to make the code stubs working.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CY3Qyb0Zivd0v7ZggXDkHQ" name="complete_definition_of_system_requirement,_3zayUUkZEeK7P-8D6a3Ujw" guid="-CY3Qyb0Zivd0v7ZggXDkHQ">
     <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the system description, the additional requirement and the recover requirements integrate the final system requirement definition. This will be basically the aggregation of the additional and recovered requirements, with some requirements about the functionality at high level. The objective is to create a unique based on requirements with the purpose of validating the final system.&lt;/SPAN>&lt;SPAN lang=EN-GB>.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
@@ -31,7 +31,7 @@
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aGIDgIv8zNxueWIURgeoTA" name="psm_transformation,_3zayWEkZEeK7P-8D6a3Ujw" guid="-aGIDgIv8zNxueWIURgeoTA">
-    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the complete model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) generate the code stubs necessary to run that system in the different cloud components.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P>&lt;p/>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+    <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>With the complete model of the system (including requirements, the SOA model of the architecture, the Cloud model of the deployment, and implementation design) generate the code stubs necessary to run that system in the different cloud components.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-imLqVMcEsGMCsThXwggP0w" name="componentization,_3zayUkkZEeK7P-8D6a3Ujw" guid="-imLqVMcEsGMCsThXwggP0w">
     <refinedDescription>An automated activity which generates suggested new components (services) from the UML or RSL models of the system.&#xD;
@@ -135,5 +135,10 @@ backlog and discusses it with the team. The sprint goal is defined and sprint ba
 &lt;p>&#xD;
     The Sprint Goal may be a milestone in the larger purpose of the product roadmap.&#xD;
 &lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mwIg88_wNrPYBkRfcfelyw" name="sprint_review.extends,_tt-2APOUEeKoGYdq-8Z_HA" guid="-mwIg88_wNrPYBkRfcfelyw">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

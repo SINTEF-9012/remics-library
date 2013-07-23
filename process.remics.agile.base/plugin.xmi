@@ -4,8 +4,9 @@
     <subManagers xmi:id="_4vGYEvXCEeGkJrjWR9R9NQ" href="uma://_4t6FQPXCEeGkJrjWR9R9NQ#_4vGYEvXCEeGkJrjWR9R9NQ"/>
     <resourceDescriptors xmi:id="_4vGYEfXCEeGkJrjWR9R9NQ" id="_4t6FQPXCEeGkJrjWR9R9NQ" uri="deliveryprocesses/remics_lifecycle/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="__20psPNGEeGUHqJDPoQpuw" name="process.remics.agile.base" guid="__20psPNGEeGUHqJDPoQpuw" changeDate="2013-01-11T12:52:39.424+0100">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="__20psPNGEeGUHqJDPoQpuw" name="process.remics.agile.base" guid="__20psPNGEeGUHqJDPoQpuw" changeDate="2013-07-23T13:45:20.590+0200">
     <methodElementProperty xmi:id="__22e4vNGEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_YiRKYPONEeKb3NsawrMs1A" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__20psfNGEeGUHqJDPoQpuw" name="Content" guid="__20psfNGEeGUHqJDPoQpuw">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__20psvNGEeGUHqJDPoQpuw" name="Categories" guid="__20psvNGEeGUHqJDPoQpuw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__20ps_NGEeGUHqJDPoQpuw" name="Domains" guid="__20ps_NGEeGUHqJDPoQpuw"/>
@@ -28,5 +29,13 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__20pv_NGEeGUHqJDPoQpuw" name="ProcessContributions" guid="__20pv_NGEeGUHqJDPoQpuw"/>
     <bases href="uma://_-kDhQFmDEeKrerZnFJznjw#_-kDhQFmDEeKrerZnFJznjw"/>
+    <bases href="uma://_wwMUUFvqEeKHU9XooDK5Ng#_wwMUUFvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_fkWigPOMEeKb3NsawrMs1A#_fkWigPOMEeKb3NsawrMs1A"/>
+    <bases href="uma://_BLr2YFvrEeKHU9XooDK5Ng#_BLr2YFvrEeKHU9XooDK5Ng"/>
+    <bases href="uma://_GuCEoFvrEeKHU9XooDK5Ng#_GuCEoFvrEeKHU9XooDK5Ng"/>
+    <bases href="uma://_MGQtkFvrEeKHU9XooDK5Ng#_MGQtkFvrEeKHU9XooDK5Ng"/>
+    <bases href="uma://_S0dD4FvrEeKHU9XooDK5Ng#_S0dD4FvrEeKHU9XooDK5Ng"/>
+    <bases href="uma://_ZfNEoFvrEeKHU9XooDK5Ng#_ZfNEoFvrEeKHU9XooDK5Ng"/>
+    <bases href="uma://_d9RLYFvrEeKHU9XooDK5Ng#_d9RLYFvrEeKHU9XooDK5Ng"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

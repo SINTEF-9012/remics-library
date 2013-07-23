@@ -2,10 +2,11 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_wwMUYVvqEeKHU9XooDK5Ng" guid="_wwMUYVvqEeKHU9XooDK5Ng">
     <subManagers xmi:id="_YBXP0Vv6EeKLopANFXrp4g" href="uma://_X-ZbYFv6EeKLopANFXrp4g#_YBXP0Vv6EeKLopANFXrp4g"/>
-    <resourceDescriptors xmi:id="_YATf4Fv6EeKLopANFXrp4g" id="_X-ZbYFv6EeKLopANFXrp4g" uri="capabilitypatterns/control_and_supervise/model.xmi"/>
+    <resourceDescriptors xmi:id="_YATf4Fv6EeKLopANFXrp4g" id="_X-ZbYFv6EeKLopANFXrp4g" uri="capabilitypatterns/supervision/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_wwMUUFvqEeKHU9XooDK5Ng" name="process.remics.agile.control_and_supervise.base" guid="_wwMUUFvqEeKHU9XooDK5Ng">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_wwMUUFvqEeKHU9XooDK5Ng" name="process.remics.agile.supervision.base" guid="_wwMUUFvqEeKHU9XooDK5Ng" changeDate="2013-07-23T14:29:03.300+0200">
     <methodElementProperty xmi:id="_wwMUY1vqEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_dZYbkPOTEeKoGYdq-8Z_HA" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wwMUUVvqEeKHU9XooDK5Ng" name="Content" guid="_wwMUUVvqEeKHU9XooDK5Ng">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wwMUUlvqEeKHU9XooDK5Ng" name="Categories" guid="_wwMUUlvqEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wwMUU1vqEeKHU9XooDK5Ng" name="Domains" guid="_wwMUU1vqEeKHU9XooDK5Ng"/>

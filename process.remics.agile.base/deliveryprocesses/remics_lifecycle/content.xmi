@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Zbu8qk0KvOBOqY0rQOv_3g" name="remics_lifecycle,_XGlxYclsEeCrm66MgLsmlQ" guid="-Zbu8qk0KvOBOqY0rQOv_3g">
-  <purpose>&lt;p>&#xD;
-    This delivery process is intended to:&#xD;
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-Zbu8qk0KvOBOqY0rQOv_3g" name="remics_lifecycle,_XGlxYclsEeCrm66MgLsmlQ" guid="-Zbu8qk0KvOBOqY0rQOv_3g">
+    <mainDescription>&lt;p>&#xD;
+    The REMICS Methodology Lifecycle follows an incremental process covering the following activity areas: Initiation,&#xD;
+    Requirements, Recovery, Migration, Validation, Supervision, Exploitation and Withdrawal.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Requirements, Recovery, Migration and Validation activity areas as highly iterative and can consists of serveral&#xD;
+    sprints. The number of sprints depends&amp;nbsp;on the degree of novelty of the business domain, the technology being used,&#xD;
+    architectural complexity, and project size, to name a few factors. Sprints&amp;nbsp;may have variable lengths, depending on&#xD;
+    project characteristics. Sprints between 2-4 weeks are&amp;nbsp;typically recommended, because this timeframe provides:&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
+    &lt;li>&#xD;
+        A reasonable amount of time for projects to deliver meaningful increments in functionality.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Early and frequent customer feedback.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Timely management of risks and issues during the course of the project.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+    <purpose>&lt;ul>&#xD;
     &lt;li>&#xD;
         Promote collaboration (both internal and external to the team), to align interests and share understanding&#xD;
     &lt;/li>&#xD;
@@ -22,8 +41,14 @@
     &lt;li>&#xD;
         Allow team members to understand how to perform their work to achieve project goals&#xD;
     &lt;/li>&#xD;
-&lt;/ul>&#xD;
-&lt;p>&#xD;
-    &lt;br />&#xD;
-&lt;/p></purpose>
-</org.eclipse.epf.uma:DeliveryProcessDescription>
+&lt;/ul></purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-7GV-3zwYsiGcK2eWgYUXbA" name="initiation,_nTmtMfOMEeKb3NsawrMs1A" guid="-7GV-3zwYsiGcK2eWgYUXbA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-LhTUYWbClSpq4w4lm3HzqA" name="exploitation,_1qigEfOYEeKoGYdq-8Z_HA" guid="-LhTUYWbClSpq4w4lm3HzqA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-ZAMTz2-38XCrRPNUxHEIRA" name="withrawal,_iRkkIVi0EeKBXYc66RG5vg" guid="-ZAMTz2-38XCrRPNUxHEIRA"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-t55qdt9i-2oSj1d7x6ddhg" name="identify_withdrawal_procedures,_kREWsFi0EeKBXYc66RG5vg" guid="-t55qdt9i-2oSj1d7x6ddhg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FfA89_9bnMrOlOE6mvAfyw" name="implement_withdrawal_procedures,_kREWsVi0EeKBXYc66RG5vg" guid="-FfA89_9bnMrOlOE6mvAfyw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ifJ22sx6eRQYJiNVZc3h4g" name="increment,_xr2ngfOZEeKbZ_LosRZv5g" guid="-ifJ22sx6eRQYJiNVZc3h4g"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-l1RWAGiKqT3Rb-9xmRfevQ" name="sprint_backlog,_xr31ofOZEeKbZ_LosRZv5g" guid="-l1RWAGiKqT3Rb-9xmRfevQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dm8uuwPr4YMpl5RP53w35Q" name="sprint_goal,_xr4csfOZEeKbZ_LosRZv5g" guid="-dm8uuwPr4YMpl5RP53w35Q"/>
+</xmi:XMI>

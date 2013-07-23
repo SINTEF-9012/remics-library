@@ -10,7 +10,6 @@
     <resourceDescriptors xmi:id="_RKhLcFmXEeKLLc6iJZ0EJQ" id="-b-7zEp7mMK_55HfVP1L_aw" uri="tasks/Prepare_and_demo_product_backlog.xmi"/>
     <resourceDescriptors xmi:id="_P7lp0F7fEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/sprint_retrospective.extends.xmi"/>
     <resourceDescriptors xmi:id="_P7rwcF7fEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning_meeting.extends.xmi"/>
-    <resourceDescriptors xmi:id="_Ao8EwOl8EeKXeuh9rEjGtw" id="-ZnB0vdvJWpP46MlSoVow6Q" uri="tasks/sprint_review.extends.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_J5jLMFjGEeKc_ty_5LPMaw" name="practice.remics.agile.interoperability.base" guid="_J5jLMFjGEeKc_ty_5LPMaw" changeDate="2013-07-10T18:15:10.872+0200">
     <methodElementProperty xmi:id="_J5jLQ1jGEeKc_ty_5LPMaw" name="plugin_synFree" value="true"/>
@@ -38,7 +37,8 @@
             <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
             <output href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwVjGEeKc_ty_5LPMaw" name="Identify_interoperability_problems_scenarios" guid="_WdUNwVjGEeKc_ty_5LPMaw" presentationName="Identify interoperability problems/scenarios" output="_FxNEUl5BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwVjGEeKc_ty_5LPMaw" name="identify_interoperability_problems_scenarios" guid="_WdUNwVjGEeKc_ty_5LPMaw" presentationName="Identify interoperability problems/scenarios" output="_FxNEUl5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_ShpzIPOKEeKb3NsawrMs1A" name="me_edited" value="true"/>
             <presentation xmi:id="-gulMFsqtGcj-M0sUP-P6Gw" href="uma://-gulMFsqtGcj-M0sUP-P6Gw#-gulMFsqtGcj-M0sUP-P6Gw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
             <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
@@ -64,33 +64,8 @@
             <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
             <output href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_ZeHFQFjGEeKc_ty_5LPMaw" name="interoperability" guid="_ZeHFQFjGEeKc_ty_5LPMaw" presentationName="Interoperability" briefDescription="This activity address the iteroperability problems that may appear as part of the migration to the cloud and the implementation of addtional features during the migration effort." contentReferences="_WdUNwFjGEeKc_ty_5LPMaw _WdUNwVjGEeKc_ty_5LPMaw _WdUNwljGEeKc_ty_5LPMaw _WdUNw1jGEeKc_ty_5LPMaw _WdUNxFjGEeKc_ty_5LPMaw _P6ig8F7fEeKFRuoPceMYcQ _P6ig8V7fEeKFRuoPceMYcQ _P6ig8l7fEeKFRuoPceMYcQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_ZeHFQFjGEeKc_ty_5LPMaw" name="interoperability" guid="_ZeHFQFjGEeKc_ty_5LPMaw" presentationName="Interoperability" briefDescription="This activity address the iteroperability problems that may appear as part of the migration to the cloud and the implementation of addtional features during the migration effort." contentReferences="_WdUNwFjGEeKc_ty_5LPMaw _WdUNwVjGEeKc_ty_5LPMaw _WdUNwljGEeKc_ty_5LPMaw _WdUNw1jGEeKc_ty_5LPMaw _WdUNxFjGEeKc_ty_5LPMaw">
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P6ig8F7fEeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_P6ig8F7fEeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for requirements scrum">
-            <methodElementProperty xmi:id="_OdEjAOl8EeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <presentation xmi:id="-b-7zEp7mMK_55HfVP1L_aw" href="uma://-b-7zEp7mMK_55HfVP1L_aw#-b-7zEp7mMK_55HfVP1L_aw"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P6ig8V7fEeKFRuoPceMYcQ" name="sprint_retrospective.extends" guid="_P6ig8V7fEeKFRuoPceMYcQ" presentationName="Interoperability Sprint Retrospective" variabilityType="extends">
-            <methodElementProperty xmi:id="_WA79EOl8EeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_sKJ9AOF-Edyp34pwdTOSVQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P6ig8l7fEeKFRuoPceMYcQ" name="sprint_planning_meeting.extends" guid="_P6ig8l7fEeKFRuoPceMYcQ" presentationName="Interoperability Sprint Planning Meeting" variabilityType="extends">
-            <methodElementProperty xmi:id="_C83PMOl8EeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4gCKAOF9Edyp34pwdTOSVQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUl5BEeKVU8eUCvi3Og" name="interoperability_system_requirements" guid="_FxNEUl5BEeKVU8eUCvi3Og" presentationName="Interoperability System Requirements">
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
@@ -100,18 +75,6 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_bsb8wOl7EeKXeuh9rEjGtw" name="requirements_model.assign" guid="_bsb8wOl7EeKXeuh9rEjGtw" variabilityType="contributes">
             <methodElementProperty xmi:id="_csIfMOl7EeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1q5p4Ol7EeKXeuh9rEjGtw" name="product_backlog.extends" guid="_1q5p4Ol7EeKXeuh9rEjGtw" presentationName="Interoperability Product Backlog" variabilityType="extends">
-            <methodElementProperty xmi:id="_3mRKYOl7EeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__xDagOl7EeKXeuh9rEjGtw" name="sprint_review.extends" guid="__xDagOl7EeKXeuh9rEjGtw" presentationName="Interoperability Sprint Review" variabilityType="extends">
-            <methodElementProperty xmi:id="_JOmTAOl8EeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <presentation xmi:id="-ZnB0vdvJWpP46MlSoVow6Q" href="uma://-ZnB0vdvJWpP46MlSoVow6Q#-ZnB0vdvJWpP46MlSoVow6Q"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_i_fkQOF-Edyp34pwdTOSVQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
           </contentElements>
         </childPackages>
       </childPackages>

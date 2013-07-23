@@ -2,10 +2,11 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_d9XSDVvrEeKHU9XooDK5Ng" guid="_d9XSDVvrEeKHU9XooDK5Ng">
     <subManagers xmi:id="_iTNi4Vi0EeKBXYc66RG5vg" href="uma://_iRkkIFi0EeKBXYc66RG5vg#_iTNi4Vi0EeKBXYc66RG5vg"/>
-    <resourceDescriptors xmi:id="_iRkkI1i0EeKBXYc66RG5vg" id="_iRkkIFi0EeKBXYc66RG5vg" uri="capabilitypatterns/withrawal/model.xmi"/>
+    <resourceDescriptors xmi:id="_iRkkI1i0EeKBXYc66RG5vg" id="_iRkkIFi0EeKBXYc66RG5vg" uri="capabilitypatterns/withdrawal/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_d9RLYFvrEeKHU9XooDK5Ng" name="process.remics.agile.withrawal.base" guid="_d9RLYFvrEeKHU9XooDK5Ng">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_d9RLYFvrEeKHU9XooDK5Ng" name="process.remics.agile.withdrawal.base" guid="_d9RLYFvrEeKHU9XooDK5Ng" changeDate="2013-07-23T14:29:14.283+0200">
     <methodElementProperty xmi:id="_d9XSD1vrEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_fCHT8POTEeKoGYdq-8Z_HA" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d9RLYVvrEeKHU9XooDK5Ng" name="Content" guid="_d9RLYVvrEeKHU9XooDK5Ng">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d9RLYlvrEeKHU9XooDK5Ng" name="Categories" guid="_d9RLYlvrEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d9RLY1vrEeKHU9XooDK5Ng" name="Domains" guid="_d9RLY1vrEeKHU9XooDK5Ng"/>

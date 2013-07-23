@@ -26,20 +26,10 @@
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-aZ9NrVcijd7eWpSUU0gsKg" name="perform_interoperability_analysis,_X3WP01mXEeKLLc6iJZ0EJQ" guid="-aZ9NrVcijd7eWpSUU0gsKg">
     <refinedDescription>&lt;P style=&quot;MARGIN: 0cm 0cm 6pt&quot; class=MsoBodyText>&lt;SPAN lang=EN-GB>Analyse the interoperability problems and requirements to have a basis for the definition of strategies to deal with them.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7P-HstLbtmFGam1A1-4h_g" name="prepare_and_demo_product_backlog,_mjgccF7gEeKFRuoPceMYcQ" guid="-7P-HstLbtmFGam1A1-4h_g">
-    <refinedDescription>The requirements product backlog is prepared by the product owner of the requirements scrum together with an analyst with&#xD;
-knowledge and experience of interoperability issues. The backlog contains the main functional modules of the components&#xD;
-that are going to be implemented from scratch. The backlog also contains the interoperability areas which will affect the&#xD;
-new components. The requirements product backlog is presented to the team on a short meeting.</refinedDescription>
-  </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ljj-7av9aQrfY2nDXOAQSw" name="scrum_demo_and_retrospective,_mjgccV7gEeKFRuoPceMYcQ" guid="-Ljj-7av9aQrfY2nDXOAQSw">
     <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
 interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
 team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
-  </org.eclipse.epf.uma:DescriptorDescription>
-  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-yx4kijXFEb6eukUncssUJA" name="sprint_planning,_mjgccl7gEeKFRuoPceMYcQ" guid="-yx4kijXFEb6eukUncssUJA">
-    <refinedDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
-backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NSRQKtKsOyRG8b1xP24sRQ" name="increment,_6YFFUeloEeKXeuh9rEjGtw" guid="-NSRQKtKsOyRG8b1xP24sRQ">
     <refinedDescription>&lt;h3>&#xD;

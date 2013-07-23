@@ -2,7 +2,7 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_S0dD8VvrEeKHU9XooDK5Ng" guid="_S0dD8VvrEeKHU9XooDK5Ng">
     <subManagers xmi:id="_xts4YDO8EeK5hZv7WCtlvg" href="uma://_xsG88DO8EeK5hZv7WCtlvg#_xts4YDO8EeK5hZv7WCtlvg"/>
-    <resourceDescriptors xmi:id="_xsL1cDO8EeK5hZv7WCtlvg" id="_xsG88DO8EeK5hZv7WCtlvg" uri="capabilitypatterns/requirement/model.xmi"/>
+    <resourceDescriptors xmi:id="_xsL1cDO8EeK5hZv7WCtlvg" id="_xsG88DO8EeK5hZv7WCtlvg" uri="capabilitypatterns/requirements/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_S0dD4FvrEeKHU9XooDK5Ng" name="process.remics.agile.requirements.base" guid="_S0dD4FvrEeKHU9XooDK5Ng">
     <methodElementProperty xmi:id="_S0dD81vrEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>

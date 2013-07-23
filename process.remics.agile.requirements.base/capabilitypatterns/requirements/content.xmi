@@ -116,4 +116,9 @@ backlog and discusses it with the team. The sprint goal is defined and sprint ba
     The Sprint Goal may be a milestone in the larger purpose of the product roadmap.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wgjIVfJmloc_YzbEqEQzWA" name="sprint_review.extends,_rUEVIPOQEeKoGYdq-8Z_HA" guid="-wgjIVfJmloc_YzbEqEQzWA">
+    <refinedDescription>At the end of each sprint the models of the new requirements are presented to the product owner and everybody who is&#xD;
+interested. As well, another meeting called sprint retrospective is held. During the sprint retrospective meeting the whole&#xD;
+team reflects on the sprint and discusses what improvements can be made in the subsequent sprints.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

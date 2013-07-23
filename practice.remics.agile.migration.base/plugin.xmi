@@ -7,12 +7,10 @@
     <resourceDescriptors xmi:id="_ntA20EkWEeKu7-3cM-oErg" id="-0E8LHUt-jOKPUkTpb_gsXQ" uri="tasks/definition_of_cloud_architecture.xmi"/>
     <resourceDescriptors xmi:id="_ntTxwEkWEeKu7-3cM-oErg" id="-xr49C5fN809-sz8U4vs7Rw" uri="tasks/implementation_design.xmi"/>
     <resourceDescriptors xmi:id="_ntc7sEkWEeKu7-3cM-oErg" id="-4l3DawaVMajTCfyJgKUPkw" uri="tasks/psm_transformation.xmi"/>
-    <resourceDescriptors xmi:id="_lHvb0Vi7EeKc_ty_5LPMaw" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/migrate.xmi"/>
+    <resourceDescriptors xmi:id="_lHvb0Vi7EeKc_ty_5LPMaw" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/migration.xmi"/>
     <resourceDescriptors xmi:id="_fUZ1IVjEEeKc_ty_5LPMaw" id="-PcLUpMPXsX6GDs8ZFegPig" uri="tasks/definition_of_overall_cloud_architecture.xmi"/>
     <resourceDescriptors xmi:id="_fUjmIFjEEeKc_ty_5LPMaw" id="-Gqnp2a1CANG-Yk0lZg5-4Q" uri="tasks/componentization.xmi"/>
     <resourceDescriptors xmi:id="_jPhm4VjEEeKc_ty_5LPMaw" id="-J7-e9k_I-HWuhsyv56Exwg" uri="tasks/perform_isolation_functional_testing.xmi"/>
-    <resourceDescriptors xmi:id="_3iyJYF7SEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/sprint_retrospective.extends.xmi"/>
-    <resourceDescriptors xmi:id="_3i4QAF7SEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning_meeting.extends.xmi"/>
     <resourceDescriptors xmi:id="_nRMQ0OlkEeKXeuh9rEjGtw" id="-wJM7eV5s9CcCXhV-UhL40w" uri="tasks/sprint_review.extends.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_gAWK4PNHEeGUHqJDPoQpuw" name="practice.remics.agile.migration.base" guid="_gAWK4PNHEeGUHqJDPoQpuw" changeDate="2013-07-10T15:00:06.617+0200">
@@ -88,7 +86,7 @@
             <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
             <mandatoryInput href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_FxNEVl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_k3YroFi7EeKc_ty_5LPMaw" name="migrate" guid="_k3YroFi7EeKc_ty_5LPMaw" presentationName="Migrate" briefDescription="This activity will define the architecture of the new system taking into account the expected system definition from the requirement and feasibility fase, the knowledge recovered in the recover fase, and other inputs from other activities in the methodology (interpoerability, validate, control and supervise, and withdrawal). It will also support the low level design and the coding of the different components that take part in the final solution.&#xD;&#xA;" contentReferences="_CCXKEOlhEeKXeuh9rEjGtw _FxNEQ15BEeKVU8eUCvi3Og _FxNERF5BEeKVU8eUCvi3Og _N51ccOljEeKXeuh9rEjGtw _wmP8cF7PEeKFRuoPceMYcQ _FxNERV5BEeKVU8eUCvi3Og _FxNEWF5BEeKVU8eUCvi3Og _cLI0UOliEeKXeuh9rEjGtw _ltdpsOljEeKXeuh9rEjGtw _mK0EQEkWEeKu7-3cM-oErg _mKqTQEkWEeKu7-3cM-oErg _WGsgYEkWEeKu7-3cM-oErg _mK0EQUkWEeKu7-3cM-oErg _mK0EQkkWEeKu7-3cM-oErg _MrlQkDO8EeK5hZv7WCtlvg _mK0EQ0kWEeKu7-3cM-oErg _pXie8EkWEeKu7-3cM-oErg _3hvAgF7SEeKFRuoPceMYcQ _mK0EREkWEeKu7-3cM-oErg _3hvAgl7SEeKFRuoPceMYcQ _3hvAgV7SEeKFRuoPceMYcQ _l7BIEOlkEeKXeuh9rEjGtw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_k3YroFi7EeKc_ty_5LPMaw" name="migration" guid="_k3YroFi7EeKc_ty_5LPMaw" presentationName="Migration" briefDescription="This activity will define the architecture of the new system taking into account the expected system definition from the requirement and feasibility fase, the knowledge recovered in the recover fase, and other inputs from other activities in the methodology (interpoerability, validate, control and supervise, and withdrawal). It will also support the low level design and the coding of the different components that take part in the final solution.&#xD;&#xA;" contentReferences="_CCXKEOlhEeKXeuh9rEjGtw _FxNEQ15BEeKVU8eUCvi3Og _FxNERF5BEeKVU8eUCvi3Og _N51ccOljEeKXeuh9rEjGtw _wmP8cF7PEeKFRuoPceMYcQ _FxNERV5BEeKVU8eUCvi3Og _FxNEWF5BEeKVU8eUCvi3Og _cLI0UOliEeKXeuh9rEjGtw _ltdpsOljEeKXeuh9rEjGtw _mK0EQEkWEeKu7-3cM-oErg _mKqTQEkWEeKu7-3cM-oErg _WGsgYEkWEeKu7-3cM-oErg _mK0EQUkWEeKu7-3cM-oErg _mK0EQkkWEeKu7-3cM-oErg _MrlQkDO8EeK5hZv7WCtlvg _mK0EQ0kWEeKu7-3cM-oErg _pXie8EkWEeKu7-3cM-oErg _3hvAgF7SEeKFRuoPceMYcQ _mK0EREkWEeKu7-3cM-oErg _3hvAgl7SEeKFRuoPceMYcQ _3hvAgV7SEeKFRuoPceMYcQ _l7BIEOlkEeKXeuh9rEjGtw">
             <methodElementProperty xmi:id="_yZ_4oOlhEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
           </contentElements>
@@ -100,9 +98,8 @@
             <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
             <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3hvAgV7SEeKFRuoPceMYcQ" name="sprint_retrospective.extends" guid="_3hvAgV7SEeKFRuoPceMYcQ" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3hvAgV7SEeKFRuoPceMYcQ" name="sprint_retrospective.extends" guid="_3hvAgV7SEeKFRuoPceMYcQ" presentationName="Migration Sprint Retrospective" briefDescription="Migration Sprint Retrospective held at the end of each sprint." variabilityType="extends">
             <methodElementProperty xmi:id="_Hi-9MOllEeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <presentation xmi:id="-LyEQYYN5__bw9h27Nct-Vw" href="uma://-LyEQYYN5__bw9h27Nct-Vw#-LyEQYYN5__bw9h27Nct-Vw"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_sKJ9AOF-Edyp34pwdTOSVQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
@@ -110,7 +107,6 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3hvAgl7SEeKFRuoPceMYcQ" name="sprint_planning_meeting.extends" guid="_3hvAgl7SEeKFRuoPceMYcQ" presentationName="Migration Sprint Planning Meeting" variabilityType="extends" mandatoryInput="_CCXKEOlhEeKXeuh9rEjGtw" output="_CCXKEOlhEeKXeuh9rEjGtw">
             <methodElementProperty xmi:id="_NIaKEOlkEeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <presentation xmi:id="-iKNgIoN9xjcteWaqKs5Cog" href="uma://-iKNgIoN9xjcteWaqKs5Cog#-iKNgIoN9xjcteWaqKs5Cog"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4gCKAOF9Edyp34pwdTOSVQ"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
@@ -142,7 +138,7 @@
             <methodElementProperty xmi:id="_m0aDoOljEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_umMDoN_8EeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l7BIEOlkEeKXeuh9rEjGtw" name="sprint_review.extends" guid="_l7BIEOlkEeKXeuh9rEjGtw" presentationName="Requirements ScrumDemo and Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends" mandatoryInput="_CCXKEOlhEeKXeuh9rEjGtw" output="_CCXKEOlhEeKXeuh9rEjGtw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l7BIEOlkEeKXeuh9rEjGtw" name="sprint_review.extends" guid="_l7BIEOlkEeKXeuh9rEjGtw" presentationName="Migration Sprint Review" briefDescription="Migration Sprint Review held at the end of each sprint." variabilityType="extends" mandatoryInput="_CCXKEOlhEeKXeuh9rEjGtw" output="_CCXKEOlhEeKXeuh9rEjGtw">
             <methodElementProperty xmi:id="_wBLfwOlkEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-wJM7eV5s9CcCXhV-UhL40w" href="uma://-wJM7eV5s9CcCXhV-UhL40w#-wJM7eV5s9CcCXhV-UhL40w"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_i_fkQOF-Edyp34pwdTOSVQ"/>

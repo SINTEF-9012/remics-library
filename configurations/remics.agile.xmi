@@ -42,6 +42,7 @@
   <methodPluginSelection href="uma://_u1SRkN11EeKJSdWLwfZ04g#_u1SRkN11EeKJSdWLwfZ04g"/>
   <methodPluginSelection href="uma://_DsFsgOlXEeKwz9k73swTBQ#_DsFsgOlXEeKwz9k73swTBQ"/>
   <methodPluginSelection href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_bDwxAOlsEeKXeuh9rEjGtw"/>
+  <methodPluginSelection href="uma://_fkWigPOMEeKb3NsawrMs1A#_fkWigPOMEeKb3NsawrMs1A"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_iVydgENdEdy245g62lfWcA#_QFSssGmJEd2wW88Ut0zE5w"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_iVydgENdEdy245g62lfWcA#_9JlvbLekEd-D7YZN9NgldQ"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_iVydgENdEdy245g62lfWcA#_buz3kENfEdy245g62lfWcA"/>
@@ -566,6 +567,10 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_bDwxCelsEeKXeuh9rEjGtw"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_bDwxCOlsEeKXeuh9rEjGtw"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_bDwxCulsEeKXeuh9rEjGtw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_fkWigPOMEeKb3NsawrMs1A#_fkWijfOMEeKb3NsawrMs1A"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_fkWigPOMEeKb3NsawrMs1A#_fkWigfOMEeKb3NsawrMs1A"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_nTmtMPOMEeKb3NsawrMs1A#_nTmtMPOMEeKb3NsawrMs1A"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_1qigEPOYEeKoGYdq-8Z_HA#_1qigEPOYEeKoGYdq-8Z_HA"/>
   <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_XsUf0lvtEeKHU9XooDK5Ng"/>
   <defaultView xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_XsUf0lvtEeKHU9XooDK5Ng"/>
 </org.eclipse.epf.uma:MethodConfiguration>

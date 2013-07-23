@@ -44,7 +44,7 @@
             <methodElementProperty xmi:id="_mSka4N_sEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hnEREPW4EeGUg8dPeN6LMg" name="remics" guid="_hnEREPW4EeGUg8dPeN6LMg" presentationName="OpenUP" shapeicon="customcategories/resources/delproc_lg_dgm32.gif" nodeicon="customcategories/resources/delproc_obj.gif" categorizedElements="_qg-RAfW4EeGUg8dPeN6LMg _qg-RAvW4EeGUg8dPeN6LMg"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j2xp4PW4EeGUg8dPeN6LMg" name="practices.replaces" guid="_j2xp4PW4EeGUg8dPeN6LMg" presentationName="Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" variabilityType="replaces" categorizedElements="_lu_vwPW4EeGUg8dPeN6LMg _lOwJcPW4EeGUg8dPeN6LMg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_j2xp4PW4EeGUg8dPeN6LMg" name="practices.replaces" guid="_j2xp4PW4EeGUg8dPeN6LMg" presentationName="Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif" variabilityType="replaces" categorizedElements="_lu_vwPW4EeGUg8dPeN6LMg _lOwJcPW4EeGUg8dPeN6LMg _xQV9wPN5EeKb3NsawrMs1A">
             <methodElementProperty xmi:id="_YDVDYGR5EeKHNrKfLiQo8g" name="PUBLISH_CATEGORY" value="false"/>
             <methodElementProperty xmi:id="_YDVDYWR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
             <presentation xmi:id="-PSRjLwuucSbqE2ylFAbF9w" href="uma://-PSRjLwuucSbqE2ylFAbF9w#-PSRjLwuucSbqE2ylFAbF9w"/>
@@ -55,15 +55,13 @@
             <methodElementProperty xmi:id="_aR9QsOlYEeKwz9k73swTBQ" name="CategoryElementsSortType" value="Alphabetic"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_hhlSMA-MEeGvZJJrUZdBHA"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_DsFsgOlXEeKwz9k73swTBQ#_cqo0wOlXEeKwz9k73swTBQ"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_nqgPEOlsEeKXeuh9rEjGtw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lu_vwPW4EeGUg8dPeN6LMg" name="technical_practice_list" guid="_lu_vwPW4EeGUg8dPeN6LMg" presentationName="Technical Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
+            <methodElementProperty xmi:id="_y3OmkPN6EeKb3NsawrMs1A" name="me_edited" value="true"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_VNSKQFi7EeKc_ty_5LPMaw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_cD2ZcFi7EeKc_ty_5LPMaw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_k3YroFi7EeKc_ty_5LPMaw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_qeNKMFi7EeKc_ty_5LPMaw"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_w98XoPW8EeGkJrjWR9R9NQ"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_fFpCYFiuEeKBXYc66RG5vg#_OISdgFi7EeKc_ty_5LPMaw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_J5jLMFjGEeKc_ty_5LPMaw#_ZeHFQFjGEeKc_ty_5LPMaw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_qg-RAfW4EeGUg8dPeN6LMg" name="getting_started" guid="_qg-RAfW4EeGUg8dPeN6LMg" briefDescription="This area provides information useful for understanding how to deploy and adopt Remics Methodology." shapeicon="customcategories/resources/micl.gif" nodeicon="customcategories/resources/mic.gif" variabilityType="contributes" categorizedElements="_0xlX0GPaEeKRgrdi2v1O5Q _ipCBkGPbEeKRgrdi2v1O5Q _QYS_sGPcEeKRgrdi2v1O5Q _cjGIoGPcEeKRgrdi2v1O5Q _ia5CcGPcEeKRgrdi2v1O5Q">
@@ -92,6 +90,12 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_A3hf4OlnEeKXeuh9rEjGtw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_oV8LAOlnEeKXeuh9rEjGtw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#__xwGcOltEeKXeuh9rEjGtw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xQV9wPN5EeKb3NsawrMs1A" name="in_service_practice_list" guid="_xQV9wPN5EeKb3NsawrMs1A" presentationName="In-Service Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
+            <methodElementProperty xmi:id="_y0lXsPN5EeKb3NsawrMs1A" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_w98XoPW8EeGkJrjWR9R9NQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_nqgPEOlsEeKXeuh9rEjGtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Practice" href="uma://_fFpCYFiuEeKBXYc66RG5vg#_OISdgFi7EeKc_ty_5LPMaw"/>
           </contentElements>
         </childPackages>
       </childPackages>
