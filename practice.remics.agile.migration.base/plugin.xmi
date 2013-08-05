@@ -117,7 +117,6 @@
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CCXKEOlhEeKXeuh9rEjGtw" name="product_backlog.extends" guid="_CCXKEOlhEeKXeuh9rEjGtw" presentationName="Migration Product Backlog">
             <methodElementProperty xmi:id="_C8eo8OlhEeKXeuh9rEjGtw" name="me_edited" value="true"/>

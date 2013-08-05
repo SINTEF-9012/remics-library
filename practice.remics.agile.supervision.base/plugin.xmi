@@ -13,7 +13,7 @@
     <resourceDescriptors xmi:id="_W0f_MF7bEeKFRuoPceMYcQ" id="-LyEQYYN5__bw9h27Nct-Vw" uri="tasks/sprint_retrospective.extends.xmi"/>
     <resourceDescriptors xmi:id="_W0f_MV7bEeKFRuoPceMYcQ" id="-iKNgIoN9xjcteWaqKs5Cog" uri="tasks/sprint_planning_meeting.extends.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" name="practice.remics.agile.supervision.base" guid="_sNlj0PNHEeGUHqJDPoQpuw" changeDate="2013-07-10T16:18:33.280+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_sNlj0PNHEeGUHqJDPoQpuw" name="practice.remics.agile.supervision.base" guid="_sNlj0PNHEeGUHqJDPoQpuw" changeDate="2013-08-02T13:31:18.300+0200">
     <methodElementProperty xmi:id="_sNnZAvNHEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_idiU8N_qEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sNlj0fNHEeGUHqJDPoQpuw" name="Content" guid="_sNlj0fNHEeGUHqJDPoQpuw">
@@ -46,13 +46,13 @@
             <methodElementProperty xmi:id="_LpkT4OlsEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAUkXEeKu7-3cM-oErg" name="identify_monitoring_procedures" guid="_f4KlAUkXEeKu7-3cM-oErg" presentationName="Identify Monitoring Procedures">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAUkXEeKu7-3cM-oErg" name="identify_monitoring_procedures" guid="_f4KlAUkXEeKu7-3cM-oErg" presentationName="Identify Monitoring Procedures" output="_GudeMPtnEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_eR26QPtrEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
             <presentation xmi:id="-qiEb7k8X7CjLWtrM-zj6Kg" href="uma://-qiEb7k8X7CjLWtrM-zj6Kg#-qiEb7k8X7CjLWtrM-zj6Kg"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_gVi7EF5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEQ15BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEWF5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNERV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_X02JcP2uEeK8HINtOGo1Xg"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_EdAyEP2uEeK8HINtOGo1Xg"/>
+            <optionalInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_f4KlAkkXEeKu7-3cM-oErg" name="implement_monitoring_procedures" guid="_f4KlAkkXEeKu7-3cM-oErg" presentationName="Implement Monitoring Procedures">
             <presentation xmi:id="-d1uoZdMPn5jfbmg5nM6EEQ" href="uma://-d1uoZdMPn5jfbmg5nM6EEQ#-d1uoZdMPn5jfbmg5nM6EEQ"/>
@@ -80,6 +80,20 @@
             <methodElementProperty xmi:id="_TWQIMOlrEeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_OqotoOlrEeKXeuh9rEjGtw"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_kdDDcPtmEeKiy_TRaqF2Gg" name="in_service_procedures.assign" guid="_kdDDcPtmEeKiy_TRaqF2Gg" variabilityType="contributes" deliveredWorkProducts="_GudeMPtnEeKiy_TRaqF2Gg">
+            <methodElementProperty xmi:id="_q_ZWIPtmEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_DAWqMPtmEeKiy_TRaqF2Gg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_GudeMPtnEeKiy_TRaqF2Gg" name="supervision_procedures" guid="_GudeMPtnEeKiy_TRaqF2Gg" presentationName="Supervision Procedures">
+            <methodElementProperty xmi:id="_JVOFEPtnEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iDIhYP25EeK8HINtOGo1Xg" name="identify_monitoring_requirements" guid="_iDIhYP25EeK8HINtOGo1Xg" presentationName="Identify Monitoring Requirements">
+            <methodElementProperty xmi:id="_m-N7UP25EeK8HINtOGo1Xg" name="me_edited" value="true"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_EdAyEP2uEeK8HINtOGo1Xg"/>
+            <mandatoryInput href="#_GudeMPtnEeKiy_TRaqF2Gg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <optionalInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sNmK5_NHEeGUHqJDPoQpuw" name="CapabilityPatterns" guid="_sNmK5_NHEeGUHqJDPoQpuw"/>
@@ -97,5 +111,6 @@
     <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
     <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
     <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
+    <bases href="uma://_S0dD4FvrEeKHU9XooDK5Ng#_S0dD4FvrEeKHU9XooDK5Ng"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

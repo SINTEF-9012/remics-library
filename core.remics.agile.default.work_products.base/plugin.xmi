@@ -19,8 +19,9 @@
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FRit_FvqEeKHU9XooDK5Ng" name="CoreContent" guid="_FRit_FvqEeKHU9XooDK5Ng">
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_QVe8gFvqEeKHU9XooDK5Ng" name="remics.agile" guid="_QVe8gFvqEeKHU9XooDK5Ng">
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8RPV0N_lEeKdMZ3N0jsS2w" name="requirements_model" guid="_8RPV0N_lEeKdMZ3N0jsS2w" presentationName="Requirements Model">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_QVe8gFvqEeKHU9XooDK5Ng" name="remics.agile.interprocess" guid="_QVe8gFvqEeKHU9XooDK5Ng">
+          <methodElementProperty xmi:id="_MJDYEP2rEeK8HINtOGo1Xg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8RPV0N_lEeKdMZ3N0jsS2w" name="requirements_model" guid="_8RPV0N_lEeKdMZ3N0jsS2w" presentationName="Requirements Model" briefDescription="It contains information about the future system">
             <methodElementProperty xmi:id="_9s6CkN_lEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_YAkHIN_nEeKdMZ3N0jsS2w" name="project_plan" guid="_YAkHIN_nEeKdMZ3N0jsS2w" presentationName="Project Plan">
@@ -53,6 +54,27 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="__xwGcOltEeKXeuh9rEjGtw" name="withdrawal_model" guid="__xwGcOltEeKXeuh9rEjGtw" presentationName="Withdrawal Model">
             <methodElementProperty xmi:id="_BY6RgOluEeKXeuh9rEjGtw" name="me_edited" value="true"/>
           </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_N9ApAP2rEeK8HINtOGo1Xg" name="remics.agile.interpractices" guid="_N9ApAP2rEeK8HINtOGo1Xg">
+          <methodElementProperty xmi:id="_N9ApAf2rEeK8HINtOGo1Xg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_QlgVQP2rEeK8HINtOGo1Xg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_DAWqMPtmEeKiy_TRaqF2Gg" name="in_service_procedures" guid="_DAWqMPtmEeKiy_TRaqF2Gg" presentationName="In Service Procedures">
+            <methodElementProperty xmi:id="_IvZ3sPtmEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_e6XI4PtkEeKiy_TRaqF2Gg" name="requirements_model.assign" guid="_e6XI4PtkEeKiy_TRaqF2Gg" variabilityType="contributes" variabilityBasedOnElement="_8RPV0N_lEeKdMZ3N0jsS2w" deliveredWorkProducts="_DAWqMPtmEeKiy_TRaqF2Gg _EdAyEP2uEeK8HINtOGo1Xg _X02JcP2uEeK8HINtOGo1Xg">
+            <methodElementProperty xmi:id="_nv4_IPtkEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EdAyEP2uEeK8HINtOGo1Xg" name="system_idea" guid="_EdAyEP2uEeK8HINtOGo1Xg" presentationName="System Idea">
+            <methodElementProperty xmi:id="_Ed5i4P2uEeK8HINtOGo1Xg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_X02JcP2uEeK8HINtOGo1Xg" name="actors" guid="_X02JcP2uEeK8HINtOGo1Xg" presentationName="Actors">
+            <methodElementProperty xmi:id="_ZQV3EP2uEeK8HINtOGo1Xg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEQV5BEeKVU8eUCvi3Og" name="additional_system_requirements" guid="_FxNEQV5BEeKVU8eUCvi3Og" presentationName="Additional System Requirements">
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
+            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEWl5BEeKVU8eUCvi3Og" name="system_overview" guid="_FxNEWl5BEeKVU8eUCvi3Og" presentationName="System Overview"/>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FRit_VvqEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_FRit_VvqEeKHU9XooDK5Ng"/>

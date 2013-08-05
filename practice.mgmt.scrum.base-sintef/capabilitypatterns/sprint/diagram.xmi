@@ -333,7 +333,7 @@
       <nodes xmi:type="org.eclipse.epf.diagram.model:RoleNode" xmi:id="_3-mc4c0WEeKXZ8LmJZzn7w" name="Product Owner">
         <linkedElement xmi:type="org.eclipse.epf.uma:RoleDescriptor" href="uma://_rsd8YA-NEeGvZJJrUZdBHA#_rsd8Yg-NEeGvZJJrUZdBHA"/>
       </nodes>
-      <nodes xmi:type="org.eclipse.epf.diagram.model:TaskNode" xmi:id="_3-mc4s0WEeKXZ8LmJZzn7w" linkedElement="_rsd8aw-NEeGvZJJrUZdBHA" name="Ordering the Product Backlog" index="0">
+      <nodes xmi:type="org.eclipse.epf.diagram.model:TaskNode" xmi:id="_3-mc4s0WEeKXZ8LmJZzn7w" name="Ordering the Product Backlog" index="0">
         <outgoingConnections xmi:type="org.eclipse.epf.diagram.model:Link" xmi:id="_3-nrA80WEeKXZ8LmJZzn7w"/>
       </nodes>
     </nodes>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hyLc8VvqEeKHU9XooDK5Ng" guid="_hyLc8VvqEeKHU9XooDK5Ng"/>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_hyLc4FvqEeKHU9XooDK5Ng" name="core.remics.agile.default.role_def.base" guid="_hyLc4FvqEeKHU9XooDK5Ng" changeDate="2013-06-05T13:07:36.144+0200">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hyLc8VvqEeKHU9XooDK5Ng" guid="_hyLc8VvqEeKHU9XooDK5Ng">
+    <resourceDescriptors xmi:id="_M9rkcPRfEeK_Qdv2z5BBoA" id="-fqvhrKxM1G85csZD0D0vyQ" uri="roles/scrum_team.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_hyLc4FvqEeKHU9XooDK5Ng" name="core.remics.agile.default.role_def.base" guid="_hyLc4FvqEeKHU9XooDK5Ng" changeDate="2013-07-24T14:39:06.840+0200">
     <methodElementProperty xmi:id="_hyLc81vqEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_IMlIUM3QEeKOw8KXk47y0g" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc4VvqEeKHU9XooDK5Ng" name="Content" guid="_hyLc4VvqEeKHU9XooDK5Ng">
@@ -20,8 +22,14 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc7FvqEeKHU9XooDK5Ng" name="CoreContent" guid="_hyLc7FvqEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ktORsFvqEeKHU9XooDK5Ng" name="remics.agile" guid="_ktORsFvqEeKHU9XooDK5Ng">
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_39RPwF4_EeKVU8eUCvi3Og" name="scrum_master" guid="_39RPwF4_EeKVU8eUCvi3Og" presentationName="Scrum Master"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7ilwoF4_EeKVU8eUCvi3Og" name="product_owner" guid="_7ilwoF4_EeKVU8eUCvi3Og" presentationName="Product Owner"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_39RPwF4_EeKVU8eUCvi3Og" name="scrum_master" guid="_39RPwF4_EeKVU8eUCvi3Og" presentationName="Scrum Master" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_Ihe7YPReEeK_Qdv2z5BBoA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Bw-twOF6Edyp34pwdTOSVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7ilwoF4_EeKVU8eUCvi3Og" name="product_owner" guid="_7ilwoF4_EeKVU8eUCvi3Og" presentationName="Product Owner" variabilityType="extendsReplaces">
+            <methodElementProperty xmi:id="_KVxjgPReEeK_Qdv2z5BBoA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_QcnRMOF5Edyp34pwdTOSVQ"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gi9t0F5AEeKVU8eUCvi3Og" name="requirements_team" guid="_Gi9t0F5AEeKVU8eUCvi3Og" presentationName="Requirements Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_zb8qoM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
           </contentElements>
@@ -44,11 +52,18 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uS5mgF7fEeKFRuoPceMYcQ" name="interoperability_team" guid="_uS5mgF7fEeKFRuoPceMYcQ" presentationName="Interoperability Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_vgPqEM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AwUgMM3SEeKOw8KXk47y0g" name="development_team" guid="_AwUgMM3SEeKOw8KXk47y0g" presentationName="Development Team">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AwUgMM3SEeKOw8KXk47y0g" name="development_team" guid="_AwUgMM3SEeKOw8KXk47y0g" presentationName="Development Team" variabilityType="extendsReplaces">
             <methodElementProperty xmi:id="_CrZs0M3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_EChNoBC0EeGhfJHCQDJMKQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DRxwUM3SEeKOw8KXk47y0g" name="scrum_team" guid="_DRxwUM3SEeKOw8KXk47y0g" presentationName="Scrum Team">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DRxwUM3SEeKOw8KXk47y0g" name="scrum_team" guid="_DRxwUM3SEeKOw8KXk47y0g" presentationName="Scrum Team" variabilityType="extendsReplaces">
             <methodElementProperty xmi:id="_Eme5cM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-fqvhrKxM1G85csZD0D0vyQ" href="uma://-fqvhrKxM1G85csZD0D0vyQ#-fqvhrKxM1G85csZD0D0vyQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_O65KUOF6Edyp34pwdTOSVQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_lmqP4PRgEeK_Qdv2z5BBoA" name="new_role" guid="_lmqP4PRgEeK_Qdv2z5BBoA" variabilityType="contributes" variabilityBasedOnElement="_AwUgMM3SEeKOw8KXk47y0g">
+            <methodElementProperty xmi:id="_o0kWUPRgEeK_Qdv2z5BBoA" name="me_edited" value="true"/>
+            <responsibleFor href="uma://_FRit8FvqEeKHU9XooDK5Ng#_vj2KQN_yEeKdMZ3N0jsS2w"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -56,5 +71,6 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hyLc7lvqEeKHU9XooDK5Ng" name="DeliveryProcesses" guid="_hyLc7lvqEeKHU9XooDK5Ng"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hyLc71vqEeKHU9XooDK5Ng" name="ProcessContributions" guid="_hyLc71vqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

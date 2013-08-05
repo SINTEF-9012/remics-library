@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_J5jLQVjGEeKc_ty_5LPMaw" guid="_J5jLQVjGEeKc_ty_5LPMaw">
-    <resourceDescriptors xmi:id="_WvT8sVjGEeKc_ty_5LPMaw" id="-fMROuynjQ1IJ4fBlb14iWA" uri="tasks/define_interoperability_related_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_WvT8sVjGEeKc_ty_5LPMaw" id="-fMROuynjQ1IJ4fBlb14iWA" uri="tasks/define_interoperability_requirements.xmi"/>
     <resourceDescriptors xmi:id="_WvdtsFjGEeKc_ty_5LPMaw" id="-gulMFsqtGcj-M0sUP-P6Gw" uri="tasks/Identify_interoperability_problems_scenarios.xmi"/>
     <resourceDescriptors xmi:id="_Wv5ykFjGEeKc_ty_5LPMaw" id="-sewmHs4XFy3iAWCdNDYOgw" uri="tasks/implement_interoperability_components.xmi"/>
     <resourceDescriptors xmi:id="_WwDjkFjGEeKc_ty_5LPMaw" id="-iB0KAmeaEEbNq9oL4NUIlw" uri="tasks/interoperability_monitoring.xmi"/>
@@ -30,23 +30,27 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J5jLPFjGEeKc_ty_5LPMaw" name="CoreContent" guid="_J5jLPFjGEeKc_ty_5LPMaw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_THFRwFjGEeKc_ty_5LPMaw" name="interoperability" guid="_THFRwFjGEeKc_ty_5LPMaw">
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwFjGEeKc_ty_5LPMaw" name="define_interoperability_related_requirements" guid="_WdUNwFjGEeKc_ty_5LPMaw" presentationName="Define Interoperability Related Requirements">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwFjGEeKc_ty_5LPMaw" name="define_interoperability_requirements" guid="_WdUNwFjGEeKc_ty_5LPMaw" presentationName="Define Interoperability Requirements">
+            <methodElementProperty xmi:id="_2Ui3AP23EeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-fMROuynjQ1IJ4fBlb14iWA" href="uma://-fMROuynjQ1IJ4fBlb14iWA#-fMROuynjQ1IJ4fBlb14iWA"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_EdAyEP2uEeK8HINtOGo1Xg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <optionalInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwVjGEeKc_ty_5LPMaw" name="identify_interoperability_problems_scenarios" guid="_WdUNwVjGEeKc_ty_5LPMaw" presentationName="Identify interoperability problems/scenarios" output="_FxNEUl5BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwVjGEeKc_ty_5LPMaw" name="identify_interoperability_problems_scenarios" guid="_WdUNwVjGEeKc_ty_5LPMaw" presentationName="Identify interoperability problems/scenarios">
             <methodElementProperty xmi:id="_ShpzIPOKEeKb3NsawrMs1A" name="me_edited" value="true"/>
             <presentation xmi:id="-gulMFsqtGcj-M0sUP-P6Gw" href="uma://-gulMFsqtGcj-M0sUP-P6Gw#-gulMFsqtGcj-M0sUP-P6Gw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_X02JcP2uEeK8HINtOGo1Xg"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <optionalInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNwljGEeKc_ty_5LPMaw" name="implement_interoperability_components" guid="_WdUNwljGEeKc_ty_5LPMaw" presentationName="Implement Interoperability Components ">
             <presentation xmi:id="-sewmHs4XFy3iAWCdNDYOgw" href="uma://-sewmHs4XFy3iAWCdNDYOgw#-sewmHs4XFy3iAWCdNDYOgw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
             <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEQ15BEeKVU8eUCvi3Og"/>
             <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_FxNEWF5BEeKVU8eUCvi3Og"/>
             <output href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_wmP8cF7PEeKFRuoPceMYcQ"/>
@@ -55,14 +59,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNw1jGEeKc_ty_5LPMaw" name="interoperability_monitoring" guid="_WdUNw1jGEeKc_ty_5LPMaw" presentationName="Interoperability Monitoring">
             <presentation xmi:id="-iB0KAmeaEEbNq9oL4NUIlw" href="uma://-iB0KAmeaEEbNq9oL4NUIlw#-iB0KAmeaEEbNq9oL4NUIlw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
             <output href="uma://_sNlj0PNHEeGUHqJDPoQpuw#_uAFfkF7cEeKFRuoPceMYcQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WdUNxFjGEeKc_ty_5LPMaw" name="perform_interoperability_analysis" guid="_WdUNxFjGEeKc_ty_5LPMaw" presentationName="perform Interoperability Analysis ">
             <presentation xmi:id="-44wYW_sRgXamrvfDcpz4Ww" href="uma://-44wYW_sRgXamrvfDcpz4Ww#-44wYW_sRgXamrvfDcpz4Ww"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uS5mgF7fEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <output href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQV5BEeKVU8eUCvi3Og"/>
+            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_ZeHFQFjGEeKc_ty_5LPMaw" name="interoperability" guid="_ZeHFQFjGEeKc_ty_5LPMaw" presentationName="Interoperability" briefDescription="This activity address the iteroperability problems that may appear as part of the migration to the cloud and the implementation of addtional features during the migration effort." contentReferences="_WdUNwFjGEeKc_ty_5LPMaw _WdUNwVjGEeKc_ty_5LPMaw _WdUNwljGEeKc_ty_5LPMaw _WdUNw1jGEeKc_ty_5LPMaw _WdUNxFjGEeKc_ty_5LPMaw">
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
@@ -70,7 +74,6 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEUl5BEeKVU8eUCvi3Og" name="interoperability_system_requirements" guid="_FxNEUl5BEeKVU8eUCvi3Og" presentationName="Interoperability System Requirements">
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_bsb8wOl7EeKXeuh9rEjGtw" name="requirements_model.assign" guid="_bsb8wOl7EeKXeuh9rEjGtw" variabilityType="contributes">
             <methodElementProperty xmi:id="_csIfMOl7EeKXeuh9rEjGtw" name="me_edited" value="true"/>

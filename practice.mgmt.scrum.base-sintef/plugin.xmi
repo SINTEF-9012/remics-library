@@ -36,7 +36,7 @@
     <resourceDescriptors xmi:id="_F0buwIcPEeKDAPAbcNl48A" id="-YG8aUAJJSP90-g5KM_jbSg" uri="workproducts/sprint_goal.xmi"/>
     <resourceDescriptors xmi:id="_wTGZoF5UEd22Gu98eFOlrQ" id="-vYDEjOsyiDLCq28_kSwqLg" uri="guidances/termdefinitions/sprint_goal.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="practice.mgmt.scrum.base-sintef" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="This plugin defines the base Scrum practice." changeDate="2013-06-05T13:18:40.829+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="practice.mgmt.scrum.base-sintef" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="This plugin defines the base Scrum practice." changeDate="2013-07-24T14:31:18.187+0200">
     <methodElementProperty xmi:id="_kDCTINeMEd-Mq_S1iaxctg" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_h8rlMM0TEeKXZ8LmJZzn7w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
@@ -71,20 +71,17 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_HOF4Edyp34pwdTOSVQ" name="CoreContent" guid="_6Ab_HOF4Edyp34pwdTOSVQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Arzq4OF5Edyp34pwdTOSVQ" name="scrum" guid="_Arzq4OF5Edyp34pwdTOSVQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QcnRMOF5Edyp34pwdTOSVQ" name="product_owner" guid="_QcnRMOF5Edyp34pwdTOSVQ" briefDescription="The Product Owner represents the interests of all stakeholders, defines the features of the product and manages the Product Backlog." variabilityType="contributes" responsibleFor="_OZIPIOF8Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QcnRMOF5Edyp34pwdTOSVQ" name="product_owner" guid="_QcnRMOF5Edyp34pwdTOSVQ" briefDescription="The Product Owner represents the interests of all stakeholders, defines the features of the product and manages the Product Backlog." responsibleFor="_OZIPIOF8Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_4L4UIIKJEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="--OmeeCdOSH1ki1_i9TN0kg" href="uma://--OmeeCdOSH1ki1_i9TN0kg#--OmeeCdOSH1ki1_i9TN0kg"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Bw-twOF6Edyp34pwdTOSVQ" name="scrum_master" guid="_Bw-twOF6Edyp34pwdTOSVQ" briefDescription="The Scrum Master is responsible for ensuring Scrum is understood and enacted.&#xD;&#xA;&#xD;&#xA;The ScrumMaster facilitates the daily scrum and becomes responsible for removing any obstacles that are brought up by the team during those meetings. " variabilityType="contributes">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Bw-twOF6Edyp34pwdTOSVQ" name="scrum_master" guid="_Bw-twOF6Edyp34pwdTOSVQ" briefDescription="The Scrum Master is responsible for ensuring Scrum is understood and enacted.&#xD;&#xA;&#xD;&#xA;The ScrumMaster facilitates the daily scrum and becomes responsible for removing any obstacles that are brought up by the team during those meetings. ">
             <methodElementProperty xmi:id="_T6odsIKLEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-yuXxE_O0V_WcpgWeUmX8fQ" href="uma://-yuXxE_O0V_WcpgWeUmX8fQ#-yuXxE_O0V_WcpgWeUmX8fQ"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O65KUOF6Edyp34pwdTOSVQ" name="scrum_team" guid="_O65KUOF6Edyp34pwdTOSVQ" briefDescription="The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master." variabilityType="contributes" responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ _6p8zUIcOEeKDAPAbcNl48A">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O65KUOF6Edyp34pwdTOSVQ" name="scrum_team" guid="_O65KUOF6Edyp34pwdTOSVQ" briefDescription="The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master." responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ _6p8zUIcOEeKDAPAbcNl48A">
             <methodElementProperty xmi:id="_glSksIKGEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-u_0D0nwGoZhpANLeqrq14A" href="uma://-u_0D0nwGoZhpANLeqrq14A#-u_0D0nwGoZhpANLeqrq14A"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OZIPIOF8Edyp34pwdTOSVQ" name="product_backlog" guid="_OZIPIOF8Edyp34pwdTOSVQ" briefDescription="The Product Backlog is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product." variabilityType="contributes">
             <methodElementProperty xmi:id="_vYXOgIcHEeKDAPAbcNl48A" name="me_edited" value="true"/>
@@ -177,10 +174,9 @@
             <methodElementProperty xmi:id="_2-10kIY_EeKVEqVT82eARQ" name="me_edited" value="true"/>
             <presentation xmi:id="-lVhZvhfJKHi_eZRjA1RWaA" href="uma://-lVhZvhfJKHi_eZRjA1RWaA#-lVhZvhfJKHi_eZRjA1RWaA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_EChNoBC0EeGhfJHCQDJMKQ" name="development_team" guid="_EChNoBC0EeGhfJHCQDJMKQ" briefDescription="The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint." variabilityType="contributes" responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_EChNoBC0EeGhfJHCQDJMKQ" name="development_team" guid="_EChNoBC0EeGhfJHCQDJMKQ" briefDescription="The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint." responsibleFor="__uNYkPVgEdyMdecrgpMbRg _Q5Ki8OF8Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_qa1GcIKGEeK5Bu1VTqrBqA" name="me_edited" value="true"/>
             <presentation xmi:id="-04lpq0FVf2B8LgJ2RhJibg" href="uma://-04lpq0FVf2B8LgJ2RhJibg#-04lpq0FVf2B8LgJ2RhJibg"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_AwUgMM3SEeKOw8KXk47y0g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_5X7g8IZBEeKVEqVT82eARQ" name="development_team" guid="_5X7g8IZBEeKVEqVT82eARQ" presentationName="Development Team">
             <methodElementProperty xmi:id="_6wSbAIZBEeKVEqVT82eARQ" name="me_edited" value="true"/>
@@ -215,7 +211,6 @@
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6Ab_HuF4Edyp34pwdTOSVQ" name="DeliveryProcesses" guid="_6Ab_HuF4Edyp34pwdTOSVQ"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6Ab_H-F4Edyp34pwdTOSVQ" name="ProcessContributions" guid="_6Ab_H-F4Edyp34pwdTOSVQ"/>
-    <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
     <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
   </org.eclipse.epf.uma:MethodPlugin>

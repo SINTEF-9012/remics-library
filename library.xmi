@@ -48,7 +48,6 @@
     <subManagers xmi:id="_FRiuAVvqEeKHU9XooDK5Ng" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRiuAVvqEeKHU9XooDK5Ng"/>
     <subManagers xmi:id="_hyLc8VvqEeKHU9XooDK5Ng" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc8VvqEeKHU9XooDK5Ng"/>
     <subManagers xmi:id="_wwMUYVvqEeKHU9XooDK5Ng" href="uma://_wwMUUFvqEeKHU9XooDK5Ng#_wwMUYVvqEeKHU9XooDK5Ng"/>
-    <subManagers xmi:id="_BLr2cVvrEeKHU9XooDK5Ng" href="uma://_BLr2YFvrEeKHU9XooDK5Ng#_BLr2cVvrEeKHU9XooDK5Ng"/>
     <subManagers xmi:id="_GuCEsVvrEeKHU9XooDK5Ng" href="uma://_GuCEoFvrEeKHU9XooDK5Ng#_GuCEsVvrEeKHU9XooDK5Ng"/>
     <subManagers xmi:id="_MGQtoVvrEeKHU9XooDK5Ng" href="uma://_MGQtkFvrEeKHU9XooDK5Ng#_MGQtoVvrEeKHU9XooDK5Ng"/>
     <subManagers xmi:id="_S0dD8VvrEeKHU9XooDK5Ng" href="uma://_S0dD4FvrEeKHU9XooDK5Ng#_S0dD8VvrEeKHU9XooDK5Ng"/>
@@ -149,7 +148,6 @@
     <resourceDescriptors xmi:id="_FRiuAlvqEeKHU9XooDK5Ng" id="_FRit8FvqEeKHU9XooDK5Ng" uri="core.remics.agile.default.work_products.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_hyLc8lvqEeKHU9XooDK5Ng" id="_hyLc4FvqEeKHU9XooDK5Ng" uri="core.remics.agile.default.role_def.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_wwMUYlvqEeKHU9XooDK5Ng" id="_wwMUUFvqEeKHU9XooDK5Ng" uri="process.remics.agile.supervision.base/plugin.xmi"/>
-    <resourceDescriptors xmi:id="_BLr2clvrEeKHU9XooDK5Ng" id="_BLr2YFvrEeKHU9XooDK5Ng" uri="process.remics.agile.interoperability.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_GuCEslvrEeKHU9XooDK5Ng" id="_GuCEoFvrEeKHU9XooDK5Ng" uri="process.remics.agile.migration.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_MGQtolvrEeKHU9XooDK5Ng" id="_MGQtkFvrEeKHU9XooDK5Ng" uri="process.remics.agile.recovery.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_S0dD8lvrEeKHU9XooDK5Ng" id="_S0dD4FvrEeKHU9XooDK5Ng" uri="process.remics.agile.requirements.base/plugin.xmi"/>
@@ -252,7 +250,6 @@
     <methodPlugins xmi:id="_FRit8FvqEeKHU9XooDK5Ng" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
     <methodPlugins xmi:id="_hyLc4FvqEeKHU9XooDK5Ng" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
     <methodPlugins xmi:id="_wwMUUFvqEeKHU9XooDK5Ng" href="uma://_wwMUUFvqEeKHU9XooDK5Ng#_wwMUUFvqEeKHU9XooDK5Ng"/>
-    <methodPlugins xmi:id="_BLr2YFvrEeKHU9XooDK5Ng" href="uma://_BLr2YFvrEeKHU9XooDK5Ng#_BLr2YFvrEeKHU9XooDK5Ng"/>
     <methodPlugins xmi:id="_GuCEoFvrEeKHU9XooDK5Ng" href="uma://_GuCEoFvrEeKHU9XooDK5Ng#_GuCEoFvrEeKHU9XooDK5Ng"/>
     <methodPlugins xmi:id="_MGQtkFvrEeKHU9XooDK5Ng" href="uma://_MGQtkFvrEeKHU9XooDK5Ng#_MGQtkFvrEeKHU9XooDK5Ng"/>
     <methodPlugins xmi:id="_S0dD4FvrEeKHU9XooDK5Ng" href="uma://_S0dD4FvrEeKHU9XooDK5Ng#_S0dD4FvrEeKHU9XooDK5Ng"/>

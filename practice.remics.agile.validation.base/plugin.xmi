@@ -110,7 +110,6 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEYV5BEeKVU8eUCvi3Og" name="validation_and_verification_system_requirements" guid="_FxNEYV5BEeKVU8eUCvi3Og" presentationName="Validation and Verification System Requirements">
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
             <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEQF5BEeKVU8eUCvi3Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNESl5BEeKVU8eUCvi3Og" name="control_and_monitoring_results" guid="_FxNESl5BEeKVU8eUCvi3Og" presentationName="Control and Monitoring Results"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_qgldoOlnEeKXeuh9rEjGtw" name="test_report.assign" guid="_qgldoOlnEeKXeuh9rEjGtw" variabilityType="contributes" deliveredWorkProducts="_FxNESl5BEeKVU8eUCvi3Og">
