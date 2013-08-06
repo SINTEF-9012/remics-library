@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2SPpwaDP45FdBHTmT_ELuA" name="define_project_plan,_NW6MAOlXEeKwz9k73swTBQ" guid="-2SPpwaDP45FdBHTmT_ELuA" changeDate="2013-08-02T12:16:31.611+0200">
+  <mainDescription>&lt;p>&#xD;
+    Based on the system idea, the initial scrum_team defines the required number of teams, the focus of those teams, the&#xD;
+    number of sprints to carry out, the meeting and coordination strategies and the initial budget&#xD;
+&lt;/p></mainDescription>
+  <purpose>Specify the structure of teams, the number of sprints, the meeting strategy and the budget</purpose>
+</org.eclipse.epf.uma:TaskDescription>

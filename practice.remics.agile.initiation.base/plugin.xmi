@@ -47,7 +47,6 @@
             <methodElementProperty xmi:id="_EroBcOlYEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-AB27uXscO8Ja545IVhlkpw" href="uma://-AB27uXscO8Ja545IVhlkpw#-AB27uXscO8Ja545IVhlkpw"/>
             <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
-            <output href="uma://_FRit8FvqEeKHU9XooDK5Ng#_EdAyEP2uEeK8HINtOGo1Xg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_OmTCwPOIEeKb3NsawrMs1A" name="factors_for_tailoring_the_remics_methodology" guid="_OmTCwPOIEeKb3NsawrMs1A" presentationName="Factors for tailoring the REMICS Methodology" briefDescription="This guideline describes factors that should be considered for tailoring the REMICS Methodology.">
             <methodElementProperty xmi:id="_Q4FfMPOIEeKb3NsawrMs1A" name="me_edited" value="true"/>
