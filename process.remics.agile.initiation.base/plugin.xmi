@@ -20,7 +20,18 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fkWijPOMEeKb3NsawrMs1A" name="CoreContent" guid="_fkWijPOMEeKb3NsawrMs1A"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fkWijPOMEeKb3NsawrMs1A" name="CoreContent" guid="_fkWijPOMEeKb3NsawrMs1A">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iWI68ABAEeOnBNRwFwwrAw" name="initiation" guid="_iWI68ABAEeOnBNRwFwwrAw">
+          <methodElementProperty xmi:id="_iWI68QBAEeOnBNRwFwwrAw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_i_7e0ABAEeOnBNRwFwwrAw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_jjZYQABAEeOnBNRwFwwrAw" name="initiation.assign" guid="_jjZYQABAEeOnBNRwFwwrAw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_jj_1MABAEeOnBNRwFwwrAw" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_laLTsABAEeOnBNRwFwwrAw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Practice" href="uma://_DsFsgOlXEeKwz9k73swTBQ#_cqo0wOlXEeKwz9k73swTBQ"/>
+            <activityReferences href="uma://_nTmtMPOMEeKb3NsawrMs1A#_nTmtMfOMEeKb3NsawrMs1A"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fkWijfOMEeKb3NsawrMs1A" name="CapabilityPatterns" guid="_fkWijfOMEeKb3NsawrMs1A">
         <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_nTmtMPOMEeKb3NsawrMs1A" href="uma://_nTmtMPOMEeKb3NsawrMs1A#_nTmtMPOMEeKb3NsawrMs1A"/>
       </childPackages>

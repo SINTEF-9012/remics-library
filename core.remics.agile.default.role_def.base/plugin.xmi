@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_hyLc8VvqEeKHU9XooDK5Ng" guid="_hyLc8VvqEeKHU9XooDK5Ng">
-    <resourceDescriptors xmi:id="_M9rkcPRfEeK_Qdv2z5BBoA" id="-fqvhrKxM1G85csZD0D0vyQ" uri="roles/scrum_team.xmi"/>
+    <resourceDescriptors xmi:id="_M9rkcPRfEeK_Qdv2z5BBoA" id="-fqvhrKxM1G85csZD0D0vyQ" uri="roles/scrum_team.assign.xmi"/>
+    <resourceDescriptors xmi:id="_ntiVcApcEeOBM7QWB5hbCw" id="-FPbINIMFvvxgxBtRmES4kA" uri="roles/interoperability_team.xmi"/>
+    <resourceDescriptors xmi:id="_VOA0MApeEeOBM7QWB5hbCw" id="-FT1l1S34ceXTDEqz6I5muA" uri="roles/requirements_team.xmi"/>
+    <resourceDescriptors xmi:id="_h-eO8ApeEeOBM7QWB5hbCw" id="-b9GydNFSTgQoyNF5igR-Ag" uri="roles/exploitation_team.xmi"/>
+    <resourceDescriptors xmi:id="_rZXcEApeEeOBM7QWB5hbCw" id="-qhD5yN2dj29uC9Cx6-TW4A" uri="roles/withdrawal_team.xmi"/>
+    <resourceDescriptors xmi:id="_z4Ps4QpeEeOBM7QWB5hbCw" id="-gy06yx6u0_fnnUCnAG1lQA" uri="roles/supervise_team.xmi"/>
+    <resourceDescriptors xmi:id="_5fTcAApeEeOBM7QWB5hbCw" id="-Mcro2yO0np8AoC3Go7ttzQ" uri="roles/validation_team.xmi"/>
+    <resourceDescriptors xmi:id="_BZPMsApfEeOBM7QWB5hbCw" id="-iK2LqNApZ6DMDStvrllyMg" uri="roles/tool_expert.xmi"/>
+    <resourceDescriptors xmi:id="_IDrEYApfEeOBM7QWB5hbCw" id="-LEUZf_nh90dVCJybNGdwEA" uri="roles/migration_team.xmi"/>
+    <resourceDescriptors xmi:id="_NUXh8ApfEeOBM7QWB5hbCw" id="-wyJIofwcCU9MeKzQ2ojjCg" uri="roles/initiation_team.xmi"/>
+    <resourceDescriptors xmi:id="_SUfM4ApfEeOBM7QWB5hbCw" id="-wJUJHskwCTwy1zmnXyZriQ" uri="roles/recovery_team.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_hyLc4FvqEeKHU9XooDK5Ng" name="core.remics.agile.default.role_def.base" guid="_hyLc4FvqEeKHU9XooDK5Ng" changeDate="2013-07-24T14:39:06.840+0200">
     <methodElementProperty xmi:id="_hyLc81vqEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
@@ -10,7 +20,11 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc4lvqEeKHU9XooDK5Ng" name="Categories" guid="_hyLc4lvqEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc41vqEeKHU9XooDK5Ng" name="Domains" guid="_hyLc41vqEeKHU9XooDK5Ng"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5FvqEeKHU9XooDK5Ng" name="Disciplines" guid="_hyLc5FvqEeKHU9XooDK5Ng"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5VvqEeKHU9XooDK5Ng" name="RoleSets" guid="_hyLc5VvqEeKHU9XooDK5Ng"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5VvqEeKHU9XooDK5Ng" name="RoleSets" guid="_hyLc5VvqEeKHU9XooDK5Ng">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_6VDaoADOEeOA27TYHr-uJA" name="scrum_team" guid="_6VDaoADOEeOA27TYHr-uJA" roles="_DRxwUM3SEeKOw8KXk47y0g">
+            <methodElementProperty xmi:id="_8X4OAADOEeOA27TYHr-uJA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc5lvqEeKHU9XooDK5Ng" name="WP Types" guid="_hyLc5lvqEeKHU9XooDK5Ng"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc51vqEeKHU9XooDK5Ng" name="Tools" guid="_hyLc51vqEeKHU9XooDK5Ng"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc6FvqEeKHU9XooDK5Ng" name="StandardCategories" guid="_hyLc6FvqEeKHU9XooDK5Ng"/>
@@ -22,48 +36,62 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hyLc7FvqEeKHU9XooDK5Ng" name="CoreContent" guid="_hyLc7FvqEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ktORsFvqEeKHU9XooDK5Ng" name="remics.agile" guid="_ktORsFvqEeKHU9XooDK5Ng">
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_39RPwF4_EeKVU8eUCvi3Og" name="scrum_master" guid="_39RPwF4_EeKVU8eUCvi3Og" presentationName="Scrum Master" variabilityType="extendsReplaces">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_39RPwF4_EeKVU8eUCvi3Og" name="scrum_master.assign" guid="_39RPwF4_EeKVU8eUCvi3Og" variabilityType="contributes">
             <methodElementProperty xmi:id="_Ihe7YPReEeK_Qdv2z5BBoA" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Bw-twOF6Edyp34pwdTOSVQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7ilwoF4_EeKVU8eUCvi3Og" name="product_owner" guid="_7ilwoF4_EeKVU8eUCvi3Og" presentationName="Product Owner" variabilityType="extendsReplaces">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7ilwoF4_EeKVU8eUCvi3Og" name="product_owner.assign" guid="_7ilwoF4_EeKVU8eUCvi3Og" variabilityType="contributes">
             <methodElementProperty xmi:id="_KVxjgPReEeK_Qdv2z5BBoA" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_QcnRMOF5Edyp34pwdTOSVQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gi9t0F5AEeKVU8eUCvi3Og" name="requirements_team" guid="_Gi9t0F5AEeKVU8eUCvi3Og" presentationName="Requirements Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gi9t0F5AEeKVU8eUCvi3Og" name="requirements_team" guid="_Gi9t0F5AEeKVU8eUCvi3Og" presentationName="Requirements Team" briefDescription="The scrum team focussed in the identification of new requirements" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_zb8qoM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-FT1l1S34ceXTDEqz6I5muA" href="uma://-FT1l1S34ceXTDEqz6I5muA#-FT1l1S34ceXTDEqz6I5muA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Jin84F5AEeKVU8eUCvi3Og" name="recovery_team" guid="_Jin84F5AEeKVU8eUCvi3Og" presentationName="Recovery Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Jin84F5AEeKVU8eUCvi3Og" name="recovery_team" guid="_Jin84F5AEeKVU8eUCvi3Og" presentationName="Recovery Team" briefDescription="It is the scrum team in charge of the recovery" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_yO5osM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-wJUJHskwCTwy1zmnXyZriQ" href="uma://-wJUJHskwCTwy1zmnXyZriQ#-wJUJHskwCTwy1zmnXyZriQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TFeMIF5AEeKVU8eUCvi3Og" name="migration_team" guid="_TFeMIF5AEeKVU8eUCvi3Og" presentationName="Migration Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TFeMIF5AEeKVU8eUCvi3Og" name="migration_team" guid="_TFeMIF5AEeKVU8eUCvi3Og" presentationName="Migration Team" briefDescription="It is the scrum team in charge of the migration" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_wxIDIM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-LEUZf_nh90dVCJybNGdwEA" href="uma://-LEUZf_nh90dVCJybNGdwEA#-LEUZf_nh90dVCJybNGdwEA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Xfh8oF5AEeKVU8eUCvi3Og" name="integration_and_validation_team" guid="_Xfh8oF5AEeKVU8eUCvi3Og" presentationName="Integration and Validation Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Xfh8oF5AEeKVU8eUCvi3Og" name="validation_team" guid="_Xfh8oF5AEeKVU8eUCvi3Og" presentationName="Validation Team" briefDescription="It is the scrum team in charge of the validation" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_uPxgsM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-Mcro2yO0np8AoC3Go7ttzQ" href="uma://-Mcro2yO0np8AoC3Go7ttzQ#-Mcro2yO0np8AoC3Go7ttzQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gVi7EF5AEeKVU8eUCvi3Og" name="control_and_supervise_team" guid="_gVi7EF5AEeKVU8eUCvi3Og" presentationName="Control and Supervise Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gVi7EF5AEeKVU8eUCvi3Og" name="supervise_team" guid="_gVi7EF5AEeKVU8eUCvi3Og" presentationName="Supervise Team" briefDescription="It is the team in charge of the continous monitoring of the system">
             <methodElementProperty xmi:id="_s-k-kM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-gy06yx6u0_fnnUCnAG1lQA" href="uma://-gy06yx6u0_fnnUCnAG1lQA#-gy06yx6u0_fnnUCnAG1lQA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bIascF7QEeKFRuoPceMYcQ" name="tool_expert" guid="_bIascF7QEeKFRuoPceMYcQ" presentationName="Tool Expert"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rLfJoF7fEeKFRuoPceMYcQ" name="withdrawal_team" guid="_rLfJoF7fEeKFRuoPceMYcQ" presentationName="Withdrawal Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bIascF7QEeKFRuoPceMYcQ" name="tool_expert" guid="_bIascF7QEeKFRuoPceMYcQ" presentationName="Tool Expert" briefDescription="It is the person with expertice in the tools to be used  during the migration">
+            <methodElementProperty xmi:id="_BZN-kApfEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-iK2LqNApZ6DMDStvrllyMg" href="uma://-iK2LqNApZ6DMDStvrllyMg#-iK2LqNApZ6DMDStvrllyMg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rLfJoF7fEeKFRuoPceMYcQ" name="withdrawal_team" guid="_rLfJoF7fEeKFRuoPceMYcQ" presentationName="Withdrawal Team" briefDescription="Is the team in charge of the finalization of the system">
             <methodElementProperty xmi:id="_0rkfcM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-qhD5yN2dj29uC9Cx6-TW4A" href="uma://-qhD5yN2dj29uC9Cx6-TW4A#-qhD5yN2dj29uC9Cx6-TW4A"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uS5mgF7fEeKFRuoPceMYcQ" name="interoperability_team" guid="_uS5mgF7fEeKFRuoPceMYcQ" presentationName="Interoperability Team" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uS5mgF7fEeKFRuoPceMYcQ" name="interoperability_team" guid="_uS5mgF7fEeKFRuoPceMYcQ" presentationName="Interoperability Team" briefDescription="It is the team in charge of the interoperability activities" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
             <methodElementProperty xmi:id="_vgPqEM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
+            <presentation xmi:id="-FPbINIMFvvxgxBtRmES4kA" href="uma://-FPbINIMFvvxgxBtRmES4kA#-FPbINIMFvvxgxBtRmES4kA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AwUgMM3SEeKOw8KXk47y0g" name="development_team" guid="_AwUgMM3SEeKOw8KXk47y0g" presentationName="Development Team" variabilityType="extendsReplaces">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_AwUgMM3SEeKOw8KXk47y0g" name="development_team.assign" guid="_AwUgMM3SEeKOw8KXk47y0g" variabilityType="contributes">
             <methodElementProperty xmi:id="_CrZs0M3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_EChNoBC0EeGhfJHCQDJMKQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DRxwUM3SEeKOw8KXk47y0g" name="scrum_team" guid="_DRxwUM3SEeKOw8KXk47y0g" presentationName="Scrum Team" variabilityType="extendsReplaces">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_DRxwUM3SEeKOw8KXk47y0g" name="scrum_team.assign" guid="_DRxwUM3SEeKOw8KXk47y0g" variabilityType="contributes">
             <methodElementProperty xmi:id="_Eme5cM3SEeKOw8KXk47y0g" name="me_edited" value="true"/>
             <presentation xmi:id="-fqvhrKxM1G85csZD0D0vyQ" href="uma://-fqvhrKxM1G85csZD0D0vyQ#-fqvhrKxM1G85csZD0D0vyQ"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_O65KUOF6Edyp34pwdTOSVQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_lmqP4PRgEeK_Qdv2z5BBoA" name="new_role" guid="_lmqP4PRgEeK_Qdv2z5BBoA" variabilityType="contributes" variabilityBasedOnElement="_AwUgMM3SEeKOw8KXk47y0g">
-            <methodElementProperty xmi:id="_o0kWUPRgEeK_Qdv2z5BBoA" name="me_edited" value="true"/>
-            <responsibleFor href="uma://_FRit8FvqEeKHU9XooDK5Ng#_vj2KQN_yEeKdMZ3N0jsS2w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uD3IEADJEeOA27TYHr-uJA" name="initiation_team" guid="_uD3IEADJEeOA27TYHr-uJA" presentationName="Initiation Team" briefDescription="It is the scrum team in charge of the initiaition" variabilityType="extends" variabilityBasedOnElement="_DRxwUM3SEeKOw8KXk47y0g">
+            <methodElementProperty xmi:id="_38xG4ADJEeOA27TYHr-uJA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wyJIofwcCU9MeKzQ2ojjCg" href="uma://-wyJIofwcCU9MeKzQ2ojjCg#-wyJIofwcCU9MeKzQ2ojjCg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PZjNIApcEeOBM7QWB5hbCw" name="exploitation_team" guid="_PZjNIApcEeOBM7QWB5hbCw" presentationName="Exploitation Team" briefDescription="The team that work in the explotation of the system">
+            <methodElementProperty xmi:id="_SW5vEApcEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <presentation xmi:id="-b9GydNFSTgQoyNF5igR-Ag" href="uma://-b9GydNFSTgQoyNF5igR-Ag#-b9GydNFSTgQoyNF5igR-Ag"/>
           </contentElements>
         </childPackages>
       </childPackages>

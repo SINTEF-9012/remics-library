@@ -100,6 +100,11 @@
     <subManagers xmi:id="_bD3esOlsEeKXeuh9rEjGtw" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_bD3esOlsEeKXeuh9rEjGtw"/>
     <subManagers xmi:id="_fkcCEPOMEeKb3NsawrMs1A" href="uma://_fkWigPOMEeKb3NsawrMs1A#_fkcCEPOMEeKb3NsawrMs1A"/>
     <subManagers xmi:id="_zHq6sPOYEeKoGYdq-8Z_HA" href="uma://_zHlbIPOYEeKoGYdq-8Z_HA#_zHq6sPOYEeKoGYdq-8Z_HA"/>
+    <subManagers xmi:id="_svNI4f6FEeKkqZcrxeE32w" href="uma://_svNI0P6FEeKkqZcrxeE32w#_svNI4f6FEeKkqZcrxeE32w"/>
+    <subManagers xmi:id="_0WLE0f6GEeKkqZcrxeE32w" href="uma://_0WLEwP6GEeKkqZcrxeE32w#_0WLE0f6GEeKkqZcrxeE32w"/>
+    <subManagers xmi:id="_OknhwP__EeKZBbwDq57ZRA" href="uma://_Og44UP__EeKZBbwDq57ZRA#_OknhwP__EeKZBbwDq57ZRA"/>
+    <subManagers xmi:id="_H5Q3sAA5EeO8guHzeWZLgg" href="uma://_H5KxEAA5EeO8guHzeWZLgg#_H5Q3sAA5EeO8guHzeWZLgg"/>
+    <subManagers xmi:id="_QiFG4AvaEeOhutvlRKZMkg" href="uma://_QiCqoAvaEeOhutvlRKZMkg#_QiFG4AvaEeOhutvlRKZMkg"/>
     <resourceDescriptors xmi:id="_D6k6YclqEeCrm66MgLsmlQ" id="_D6kTUMlqEeCrm66MgLsmlQ" uri=""/>
     <resourceDescriptors xmi:id="_MXC68clrEeCrm66MgLsmlQ" id="_MRPloEFXEdy9ENCpSugIjA" uri="core.default.cat_def.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_MXbVcclrEeCrm66MgLsmlQ" id="_vsno4EKmEdyrauqpmnA8jQ" uri="core.default.nav_view.base/plugin.xmi"/>
@@ -200,6 +205,11 @@
     <resourceDescriptors xmi:id="_bD3eselsEeKXeuh9rEjGtw" id="_bDwxAOlsEeKXeuh9rEjGtw" uri="practice.remics.agile.exploitation.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_fkcCEfOMEeKb3NsawrMs1A" id="_fkWigPOMEeKb3NsawrMs1A" uri="process.remics.agile.initiation.base/plugin.xmi"/>
     <resourceDescriptors xmi:id="_zHq6sfOYEeKoGYdq-8Z_HA" id="_zHlbIPOYEeKoGYdq-8Z_HA" uri="process.remics.agile.exploitation.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_svNI4v6FEeKkqZcrxeE32w" id="_svNI0P6FEeKkqZcrxeE32w" uri="core.remics.agile.default.techniques.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_0WLE0v6GEeKkqZcrxeE32w" id="_0WLEwP6GEeKkqZcrxeE32w" uri="techniques.remics.agile.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_Oknhwf__EeKZBbwDq57ZRA" id="_Og44UP__EeKZBbwDq57ZRA" uri="practice.remics.agile.scrum.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_H5Q3sQA5EeO8guHzeWZLgg" id="_H5KxEAA5EeO8guHzeWZLgg" uri="process.remics.agile.scrum.base/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_QiFG4QvaEeOhutvlRKZMkg" id="_QiCqoAvaEeOhutvlRKZMkg" uri="process.remics.agile.interoperability.base/plugin.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodLibrary xmi:id="_D6kTUMlqEeCrm66MgLsmlQ" name="remicsMethodologyEpf" guid="_D6kTUMlqEeCrm66MgLsmlQ" briefDescription="Epf represetantion of the remics development methodology. Remics methodology aims to provide a better support for the migration of legacy system to cloud infrastructure through the application of new tools and methods.">
     <methodElementProperty xmi:id="_D7pRYMlqEeCrm66MgLsmlQ" name="library_synFree" value="true"/>
@@ -302,5 +312,10 @@
     <methodPlugins xmi:id="_bDwxAOlsEeKXeuh9rEjGtw" href="uma://_bDwxAOlsEeKXeuh9rEjGtw#_bDwxAOlsEeKXeuh9rEjGtw"/>
     <methodPlugins xmi:id="_fkWigPOMEeKb3NsawrMs1A" href="uma://_fkWigPOMEeKb3NsawrMs1A#_fkWigPOMEeKb3NsawrMs1A"/>
     <methodPlugins xmi:id="_zHlbIPOYEeKoGYdq-8Z_HA" href="uma://_zHlbIPOYEeKoGYdq-8Z_HA#_zHlbIPOYEeKoGYdq-8Z_HA"/>
+    <methodPlugins xmi:id="_svNI0P6FEeKkqZcrxeE32w" href="uma://_svNI0P6FEeKkqZcrxeE32w#_svNI0P6FEeKkqZcrxeE32w"/>
+    <methodPlugins xmi:id="_0WLEwP6GEeKkqZcrxeE32w" href="uma://_0WLEwP6GEeKkqZcrxeE32w#_0WLEwP6GEeKkqZcrxeE32w"/>
+    <methodPlugins xmi:id="_Og44UP__EeKZBbwDq57ZRA" href="uma://_Og44UP__EeKZBbwDq57ZRA#_Og44UP__EeKZBbwDq57ZRA"/>
+    <methodPlugins xmi:id="_H5KxEAA5EeO8guHzeWZLgg" href="uma://_H5KxEAA5EeO8guHzeWZLgg#_H5KxEAA5EeO8guHzeWZLgg"/>
+    <methodPlugins xmi:id="_QiCqoAvaEeOhutvlRKZMkg" href="uma://_QiCqoAvaEeOhutvlRKZMkg#_QiCqoAvaEeOhutvlRKZMkg"/>
   </org.eclipse.epf.uma:MethodLibrary>
 </xmi:XMI>

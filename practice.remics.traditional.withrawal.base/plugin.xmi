@@ -4,7 +4,6 @@
     <subManagers xmi:id="_J7QokDO9EeK5hZv7WCtlvg" href="uma://_J3EsIDO9EeK5hZv7WCtlvg#_J7QokDO9EeK5hZv7WCtlvg"/>
     <resourceDescriptors xmi:id="_i6yJIP4aEeCPJr8QQpNd-A" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/withrawal.xmi"/>
     <resourceDescriptors xmi:id="_AWrRgf4-EeC6H_i-fGXOUw" id="-1VMdFltYzc31vgGuu0GwPg" uri="tasks/identify_withdrawal_procedures.xmi"/>
-    <resourceDescriptors xmi:id="_AWrRgv4-EeC6H_i-fGXOUw" id="-uL-rik0vhtZcajo8CFnIIw" uri="tasks/implement_withdrawal_procedures.xmi"/>
     <resourceDescriptors xmi:id="_J3JkoDO9EeK5hZv7WCtlvg" id="_J3EsIDO9EeK5hZv7WCtlvg" uri="capabilitypatterns/withrawal/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_nuiMUMvjEeCphdH9-OcbCA" name="practice.remics.traditional.withrawal.base" guid="_nuiMUMvjEeCphdH9-OcbCA" changeDate="2013-01-11T13:19:47.895+0100">
@@ -33,7 +32,6 @@
             <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_22bVMP47EeC6H_i-fGXOUw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qRR3wP4pEeC6H_i-fGXOUw" name="implement_withdrawal_procedures" guid="_qRR3wP4pEeC6H_i-fGXOUw" presentationName="Implement withdrawal procedures">
-            <presentation xmi:id="-uL-rik0vhtZcajo8CFnIIw" href="uma://-uL-rik0vhtZcajo8CFnIIw#-uL-rik0vhtZcajo8CFnIIw"/>
             <mandatoryInput href="uma://_bvPv0MvjEeCphdH9-OcbCA#_22bVMP47EeC6H_i-fGXOUw"/>
             <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_OJvd8P4sEeC6H_i-fGXOUw"/>
             <output href="uma://_bvPv0MvjEeCphdH9-OcbCA#_0Q8MkP4uEeC6H_i-fGXOUw"/>

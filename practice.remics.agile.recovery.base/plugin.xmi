@@ -10,12 +10,19 @@
     <resourceDescriptors xmi:id="_cSboAVi7EeKc_ty_5LPMaw" id="-Yvy3AKQTjSqBPNxsWkizkQ" uri="guidances/practices/recovery.xmi"/>
     <resourceDescriptors xmi:id="_d9wvIVjAEeKc_ty_5LPMaw" id="-1LsVKcnTAjfYLtWnNbogeQ" uri="tasks/refine_system_knowledge.xmi"/>
     <resourceDescriptors xmi:id="_d96gIFjAEeKc_ty_5LPMaw" id="-njZZvKnH4OvpGtyVUOlFZQ" uri="tasks/Generate_system_model.xmi"/>
-    <resourceDescriptors xmi:id="_d-NbEFjAEeKc_ty_5LPMaw" id="-xCvPaS-8DMtNQYxoODGFOg" uri="tasks/generate_system_requirement.xmi"/>
+    <resourceDescriptors xmi:id="_d-NbEFjAEeKc_ty_5LPMaw" id="-xCvPaS-8DMtNQYxoODGFOg" uri="tasks/recover_system_requirements.xmi"/>
     <resourceDescriptors xmi:id="_d-NbEVjAEeKc_ty_5LPMaw" id="-DJNL48O7wz1KwBAduja0cA" uri="tasks/recover_system_testing.xmi"/>
     <resourceDescriptors xmi:id="_FyC1MVjEEeKc_ty_5LPMaw" id="-rkjVjwxt1Nh_om3E248aTw" uri="tasks/customer_reviews.xmi"/>
     <resourceDescriptors xmi:id="_7F0pkN_7EeKdMZ3N0jsS2w" id="-UkKr4C_W5ref1jhYhAXetA" uri="tasks/sprint_review.extends.xmi"/>
+    <resourceDescriptors xmi:id="_7LiUYAmaEeOmqbz9Sywm-g" id="-egKoBl5bAeZ-xmhUA0B9hQ" uri="workproducts/recovered_system_model.xmi"/>
+    <resourceDescriptors xmi:id="_GxmYkAmbEeOmqbz9Sywm-g" id="-uYfSVpEO6cZCB6n6mXtrTA" uri="workproducts/recovered_architecture_model.xmi"/>
+    <resourceDescriptors xmi:id="_NU6UkAmbEeOmqbz9Sywm-g" id="-4Y60hTcVpTUdG-2Mxr4tQQ" uri="workproducts/legacy_code.xmi"/>
+    <resourceDescriptors xmi:id="_VavzQAmbEeOmqbz9Sywm-g" id="-EUtAro7pIg08cu1KKQiQhA" uri="workproducts/recovered_testing_model.xmi"/>
+    <resourceDescriptors xmi:id="_dbv1QAmbEeOmqbz9Sywm-g" id="-tdlrr4DobaxN1bkT4BC0CA" uri="workproducts/knowledge_model.xmi"/>
+    <resourceDescriptors xmi:id="_xI6jcAmbEeOmqbz9Sywm-g" id="-2BnlCSc-l5rSuSo0Hzx7Mw" uri="workproducts/recovered_system_requirements.xmi"/>
+    <resourceDescriptors xmi:id="__iIEsAmbEeOmqbz9Sywm-g" id="-dLog95Oe9BM61lUojSlINg" uri="workproducts/validation_criteria.assign.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_ZuWoYPNHEeGUHqJDPoQpuw" name="practice.remics.agile.recovery.base" guid="_ZuWoYPNHEeGUHqJDPoQpuw" changeDate="2013-06-28T14:04:16.910+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_ZuWoYPNHEeGUHqJDPoQpuw" name="practice.remics.agile.recovery.base" guid="_ZuWoYPNHEeGUHqJDPoQpuw" changeDate="2013-08-20T14:33:38.699+0200">
     <methodElementProperty xmi:id="_ZutNsvNHEeGUHqJDPoQpuw" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_5AXosN_qEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZuWoYfNHEeGUHqJDPoQpuw" name="Content" guid="_ZuWoYfNHEeGUHqJDPoQpuw">
@@ -34,114 +41,160 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZuWobPNHEeGUHqJDPoQpuw" name="CoreContent" guid="_ZuWobPNHEeGUHqJDPoQpuw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TCnEEDO8EeK5hZv7WCtlvg" name="recovery" guid="_TCnEEDO8EeK5hZv7WCtlvg">
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VgQLMDO8EeK5hZv7WCtlvg" name="customer_reviews" guid="_VgQLMDO8EeK5hZv7WCtlvg" presentationName="Customer Reviews " mandatoryInput="_FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og" output="_FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VgQLMDO8EeK5hZv7WCtlvg" name="customer_reviews" guid="_VgQLMDO8EeK5hZv7WCtlvg" presentationName="Customer Reviews " briefDescription="Together with the people with knoweledge in the system review the recovered models." performedBy="_tvQEgQmREeOmqbz9Sywm-g _tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og _02BCgP3CEeK8HINtOGo1Xg" output="_FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og _02BCgP3CEeK8HINtOGo1Xg">
+            <methodElementProperty xmi:id="_5FVv0AmNEeOmqbz9Sywm-g" name="me_edited" value="true"/>
             <presentation xmi:id="-rkjVjwxt1Nh_om3E248aTw" href="uma://-rkjVjwxt1Nh_om3E248aTw#-rkjVjwxt1Nh_om3E248aTw"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wk5S8EkVEeKu7-3cM-oErg" name="refine_system_knowledge" guid="_wk5S8EkVEeKu7-3cM-oErg" presentationName="Refine System Knowledge" mandatoryInput="_FxNEU15BEeKVU8eUCvi3Og" output="_FxNEU15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wk5S8EkVEeKu7-3cM-oErg" name="refine_system_knowledge" guid="_wk5S8EkVEeKu7-3cM-oErg" presentationName="Refine System Knowledge" briefDescription="Take the automatically recovered system knowledge and refine it." performedBy="_tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_FxNEU15BEeKVU8eUCvi3Og" output="_FxNEU15BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_TgEI4AmTEeOmqbz9Sywm-g" name="me_edited" value="true"/>
             <presentation xmi:id="-1LsVKcnTAjfYLtWnNbogeQ" href="uma://-1LsVKcnTAjfYLtWnNbogeQ#-1LsVKcnTAjfYLtWnNbogeQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2msdUEkVEeKu7-3cM-oErg" name="generate_system_model" guid="_2msdUEkVEeKu7-3cM-oErg" presentationName="Generate System Model" output="_FxNEW15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2msdUEkVEeKu7-3cM-oErg" name="generate_system_model" guid="_2msdUEkVEeKu7-3cM-oErg" presentationName="Generate System Model" briefDescription="Starting from the recovered system knowledge generate the legacy system model" performedBy="_tvQEggmREeOmqbz9Sywm-g _IBhB8AmTEeOmqbz9Sywm-g" mandatoryInput="_FxNEU15BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w" output="_FxNEVV5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_MRXtkAmTEeOmqbz9Sywm-g" name="me_edited" value="true"/>
             <presentation xmi:id="-njZZvKnH4OvpGtyVUOlFZQ" href="uma://-njZZvKnH4OvpGtyVUOlFZQ#-njZZvKnH4OvpGtyVUOlFZQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_bIascF7QEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="#_FxNEU15BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7iaJYEkVEeKu7-3cM-oErg" name="generate_system_requirement" guid="_7iaJYEkVEeKu7-3cM-oErg" presentationName="Generate System Requirement " briefDescription="&#xD;&#xA;" output="_FxNEVl5BEeKVU8eUCvi3Og" optionalInput="_FxNEW15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7iaJYEkVEeKu7-3cM-oErg" name="recover_system_requirements" guid="_7iaJYEkVEeKu7-3cM-oErg" presentationName="Recover System Requirements" briefDescription="Recover the system requirements from the system knowledge and from the ussage of the legacy system." performedBy="_tvQEggmREeOmqbz9Sywm-g _IBhB8AmTEeOmqbz9Sywm-g" mandatoryInput="_FxNEU15BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w" output="_FxNEVl5BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_4q0J0P3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-xCvPaS-8DMtNQYxoODGFOg" href="uma://-xCvPaS-8DMtNQYxoODGFOg#-xCvPaS-8DMtNQYxoODGFOg"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_bIascF7QEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="#_FxNEU15BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ATtVMEkWEeKu7-3cM-oErg" name="recover_system_testing" guid="_ATtVMEkWEeKu7-3cM-oErg" presentationName="Recover System Testing" briefDescription="&#xD;&#xA;" output="_02BCgP3CEeK8HINtOGo1Xg" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ATtVMEkWEeKu7-3cM-oErg" name="recover_system_testing" guid="_ATtVMEkWEeKu7-3cM-oErg" presentationName="Recover System Testing" briefDescription="From the system knowledge and the legacy code recover the testing procedures of the system.&#xD;&#xA;" performedBy="_tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_iwtqcN_8EeKdMZ3N0jsS2w" output="_02BCgP3CEeK8HINtOGo1Xg" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_4r_1kP3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-DJNL48O7wz1KwBAduja0cA" href="uma://-DJNL48O7wz1KwBAduja0cA#-DJNL48O7wz1KwBAduja0cA"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2R5ckEkWEeKu7-3cM-oErg" name="collect_the_code" guid="_2R5ckEkWEeKu7-3cM-oErg" presentationName="Collect the Code" output="_FxNEVF5BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2R5ckEkWEeKu7-3cM-oErg" name="collect_the_code" guid="_2R5ckEkWEeKu7-3cM-oErg" presentationName="Collect the Code" briefDescription="Collect the code from the product owner to start the recovery process." performedBy="_tvQEgQmREeOmqbz9Sywm-g _tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_iwtqcN_8EeKdMZ3N0jsS2w" output="_FxNEVF5BEeKVU8eUCvi3Og">
+            <methodElementProperty xmi:id="_cRydMAmTEeOmqbz9Sywm-g" name="me_edited" value="true"/>
             <presentation xmi:id="-T8VBHDVfr7qtqZRiPMDwlg" href="uma://-T8VBHDVfr7qtqZRiPMDwlg#-T8VBHDVfr7qtqZRiPMDwlg"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2R5clEkWEeKu7-3cM-oErg" name="recover_system_knowledge" guid="_2R5clEkWEeKu7-3cM-oErg" presentationName="Recover System Knowledge" output="_FxNEU15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2R5clEkWEeKu7-3cM-oErg" name="recover_system_knowledge" guid="_2R5clEkWEeKu7-3cM-oErg" presentationName="Recover System Knowledge" briefDescription="From the legacy code recover the system knowledge." performedBy="_tvQEggmREeOmqbz9Sywm-g _IBhB8AmTEeOmqbz9Sywm-g" mandatoryInput="_FxNEVF5BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w" output="_FxNEU15BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_4qPiEP3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-1f70XiKucleVPqjLD4pajw" href="uma://-1f70XiKucleVPqjLD4pajw#-1f70XiKucleVPqjLD4pajw"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_bIascF7QEeKFRuoPceMYcQ"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="#_FxNEVF5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cD2ZcFi7EeKc_ty_5LPMaw" name="recovery" guid="_cD2ZcFi7EeKc_ty_5LPMaw" presentationName="Recovery" briefDescription="This activity will recover the knowledge contained in those legacy components that have been selected to be reengineered starting from the recovery of their knowledge through the application of code based analysis tools." contentReferences="_j4LX4N_zEeKdMZ3N0jsS2w _FxNEW15BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og _FxNEVF5BEeKVU8eUCvi3Og _FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w _7UGsQN_yEeKdMZ3N0jsS2w _sOwSMN_8EeKdMZ3N0jsS2w _2R5ckEkWEeKu7-3cM-oErg _VgQLMDO8EeK5hZv7WCtlvg _2msdUEkVEeKu7-3cM-oErg _7iaJYEkVEeKu7-3cM-oErg _CAd7IF7REeKFRuoPceMYcQ _ATtVMEkWEeKu7-3cM-oErg _2R5clEkWEeKu7-3cM-oErg _wk5S8EkVEeKu7-3cM-oErg _CAd7Il7REeKFRuoPceMYcQ _CAd7IV7REeKFRuoPceMYcQ _6B7joN_7EeKdMZ3N0jsS2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cD2ZcFi7EeKc_ty_5LPMaw" name="recovery" guid="_cD2ZcFi7EeKc_ty_5LPMaw" presentationName="Recovery" briefDescription="This activity will recover the knowledge contained in those legacy components that have been selected to be reengineered starting from the recovery of their knowledge through the application of code based analysis tools." contentReferences="_j4LX4N_zEeKdMZ3N0jsS2w _FxNEU15BEeKVU8eUCvi3Og _FxNEVF5BEeKVU8eUCvi3Og _FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w _sOwSMN_8EeKdMZ3N0jsS2w _2R5ckEkWEeKu7-3cM-oErg _VgQLMDO8EeK5hZv7WCtlvg _2msdUEkVEeKu7-3cM-oErg _7iaJYEkVEeKu7-3cM-oErg _CAd7IF7REeKFRuoPceMYcQ _ATtVMEkWEeKu7-3cM-oErg _2R5clEkWEeKu7-3cM-oErg _wk5S8EkVEeKu7-3cM-oErg _CAd7Il7REeKFRuoPceMYcQ _CAd7IV7REeKFRuoPceMYcQ _6B7joN_7EeKdMZ3N0jsS2w _ZlX-cAmMEeOmqbz9Sywm-g _tvQEgAmREeOmqbz9Sywm-g _tvQEgQmREeOmqbz9Sywm-g _02BCgP3CEeK8HINtOGo1Xg _tvQEggmREeOmqbz9Sywm-g _tvQEgwmREeOmqbz9Sywm-g _tvQEhAmREeOmqbz9Sywm-g _IBhB8AmTEeOmqbz9Sywm-g _R5g9oAmaEeOmqbz9Sywm-g __hDtsAmbEeOmqbz9Sywm-g">
             <methodElementProperty xmi:id="_y-AjAN_9EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
+            <activityReferences href="uma://_tzY-8DO8EeK5hZv7WCtlvg#_tzY-8TO8EeK5hZv7WCtlvg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CAd7IF7REeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog" guid="_CAd7IF7REeKFRuoPceMYcQ" presentationName="Prepare and Demo Product Backlog" briefDescription="Prepare and demo product backlog for Recovery Sprint" output="_j4LX4N_zEeKdMZ3N0jsS2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CAd7IF7REeKFRuoPceMYcQ" name="prepare_and_demo_product_backlog.extends" guid="_CAd7IF7REeKFRuoPceMYcQ" variabilityType="extends" performedBy="_tvQEggmREeOmqbz9Sywm-g" output="_j4LX4N_zEeKdMZ3N0jsS2w" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _sOwSMN_8EeKdMZ3N0jsS2w">
             <methodElementProperty xmi:id="_0fP-MN_7EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
-            <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEWl5BEeKVU8eUCvi3Og"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_bC04cAALEeOZBbwDq57ZRA"/>
+            <mandatoryInput href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_5aIOsN_5EeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CAd7IV7REeKFRuoPceMYcQ" name="sprint_retrospective.extends" guid="_CAd7IV7REeKFRuoPceMYcQ" presentationName="Recovery Sprint Retrospective" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CAd7IV7REeKFRuoPceMYcQ" name="sprint_retrospective.extends" guid="_CAd7IV7REeKFRuoPceMYcQ" variabilityType="extends" performedBy="_tvQEggmREeOmqbz9Sywm-g">
             <methodElementProperty xmi:id="_D5KHcN_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_sKJ9AOF-Edyp34pwdTOSVQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_NEEUAAAKEeOZBbwDq57ZRA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CAd7Il7REeKFRuoPceMYcQ" name="sprint_planning_meeting.extends" guid="_CAd7Il7REeKFRuoPceMYcQ" presentationName="Recovery Sprint Planning Meeting" variabilityType="extends" mandatoryInput="_j4LX4N_zEeKdMZ3N0jsS2w" output="_j4LX4N_zEeKdMZ3N0jsS2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CAd7Il7REeKFRuoPceMYcQ" name="sprint_planning_meeting.extends" guid="_CAd7Il7REeKFRuoPceMYcQ" variabilityType="extends" performedBy="_tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_j4LX4N_zEeKdMZ3N0jsS2w" output="_j4LX4N_zEeKdMZ3N0jsS2w">
             <methodElementProperty xmi:id="_t6hF4N_7EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4gCKAOF9Edyp34pwdTOSVQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_WDFecP__EeKZBbwDq57ZRA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVF5BEeKVU8eUCvi3Og" name="legacy_code" guid="_FxNEVF5BEeKVU8eUCvi3Og" presentationName="Legacy Code"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_7UGsQN_yEeKdMZ3N0jsS2w" name="source_code.assign" guid="_7UGsQN_yEeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEVF5BEeKVU8eUCvi3Og">
-            <methodElementProperty xmi:id="_8aGrAN_yEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_vj2KQN_yEeKdMZ3N0jsS2w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVF5BEeKVU8eUCvi3Og" name="legacy_code" guid="_FxNEVF5BEeKVU8eUCvi3Og" presentationName="Legacy Code" briefDescription="The code that builds up the legacy system">
+            <methodElementProperty xmi:id="_NU34UAmbEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <presentation xmi:id="-4Y60hTcVpTUdG-2Mxr4tQQ" href="uma://-4Y60hTcVpTUdG-2Mxr4tQQ#-4Y60hTcVpTUdG-2Mxr4tQQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_j4LX4N_zEeKdMZ3N0jsS2w" name="product_backlog.extends" guid="_j4LX4N_zEeKdMZ3N0jsS2w" presentationName="Recovery Product Backlog" variabilityType="extends">
             <methodElementProperty xmi:id="_mzvKEN_zEeKdMZ3N0jsS2w" name="me_edited" value="true"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_OZIPIOF8Edyp34pwdTOSVQ"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6B7joN_7EeKdMZ3N0jsS2w" name="sprint_review.extends" guid="_6B7joN_7EeKdMZ3N0jsS2w" presentationName="Recovery Sprint Review" briefDescription="Requirements ScrumDemo and Retrospective held at the end of each sprint" variabilityType="extends" mandatoryInput="_j4LX4N_zEeKdMZ3N0jsS2w" output="_j4LX4N_zEeKdMZ3N0jsS2w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6B7joN_7EeKdMZ3N0jsS2w" name="sprint_review.extends" guid="_6B7joN_7EeKdMZ3N0jsS2w" variabilityType="extends" performedBy="_tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_j4LX4N_zEeKdMZ3N0jsS2w" output="_j4LX4N_zEeKdMZ3N0jsS2w" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _sOwSMN_8EeKdMZ3N0jsS2w">
             <methodElementProperty xmi:id="_9tUQQN_7EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-UkKr4C_W5ref1jhYhAXetA" href="uma://-UkKr4C_W5ref1jhYhAXetA#-UkKr4C_W5ref1jhYhAXetA"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_i_fkQOF-Edyp34pwdTOSVQ"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Gi9t0F5AEeKVU8eUCvi3Og"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_Z_-7YAALEeOZBbwDq57ZRA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVV5BEeKVU8eUCvi3Og" name="recovered_system_model" guid="_FxNEVV5BEeKVU8eUCvi3Og" presentationName="Recovered System Model" deliveredWorkProducts="_FxNEU15BEeKVU8eUCvi3Og _FxNEW15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVV5BEeKVU8eUCvi3Og" name="recovered_system_model" guid="_FxNEVV5BEeKVU8eUCvi3Og" presentationName="Recovered System Model" briefDescription="Is the extracted model from the legacy code represented in UML" deliveredWorkProducts="_R5g9oAmaEeOmqbz9Sywm-g">
             <methodElementProperty xmi:id="_1fGcMN_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+            <presentation xmi:id="-egKoBl5bAeZ-xmhUA0B9hQ" href="uma://-egKoBl5bAeZ-xmhUA0B9hQ#-egKoBl5bAeZ-xmhUA0B9hQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVl5BEeKVU8eUCvi3Og" name="recovered_system_requirements" guid="_FxNEVl5BEeKVU8eUCvi3Og" presentationName="Recovered System Requirements">
-            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEUV5BEeKVU8eUCvi3Og"/>
-            <deliveredWorkProducts href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_FxNEYl5BEeKVU8eUCvi3Og"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEVl5BEeKVU8eUCvi3Og" name="recovered_system_requirements" guid="_FxNEVl5BEeKVU8eUCvi3Og" presentationName="Recovered System Requirements" briefDescription="It is a list of requirments extracted from the legacy code and from the usage of the system." deliveredWorkProducts="__hDtsAmbEeOmqbz9Sywm-g">
+            <methodElementProperty xmi:id="_xI4uQAmbEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <presentation xmi:id="-2BnlCSc-l5rSuSo0Hzx7Mw" href="uma://-2BnlCSc-l5rSuSo0Hzx7Mw#-2BnlCSc-l5rSuSo0Hzx7Mw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_iwtqcN_8EeKdMZ3N0jsS2w" name="requirements_model.assign" guid="_iwtqcN_8EeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEVl5BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_j3gTYN_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_sOwSMN_8EeKdMZ3N0jsS2w" name="system_model.assign" guid="_sOwSMN_8EeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEVV5BEeKVU8eUCvi3Og _FxNEW15BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_sOwSMN_8EeKdMZ3N0jsS2w" name="system_model.assign" guid="_sOwSMN_8EeKdMZ3N0jsS2w" variabilityType="contributes" deliveredWorkProducts="_FxNEVV5BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_s59LUN_8EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_umMDoN_8EeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEW15BEeKVU8eUCvi3Og" name="recovered_architecture_model" guid="_FxNEW15BEeKVU8eUCvi3Og" presentationName="Recovered Architecture Model">
-            <methodElementProperty xmi:id="_Mw35kN_9EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEU15BEeKVU8eUCvi3Og" name="knowledge_model" guid="_FxNEU15BEeKVU8eUCvi3Og" presentationName="Knowledge Model" briefDescription="Abstract representation of the legacy code.">
+            <methodElementProperty xmi:id="_dbtZAAmbEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <presentation xmi:id="-tdlrr4DobaxN1bkT4BC0CA" href="uma://-tdlrr4DobaxN1bkT4BC0CA#-tdlrr4DobaxN1bkT4BC0CA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_FxNEU15BEeKVU8eUCvi3Og" name="knowledge_model" guid="_FxNEU15BEeKVU8eUCvi3Og" presentationName="Knowledge Model"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_02BCgP3CEeK8HINtOGo1Xg" name="recovered_testing_model" guid="_02BCgP3CEeK8HINtOGo1Xg" presentationName="Recovered Testing Model">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_02BCgP3CEeK8HINtOGo1Xg" name="recovered_testing_model" guid="_02BCgP3CEeK8HINtOGo1Xg" presentationName="Recovered Testing Model" briefDescription="testing procedures and testing cases recovered from the legacy testing code modelled in UML">
             <methodElementProperty xmi:id="_4tH28P3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
+            <presentation xmi:id="-EUtAro7pIg08cu1KKQiQhA" href="uma://-EUtAro7pIg08cu1KKQiQhA#-EUtAro7pIg08cu1KKQiQhA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZlX-cAmMEeOmqbz9Sywm-g" name="daily_scrum.extend" guid="_ZlX-cAmMEeOmqbz9Sywm-g" variabilityType="extends" mandatoryInput="_j4LX4N_zEeKdMZ3N0jsS2w" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _sOwSMN_8EeKdMZ3N0jsS2w">
+            <methodElementProperty xmi:id="_ZmW14AmMEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_Og44UP__EeKZBbwDq57ZRA#_EGOX0AAhEeOlbtFyKmDE9w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEgAmREeOmqbz9Sywm-g" name="development_team.assign" guid="_tvQEgAmREeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="_twVpoAmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_AwUgMM3SEeKOw8KXk47y0g"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_mE4_QP28EeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_9sBooP28EeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_I-Jq0AD3EeOBVZ2G27rUkQ"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_b44moP2uEeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_qyEqkADyEeOBVZ2G27rUkQ"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4ODHkP29EeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_KVOS0AD0EeOBVZ2G27rUkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEgQmREeOmqbz9Sywm-g" name="product_owner.assign" guid="_tvQEgQmREeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="_twVpoQmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_5aIOsN_5EeKdMZ3N0jsS2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEggmREeOmqbz9Sywm-g" name="recovery_team.assign" guid="_tvQEggmREeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="_twVpogmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Jin84F5AEeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEgwmREeOmqbz9Sywm-g" name="scrum_master.assign" guid="_tvQEgwmREeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="_twVpowmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_mE4_QP28EeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_9sBooP28EeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_I-Jq0AD3EeOBVZ2G27rUkQ"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_b44moP2uEeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4ODHkP29EeK8HINtOGo1Xg"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_qyEqkADyEeOBVZ2G27rUkQ"/>
+            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_KVOS0AD0EeOBVZ2G27rUkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEhAmREeOmqbz9Sywm-g" name="scrum_team.assign" guid="_tvQEhAmREeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="_twVppAmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_IBhB8AmTEeOmqbz9Sywm-g" name="tool_expert.assign" guid="_IBhB8AmTEeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="_MR-xkAmTEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_bIascF7QEeKFRuoPceMYcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_R5g9oAmaEeOmqbz9Sywm-g" name="recovered_architecture_model" guid="_R5g9oAmaEeOmqbz9Sywm-g" presentationName="Recovered Architecture Model" briefDescription="It is a part of the recovered sytem model that describe the overall architecture oif the legacy system">
+            <methodElementProperty xmi:id="_VmJAYAmaEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <presentation xmi:id="-uYfSVpEO6cZCB6n6mXtrTA" href="uma://-uYfSVpEO6cZCB6n6mXtrTA#-uYfSVpEO6cZCB6n6mXtrTA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__hDtsAmbEeOmqbz9Sywm-g" name="validation_criteria.assign" guid="__hDtsAmbEeOmqbz9Sywm-g" variabilityType="contributes">
+            <methodElementProperty xmi:id="__iEaUAmbEeOmqbz9Sywm-g" name="me_edited" value="true"/>
+            <presentation xmi:id="-dLog95Oe9BM61lUojSlINg" href="uma://-dLog95Oe9BM61lUojSlINg#-dLog95Oe9BM61lUojSlINg"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_0zpAsADzEeOBVZ2G27rUkQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kQJJ4ApOEeOBM7QWB5hbCw" name="increment.assign" guid="_kQJJ4ApOEeOBM7QWB5hbCw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_kRGMIApOEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XJbkApNEeOBM7QWB5hbCw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kQJw8ApOEeOBM7QWB5hbCw" name="product_backlog.assign" guid="_kQJw8ApOEeOBM7QWB5hbCw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_kRGMIQpOEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_kQJw8QpOEeOBM7QWB5hbCw" name="project_plan.assign" guid="_kQJw8QpOEeOBM7QWB5hbCw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_kRGMIgpOEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_YAkHIN_nEeKdMZ3N0jsS2w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kQJw8gpOEeOBM7QWB5hbCw" name="sprint_backlog.assign" guid="_kQJw8gpOEeOBM7QWB5hbCw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_kRGMIwpOEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XKCoQpNEeOBM7QWB5hbCw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_kQJw8wpOEeOBM7QWB5hbCw" name="sprint_goal.assign" guid="_kQJw8wpOEeOBM7QWB5hbCw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_kRGMJApOEeOBM7QWB5hbCw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XKCogpNEeOBM7QWB5hbCw"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -157,5 +210,6 @@
     <bases href="uma://_nynNUPNHEeGUHqJDPoQpuw#_nynNUPNHEeGUHqJDPoQpuw"/>
     <bases href="uma://_fFpCYFiuEeKBXYc66RG5vg#_fFpCYFiuEeKBXYc66RG5vg"/>
     <bases href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_6Ab_EOF4Edyp34pwdTOSVQ"/>
+    <bases href="uma://_MGQtkFvrEeKHU9XooDK5Ng#_MGQtkFvrEeKHU9XooDK5Ng"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

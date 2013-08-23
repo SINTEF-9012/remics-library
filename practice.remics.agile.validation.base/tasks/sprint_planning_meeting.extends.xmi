@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iKNgIoN9xjcteWaqKs5Cog" name="sprint_planning,_UGwT0EkUEeKu7-3cM-oErg" guid="-iKNgIoN9xjcteWaqKs5Cog" changeDate="2013-01-07T13:05:31.302+0100">
-  <mainDescription>Sprint planning meeting is held at the beginning of each sprint. During the meeting the product owner presents the product&#xD;
-backlog and discusses it with the team. The sprint goal is defined and sprint backlog is created.</mainDescription>
-</org.eclipse.epf.uma:TaskDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iKNgIoN9xjcteWaqKs5Cog" name="sprint_planning,_UGwT0EkUEeKu7-3cM-oErg" guid="-iKNgIoN9xjcteWaqKs5Cog" changeDate="2013-08-22T10:43:17.890+0200"/>

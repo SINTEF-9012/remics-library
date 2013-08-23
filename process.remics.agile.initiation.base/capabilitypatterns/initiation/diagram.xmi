@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
   <uml:Activity xmi:id="_zQmOMPONEeKoGYdq-8Z_HA" name="initiation">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_zQmOMfONEeKoGYdq-8Z_HA" source="uma_element">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zQmOMvONEeKoGYdq-8Z_HA" key="uri" value="uma://_nTmtMPOMEeKb3NsawrMs1A#_nTmtMfOMEeKb3NsawrMs1A"/>
@@ -38,7 +38,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_zQ8Mc_ONEeKoGYdq-8Z_HA"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_zQ8MdPONEeKoGYdq-8Z_HA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_zQ8MdfONEeKoGYdq-8Z_HA" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQ8MdvONEeKoGYdq-8Z_HA" x="260" y="115"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQ8MdvONEeKoGYdq-8Z_HA" x="250" y="50"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_1rgKYPONEeKoGYdq-8Z_HA" type="1004" element="_1rcgAPONEeKoGYdq-8Z_HA">
       <children xmi:type="notation:Node" xmi:id="_1rh_kPONEeKoGYdq-8Z_HA" type="4003">
@@ -59,18 +59,6 @@
       <styles xmi:type="notation:FillStyle" xmi:id="_3QBRI_ONEeKoGYdq-8Z_HA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_3QBRJPONEeKoGYdq-8Z_HA" lineColor="0"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3QBRJfONEeKoGYdq-8Z_HA" x="420" y="60"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_j5zkkPtHEeKiy_TRaqF2Gg" type="oval" fontName="Arial" fontHeight="8" description="df" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
-      <children xmi:type="notation:BasicDecorationNode" xmi:id="_j532APtHEeKiy_TRaqF2Gg" type="DiagramName">
-        <element xsi:nil="true"/>
-      </children>
-      <children xmi:type="notation:BasicDecorationNode" xmi:id="_j532AftHEeKiy_TRaqF2Gg" type="Description">
-        <element xsi:nil="true"/>
-      </children>
-      <styles xmi:type="notation:TextStyle" xmi:id="_j5zkkftHEeKiy_TRaqF2Gg"/>
-      <styles xmi:type="notation:LineTypeStyle" xmi:id="_j5zkkvtHEeKiy_TRaqF2Gg"/>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j5zkk_tHEeKiy_TRaqF2Gg" x="75" y="155" width="111" height="61"/>
     </children>
     <styles xmi:type="notation:PageStyle" xmi:id="_zQmONfONEeKoGYdq-8Z_HA"/>
     <styles xmi:type="notation:GuideStyle" xmi:id="_zQm1QPONEeKoGYdq-8Z_HA"/>

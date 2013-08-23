@@ -2,9 +2,11 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_S0dD8VvrEeKHU9XooDK5Ng" guid="_S0dD8VvrEeKHU9XooDK5Ng">
     <subManagers xmi:id="_xts4YDO8EeK5hZv7WCtlvg" href="uma://_xsG88DO8EeK5hZv7WCtlvg#_xts4YDO8EeK5hZv7WCtlvg"/>
+    <subManagers xmi:id="_07qFkQA1EeO8guHzeWZLgg" href="uma://_xysJgAA1EeO8guHzeWZLgg#_07qFkQA1EeO8guHzeWZLgg"/>
     <resourceDescriptors xmi:id="_xsL1cDO8EeK5hZv7WCtlvg" id="_xsG88DO8EeK5hZv7WCtlvg" uri="capabilitypatterns/requirements/model.xmi"/>
+    <resourceDescriptors xmi:id="_07qFkAA1EeO8guHzeWZLgg" id="_xysJgAA1EeO8guHzeWZLgg" uri="capabilitypatterns/requirements.practice/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_S0dD4FvrEeKHU9XooDK5Ng" name="process.remics.agile.requirements.base" guid="_S0dD4FvrEeKHU9XooDK5Ng" changeDate="2013-08-02T13:13:51.876+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_S0dD4FvrEeKHU9XooDK5Ng" name="process.remics.agile.requirements.base" guid="_S0dD4FvrEeKHU9XooDK5Ng" changeDate="2013-08-09T11:16:07.532+0200">
     <methodElementProperty xmi:id="_S0dD81vrEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_n1pB0PtkEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_S0dD4VvrEeKHU9XooDK5Ng" name="Content" guid="_S0dD4VvrEeKHU9XooDK5Ng">
@@ -25,14 +27,22 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_KcFG0PtkEeKiy_TRaqF2Gg" name="requirements" guid="_KcFG0PtkEeKiy_TRaqF2Gg">
           <methodElementProperty xmi:id="_KcFG0ftkEeKiy_TRaqF2Gg" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_L9qOUPtkEeKiy_TRaqF2Gg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_I5FSgADUEeOA27TYHr-uJA" name="requirements.assign" guid="_I5FSgADUEeOA27TYHr-uJA" variabilityType="contributes">
+            <methodElementProperty xmi:id="_JRrYsADUEeOA27TYHr-uJA" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_JRrYsQDUEeOA27TYHr-uJA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Practice" href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_VNSKQFi7EeKc_ty_5LPMaw"/>
+            <activityReferences href="uma://_xysJgAA1EeO8guHzeWZLgg#_xysJjAA1EeO8guHzeWZLgg"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S0dD7VvrEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_S0dD7VvrEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_xsG88DO8EeK5hZv7WCtlvg" href="uma://_xsG88DO8EeK5hZv7WCtlvg#_xsG88DO8EeK5hZv7WCtlvg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_xysJgAA1EeO8guHzeWZLgg" href="uma://_xysJgAA1EeO8guHzeWZLgg#_xysJgAA1EeO8guHzeWZLgg"/>
       </childPackages>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S0dD7lvrEeKHU9XooDK5Ng" name="DeliveryProcesses" guid="_S0dD7lvrEeKHU9XooDK5Ng"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_S0dD71vrEeKHU9XooDK5Ng" name="ProcessContributions" guid="_S0dD71vrEeKHU9XooDK5Ng"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4BH4wPNGEeGUHqJDPoQpuw"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

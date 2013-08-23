@@ -28,12 +28,11 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LOJIsOlXEeKwz9k73swTBQ" name="initiation" guid="_LOJIsOlXEeKwz9k73swTBQ">
           <methodElementProperty xmi:id="_LOJIselXEeKwz9k73swTBQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_L4_cgOlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NW6MAOlXEeKwz9k73swTBQ" name="define_project_plan" guid="_NW6MAOlXEeKwz9k73swTBQ" presentationName="Define project plan" guidelines="_OmTCwPOIEeKb3NsawrMs1A" output="_wUa3wOlXEeKwz9k73swTBQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NW6MAOlXEeKwz9k73swTBQ" name="define_project_plan" guid="_NW6MAOlXEeKwz9k73swTBQ" presentationName="Define project plan" guidelines="_OmTCwPOIEeKb3NsawrMs1A" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" mandatoryInput="_JcKpMP9aEeKFQ424hH0UrQ" output="_wUa3wOlXEeKwz9k73swTBQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
             <methodElementProperty xmi:id="_Oh4xYOlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-2SPpwaDP45FdBHTmT_ELuA" href="uma://-2SPpwaDP45FdBHTmT_ELuA#-2SPpwaDP45FdBHTmT_ELuA"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cqo0wOlXEeKwz9k73swTBQ" name="initiation" guid="_cqo0wOlXEeKwz9k73swTBQ" presentationName="Initiation" contentReferences="_OmTCwPOIEeKb3NsawrMs1A _wUa3wOlXEeKwz9k73swTBQ _NW6MAOlXEeKwz9k73swTBQ _DWQxAOlYEeKwz9k73swTBQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cqo0wOlXEeKwz9k73swTBQ" name="initiation" guid="_cqo0wOlXEeKwz9k73swTBQ" presentationName="Initiation" contentReferences="_OmTCwPOIEeKb3NsawrMs1A _wUa3wOlXEeKwz9k73swTBQ _NW6MAOlXEeKwz9k73swTBQ _DWQxAOlYEeKwz9k73swTBQ _JcKpMP9aEeKFQ424hH0UrQ _LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw _0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA">
             <methodElementProperty xmi:id="_cqzM0OlXEeKwz9k73swTBQ" name="PUBLISH_CATEGORY" value="true"/>
             <methodElementProperty xmi:id="_eDUe8OlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-1yUGHuQgOcfBZqVb2B2XMw" href="uma://-1yUGHuQgOcfBZqVb2B2XMw#-1yUGHuQgOcfBZqVb2B2XMw"/>
@@ -43,14 +42,37 @@
             <presentation xmi:id="-zu6Tj6gTgml1PYL-_X65xg" href="uma://-zu6Tj6gTgml1PYL-_X65xg#-zu6Tj6gTgml1PYL-_X65xg"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_YAkHIN_nEeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DWQxAOlYEeKwz9k73swTBQ" name="describe_system_idea" guid="_DWQxAOlYEeKwz9k73swTBQ" presentationName="Describe system idea">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DWQxAOlYEeKwz9k73swTBQ" name="describe_system_idea" guid="_DWQxAOlYEeKwz9k73swTBQ" presentationName="Describe system idea" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" output="_JcKpMP9aEeKFQ424hH0UrQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
             <methodElementProperty xmi:id="_EroBcOlYEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-AB27uXscO8Ja545IVhlkpw" href="uma://-AB27uXscO8Ja545IVhlkpw#-AB27uXscO8Ja545IVhlkpw"/>
-            <performedBy href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_OmTCwPOIEeKb3NsawrMs1A" name="factors_for_tailoring_the_remics_methodology" guid="_OmTCwPOIEeKb3NsawrMs1A" presentationName="Factors for tailoring the REMICS Methodology" briefDescription="This guideline describes factors that should be considered for tailoring the REMICS Methodology.">
             <methodElementProperty xmi:id="_Q4FfMPOIEeKb3NsawrMs1A" name="me_edited" value="true"/>
             <presentation xmi:id="-VaTQ0VAcUy168vnCBxEmGQ" href="uma://-VaTQ0VAcUy168vnCBxEmGQ#-VaTQ0VAcUy168vnCBxEmGQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JcKpMP9aEeKFQ424hH0UrQ" name="system_idea.assign" guid="_JcKpMP9aEeKFQ424hH0UrQ" variabilityType="contributes">
+            <methodElementProperty xmi:id="_MWba4P9aEeKFQ424hH0UrQ" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_EdAyEP2uEeK8HINtOGo1Xg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_0MuFgABBEeOnBNRwFwwrAw" name="initiation_team.assign" guid="_0MuFgABBEeOnBNRwFwwrAw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_2o3-4ABBEeOnBNRwFwwrAw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uD3IEADJEeOA27TYHr-uJA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ODwU8ABCEeOnBNRwFwwrAw" name="product_owner.assign" guid="_ODwU8ABCEeOnBNRwFwwrAw" variabilityType="contributes" responsibleFor="_JcKpMP9aEeKFQ424hH0UrQ">
+            <methodElementProperty xmi:id="_UJQ6oABCEeOnBNRwFwwrAw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_7ilwoF4_EeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_hd4LUABCEeOnBNRwFwwrAw" name="scrum_master.assign" guid="_hd4LUABCEeOnBNRwFwwrAw" variabilityType="contributes" responsibleFor="_wUa3wOlXEeKwz9k73swTBQ">
+            <methodElementProperty xmi:id="_smEnwABCEeOnBNRwFwwrAw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_39RPwF4_EeKVU8eUCvi3Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_LRPUkABDEeOnBNRwFwwrAw" name="development_team.assign" guid="_LRPUkABDEeOnBNRwFwwrAw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_QU1KQABDEeOnBNRwFwwrAw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_AwUgMM3SEeKOw8KXk47y0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_B7Ll4ADMEeOA27TYHr-uJA" name="scrum_team.assign" guid="_B7Ll4ADMEeOA27TYHr-uJA" variabilityType="contributes">
+            <methodElementProperty xmi:id="_Faas4ADMEeOA27TYHr-uJA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
         </childPackages>
       </childPackages>
