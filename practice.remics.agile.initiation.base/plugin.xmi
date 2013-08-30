@@ -4,10 +4,12 @@
     <resourceDescriptors xmi:id="_fH4TQOlXEeKwz9k73swTBQ" id="-1yUGHuQgOcfBZqVb2B2XMw" uri="guidances/practices/initiation.xmi"/>
     <resourceDescriptors xmi:id="_-G-90OlZEeKFapxeEIkyJg" id="-zu6Tj6gTgml1PYL-_X65xg" uri="workproducts/project_plan.assign.xmi"/>
     <resourceDescriptors xmi:id="_Q4H7cPOIEeKb3NsawrMs1A" id="-VaTQ0VAcUy168vnCBxEmGQ" uri="guidances/guidelines/factors_for_tailoring_the_remics_methodology.xmi"/>
-    <resourceDescriptors xmi:id="_rDzgkftcEeKiy_TRaqF2Gg" id="-2SPpwaDP45FdBHTmT_ELuA" uri="tasks/define_project_plan.xmi"/>
+    <resourceDescriptors xmi:id="_rDzgkftcEeKiy_TRaqF2Gg" id="-2SPpwaDP45FdBHTmT_ELuA" uri="tasks/identify_scrum_teams.xmi"/>
     <resourceDescriptors xmi:id="_Yped0ftdEeKiy_TRaqF2Gg" id="-AB27uXscO8Ja545IVhlkpw" uri="tasks/describe_system_idea.xmi"/>
+    <resourceDescriptors xmi:id="_IBCtMBCsEeOSL6of5eOufw" id="-t4OAbqkG2vFa-cbiq0wApw" uri="tasks/define_migration_goals.xmi"/>
+    <resourceDescriptors xmi:id="_oQ-YYBCsEeOSL6of5eOufw" id="-LEt8u3E3Kolzwgd209Jmdg" uri="tasks/prepare_product_backlog.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_DsFsgOlXEeKwz9k73swTBQ" name="practice.remics.agile.initiation.base" guid="_DsFsgOlXEeKwz9k73swTBQ" changeDate="2013-07-10T13:57:14.071+0200">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_DsFsgOlXEeKwz9k73swTBQ" name="practice.remics.agile.initiation.base" guid="_DsFsgOlXEeKwz9k73swTBQ" changeDate="2013-08-29T15:24:00.745+0200">
     <methodElementProperty xmi:id="_DsqUQOlXEeKwz9k73swTBQ" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_42HzEOlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DsFsgelXEeKwz9k73swTBQ" name="Content" guid="_DsFsgelXEeKwz9k73swTBQ">
@@ -28,11 +30,11 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LOJIsOlXEeKwz9k73swTBQ" name="initiation" guid="_LOJIsOlXEeKwz9k73swTBQ">
           <methodElementProperty xmi:id="_LOJIselXEeKwz9k73swTBQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_L4_cgOlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NW6MAOlXEeKwz9k73swTBQ" name="define_project_plan" guid="_NW6MAOlXEeKwz9k73swTBQ" presentationName="Define project plan" guidelines="_OmTCwPOIEeKb3NsawrMs1A" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" mandatoryInput="_JcKpMP9aEeKFQ424hH0UrQ" output="_wUa3wOlXEeKwz9k73swTBQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NW6MAOlXEeKwz9k73swTBQ" name="identify_scrum_teams" guid="_NW6MAOlXEeKwz9k73swTBQ" presentationName="Identify Scrum Teams" briefDescription="Identify actors and initial Scrum teams &#xD;&#xA;" guidelines="_OmTCwPOIEeKb3NsawrMs1A" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" mandatoryInput="_JcKpMP9aEeKFQ424hH0UrQ" output="_wUa3wOlXEeKwz9k73swTBQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
             <methodElementProperty xmi:id="_Oh4xYOlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-2SPpwaDP45FdBHTmT_ELuA" href="uma://-2SPpwaDP45FdBHTmT_ELuA#-2SPpwaDP45FdBHTmT_ELuA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cqo0wOlXEeKwz9k73swTBQ" name="initiation" guid="_cqo0wOlXEeKwz9k73swTBQ" presentationName="Initiation" contentReferences="_OmTCwPOIEeKb3NsawrMs1A _wUa3wOlXEeKwz9k73swTBQ _NW6MAOlXEeKwz9k73swTBQ _DWQxAOlYEeKwz9k73swTBQ _JcKpMP9aEeKFQ424hH0UrQ _LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw _0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cqo0wOlXEeKwz9k73swTBQ" name="initiation" guid="_cqo0wOlXEeKwz9k73swTBQ" presentationName="Initiation" contentReferences="_OmTCwPOIEeKb3NsawrMs1A _wUa3wOlXEeKwz9k73swTBQ _NW6MAOlXEeKwz9k73swTBQ _DWQxAOlYEeKwz9k73swTBQ _JcKpMP9aEeKFQ424hH0UrQ _LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw _0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA _Fk-TYBCsEeOSL6of5eOufw _mXRr0BCsEeOSL6of5eOufw">
             <methodElementProperty xmi:id="_cqzM0OlXEeKwz9k73swTBQ" name="PUBLISH_CATEGORY" value="true"/>
             <methodElementProperty xmi:id="_eDUe8OlXEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-1yUGHuQgOcfBZqVb2B2XMw" href="uma://-1yUGHuQgOcfBZqVb2B2XMw#-1yUGHuQgOcfBZqVb2B2XMw"/>
@@ -42,7 +44,7 @@
             <presentation xmi:id="-zu6Tj6gTgml1PYL-_X65xg" href="uma://-zu6Tj6gTgml1PYL-_X65xg#-zu6Tj6gTgml1PYL-_X65xg"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_YAkHIN_nEeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DWQxAOlYEeKwz9k73swTBQ" name="describe_system_idea" guid="_DWQxAOlYEeKwz9k73swTBQ" presentationName="Describe system idea" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" output="_JcKpMP9aEeKFQ424hH0UrQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DWQxAOlYEeKwz9k73swTBQ" name="describe_system_idea" guid="_DWQxAOlYEeKwz9k73swTBQ" presentationName="Describe System Idea" briefDescription="Based on the vision of the product owner and the experience of the scrum master and development team the system idea is established" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" output="_JcKpMP9aEeKFQ424hH0UrQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
             <methodElementProperty xmi:id="_EroBcOlYEeKwz9k73swTBQ" name="me_edited" value="true"/>
             <presentation xmi:id="-AB27uXscO8Ja545IVhlkpw" href="uma://-AB27uXscO8Ja545IVhlkpw#-AB27uXscO8Ja545IVhlkpw"/>
           </contentElements>
@@ -54,7 +56,7 @@
             <methodElementProperty xmi:id="_MWba4P9aEeKFQ424hH0UrQ" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_EdAyEP2uEeK8HINtOGo1Xg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_0MuFgABBEeOnBNRwFwwrAw" name="initiation_team.assign" guid="_0MuFgABBEeOnBNRwFwwrAw" variabilityType="contributes">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_0MuFgABBEeOnBNRwFwwrAw" name="initiation_team.assign" guid="_0MuFgABBEeOnBNRwFwwrAw" variabilityType="contributes" responsibleFor="_ecX_4BCuEeOSL6of5eOufw _wUa3wOlXEeKwz9k73swTBQ _JcKpMP9aEeKFQ424hH0UrQ">
             <methodElementProperty xmi:id="_2o3-4ABBEeOnBNRwFwwrAw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_uD3IEADJEeOA27TYHr-uJA"/>
           </contentElements>
@@ -74,6 +76,18 @@
             <methodElementProperty xmi:id="_Faas4ADMEeOA27TYHr-uJA" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_DRxwUM3SEeKOw8KXk47y0g"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Fk-TYBCsEeOSL6of5eOufw" name="define_migration_goals" guid="_Fk-TYBCsEeOSL6of5eOufw" presentationName="Define Migration Goals" briefDescription="Based on the priorities of the product owner enumerate the goals " performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" output="_JcKpMP9aEeKFQ424hH0UrQ" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
+            <methodElementProperty xmi:id="_H__kUBCsEeOSL6of5eOufw" name="me_edited" value="true"/>
+            <presentation xmi:id="-t4OAbqkG2vFa-cbiq0wApw" href="uma://-t4OAbqkG2vFa-cbiq0wApw#-t4OAbqkG2vFa-cbiq0wApw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mXRr0BCsEeOSL6of5eOufw" name="prepare_product_backlog" guid="_mXRr0BCsEeOSL6of5eOufw" presentationName="Prepare Product Backlog" briefDescription="Specify the inital product backlog for the launch of the scrum or scrums" guidelines="_OmTCwPOIEeKb3NsawrMs1A" performedBy="_0MuFgABBEeOnBNRwFwwrAw _B7Ll4ADMEeOA27TYHr-uJA" mandatoryInput="_JcKpMP9aEeKFQ424hH0UrQ _wUa3wOlXEeKwz9k73swTBQ" output="_wUa3wOlXEeKwz9k73swTBQ _ecX_4BCuEeOSL6of5eOufw" additionallyPerformedBy="_LRPUkABDEeOnBNRwFwwrAw _ODwU8ABCEeOnBNRwFwwrAw _hd4LUABCEeOnBNRwFwwrAw">
+            <methodElementProperty xmi:id="_oQ0nYBCsEeOSL6of5eOufw" name="me_edited" value="true"/>
+            <presentation xmi:id="-LEt8u3E3Kolzwgd209Jmdg" href="uma://-LEt8u3E3Kolzwgd209Jmdg#-LEt8u3E3Kolzwgd209Jmdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ecX_4BCuEeOSL6of5eOufw" name="product_backlog.assign" guid="_ecX_4BCuEeOSL6of5eOufw" variabilityType="contributes">
+            <methodElementProperty xmi:id="_gDnqgBCuEeOSL6of5eOufw" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DsFsjelXEeKwz9k73swTBQ" name="CapabilityPatterns" guid="_DsFsjelXEeKwz9k73swTBQ"/>
@@ -83,5 +97,6 @@
     <bases href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc4FvqEeKHU9XooDK5Ng"/>
     <bases href="uma://__52BoEUNEeKK_ttnBPx9Rg#__52BoEUNEeKK_ttnBPx9Rg"/>
     <bases href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FRit8FvqEeKHU9XooDK5Ng"/>
+    <bases href="uma://_Og44UP__EeKZBbwDq57ZRA#_Og44UP__EeKZBbwDq57ZRA"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

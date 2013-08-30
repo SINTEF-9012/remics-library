@@ -63,8 +63,9 @@
             <methodElementProperty xmi:id="_Jc8ssAvZEeOhutvlRKZMkg" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_FxNEQV5BEeKVU8eUCvi3Og"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bEWBMAvZEeOhutvlRKZMkg" name="withdrawal_team.assign" guid="_bEWBMAvZEeOhutvlRKZMkg" responsibleFor="_Jb-cUAvZEeOhutvlRKZMkg _bZspEPtlEeKiy_TRaqF2Gg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bEWBMAvZEeOhutvlRKZMkg" name="withdrawal_team.assign" guid="_bEWBMAvZEeOhutvlRKZMkg" variabilityType="contributes" responsibleFor="_Jb-cUAvZEeOhutvlRKZMkg _bZspEPtlEeKiy_TRaqF2Gg">
             <methodElementProperty xmi:id="_e2pOIAvZEeOhutvlRKZMkg" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_rLfJoF7fEeKFRuoPceMYcQ"/>
           </contentElements>
         </childPackages>
       </childPackages>
