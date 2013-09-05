@@ -2,7 +2,9 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_ZfNEsVvrEeKHU9XooDK5Ng" guid="_ZfNEsVvrEeKHU9XooDK5Ng">
     <subManagers xmi:id="_1ofvcDO7EeK5hZv7WCtlvg" href="uma://_1kHlwDO7EeK5hZv7WCtlvg#_1ofvcDO7EeK5hZv7WCtlvg"/>
+    <subManagers xmi:id="_xEGcoBYXEeOWht1lkF0cgA" href="uma://_wbI_MBYXEeOWht1lkF0cgA#_xEGcoBYXEeOWht1lkF0cgA"/>
     <resourceDescriptors xmi:id="_1kNsYDO7EeK5hZv7WCtlvg" id="_1kHlwDO7EeK5hZv7WCtlvg" uri="capabilitypatterns/validation/model.xmi"/>
+    <resourceDescriptors xmi:id="_xEEncBYXEeOWht1lkF0cgA" id="_wbI_MBYXEeOWht1lkF0cgA" uri="capabilitypatterns/validation.practice/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_ZfNEoFvrEeKHU9XooDK5Ng" name="process.remics.agile.validation.base" guid="_ZfNEoFvrEeKHU9XooDK5Ng">
     <methodElementProperty xmi:id="_ZfNEs1vrEeKHU9XooDK5Ng" name="plugin_synFree" value="true"/>
@@ -23,6 +25,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZfNErFvrEeKHU9XooDK5Ng" name="CoreContent" guid="_ZfNErFvrEeKHU9XooDK5Ng"/>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ZfNErVvrEeKHU9XooDK5Ng" name="CapabilityPatterns" guid="_ZfNErVvrEeKHU9XooDK5Ng">
         <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_1kHlwDO7EeK5hZv7WCtlvg" href="uma://_1kHlwDO7EeK5hZv7WCtlvg#_1kHlwDO7EeK5hZv7WCtlvg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_wbI_MBYXEeOWht1lkF0cgA" href="uma://_wbI_MBYXEeOWht1lkF0cgA#_wbI_MBYXEeOWht1lkF0cgA"/>
       </childPackages>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ZfNErlvrEeKHU9XooDK5Ng" name="DeliveryProcesses" guid="_ZfNErlvrEeKHU9XooDK5Ng"/>

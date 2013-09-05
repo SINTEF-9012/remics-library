@@ -57,7 +57,7 @@
             <methodElementProperty xmi:id="_4q0J0P3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-xCvPaS-8DMtNQYxoODGFOg" href="uma://-xCvPaS-8DMtNQYxoODGFOg#-xCvPaS-8DMtNQYxoODGFOg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ATtVMEkWEeKu7-3cM-oErg" name="recover_system_testing" guid="_ATtVMEkWEeKu7-3cM-oErg" presentationName="Recover System Testing" briefDescription="From the system knowledge and the legacy code recover the testing procedures of the system.&#xD;&#xA;" performedBy="_tvQEggmREeOmqbz9Sywm-g" mandatoryInput="_iwtqcN_8EeKdMZ3N0jsS2w" output="_02BCgP3CEeK8HINtOGo1Xg" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ATtVMEkWEeKu7-3cM-oErg" name="recover_system_testing" guid="_ATtVMEkWEeKu7-3cM-oErg" presentationName="Recover System Testing" briefDescription="From the system knowledge and the legacy code recover the testing procedures of the system.&#xD;&#xA;" performedBy="_tvQEggmREeOmqbz9Sywm-g _maSd8BYaEeOWht1lkF0cgA" mandatoryInput="_iwtqcN_8EeKdMZ3N0jsS2w" output="_02BCgP3CEeK8HINtOGo1Xg" optionalInput="_FxNEVF5BEeKVU8eUCvi3Og _FxNEU15BEeKVU8eUCvi3Og">
             <methodElementProperty xmi:id="_4r_1kP3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-DJNL48O7wz1KwBAduja0cA" href="uma://-DJNL48O7wz1KwBAduja0cA#-DJNL48O7wz1KwBAduja0cA"/>
           </contentElements>
@@ -69,7 +69,7 @@
             <methodElementProperty xmi:id="_4qPiEP3CEeK8HINtOGo1Xg" name="me_edited" value="true"/>
             <presentation xmi:id="-1f70XiKucleVPqjLD4pajw" href="uma://-1f70XiKucleVPqjLD4pajw#-1f70XiKucleVPqjLD4pajw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cD2ZcFi7EeKc_ty_5LPMaw" name="recovery" guid="_cD2ZcFi7EeKc_ty_5LPMaw" presentationName="Recovery" briefDescription="This activity will recover the knowledge contained in those legacy components that have been selected to be reengineered starting from the recovery of their knowledge through the application of code based analysis tools." contentReferences="_j4LX4N_zEeKdMZ3N0jsS2w _FxNEU15BEeKVU8eUCvi3Og _FxNEVF5BEeKVU8eUCvi3Og _FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w _sOwSMN_8EeKdMZ3N0jsS2w _2R5ckEkWEeKu7-3cM-oErg _VgQLMDO8EeK5hZv7WCtlvg _2msdUEkVEeKu7-3cM-oErg _7iaJYEkVEeKu7-3cM-oErg _CAd7IF7REeKFRuoPceMYcQ _ATtVMEkWEeKu7-3cM-oErg _2R5clEkWEeKu7-3cM-oErg _wk5S8EkVEeKu7-3cM-oErg _CAd7Il7REeKFRuoPceMYcQ _CAd7IV7REeKFRuoPceMYcQ _6B7joN_7EeKdMZ3N0jsS2w _ZlX-cAmMEeOmqbz9Sywm-g _tvQEgAmREeOmqbz9Sywm-g _tvQEgQmREeOmqbz9Sywm-g _02BCgP3CEeK8HINtOGo1Xg _tvQEggmREeOmqbz9Sywm-g _tvQEgwmREeOmqbz9Sywm-g _tvQEhAmREeOmqbz9Sywm-g _IBhB8AmTEeOmqbz9Sywm-g _R5g9oAmaEeOmqbz9Sywm-g __hDtsAmbEeOmqbz9Sywm-g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_cD2ZcFi7EeKc_ty_5LPMaw" name="recovery" guid="_cD2ZcFi7EeKc_ty_5LPMaw" presentationName="Recovery" briefDescription="This activity will recover the knowledge contained in those legacy components that have been selected to be reengineered starting from the recovery of their knowledge through the application of code based analysis tools." contentReferences="_j4LX4N_zEeKdMZ3N0jsS2w _FxNEU15BEeKVU8eUCvi3Og _FxNEVF5BEeKVU8eUCvi3Og _FxNEVV5BEeKVU8eUCvi3Og _FxNEVl5BEeKVU8eUCvi3Og _iwtqcN_8EeKdMZ3N0jsS2w _sOwSMN_8EeKdMZ3N0jsS2w _2R5ckEkWEeKu7-3cM-oErg _VgQLMDO8EeK5hZv7WCtlvg _2msdUEkVEeKu7-3cM-oErg _7iaJYEkVEeKu7-3cM-oErg _CAd7IF7REeKFRuoPceMYcQ _ATtVMEkWEeKu7-3cM-oErg _2R5clEkWEeKu7-3cM-oErg _wk5S8EkVEeKu7-3cM-oErg _CAd7Il7REeKFRuoPceMYcQ _CAd7IV7REeKFRuoPceMYcQ _6B7joN_7EeKdMZ3N0jsS2w _ZlX-cAmMEeOmqbz9Sywm-g _tvQEgAmREeOmqbz9Sywm-g _tvQEgQmREeOmqbz9Sywm-g _02BCgP3CEeK8HINtOGo1Xg _tvQEggmREeOmqbz9Sywm-g _tvQEgwmREeOmqbz9Sywm-g _tvQEhAmREeOmqbz9Sywm-g _IBhB8AmTEeOmqbz9Sywm-g _R5g9oAmaEeOmqbz9Sywm-g __hDtsAmbEeOmqbz9Sywm-g _kQJJ4ApOEeOBM7QWB5hbCw _kQJw8ApOEeOBM7QWB5hbCw _kQJw8QpOEeOBM7QWB5hbCw _kQJw8gpOEeOBM7QWB5hbCw _kQJw8wpOEeOBM7QWB5hbCw _maSd8BYaEeOWht1lkF0cgA">
             <methodElementProperty xmi:id="_y-AjAN_9EeKdMZ3N0jsS2w" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
             <activityReferences href="uma://_tzY-8DO8EeK5hZv7WCtlvg#_tzY-8TO8EeK5hZv7WCtlvg"/>
@@ -137,7 +137,7 @@
             <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_b44moP2uEeK8HINtOGo1Xg"/>
             <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_qyEqkADyEeOBVZ2G27rUkQ"/>
             <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4ODHkP29EeK8HINtOGo1Xg"/>
-            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_KVOS0AD0EeOBVZ2G27rUkQ"/>
+            <responsibleFor href="uma://_nynNUPNHEeGUHqJDPoQpuw#_KVOS0AD0EeOBVZ2G27rUkQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEgQmREeOmqbz9Sywm-g" name="product_owner.assign" guid="_tvQEgQmREeOmqbz9Sywm-g" variabilityType="contributes">
             <methodElementProperty xmi:id="_twVpoQmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
@@ -157,7 +157,7 @@
             <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_b44moP2uEeK8HINtOGo1Xg"/>
             <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_4ODHkP29EeK8HINtOGo1Xg"/>
             <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_qyEqkADyEeOBVZ2G27rUkQ"/>
-            <responsibleFor href="uma://_4BH4wPNGEeGUHqJDPoQpuw#_KVOS0AD0EeOBVZ2G27rUkQ"/>
+            <responsibleFor href="uma://_nynNUPNHEeGUHqJDPoQpuw#_KVOS0AD0EeOBVZ2G27rUkQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_tvQEhAmREeOmqbz9Sywm-g" name="scrum_team.assign" guid="_tvQEhAmREeOmqbz9Sywm-g" variabilityType="contributes">
             <methodElementProperty xmi:id="_twVppAmREeOmqbz9Sywm-g" name="me_edited" value="true"/>
@@ -195,6 +195,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_kQJw8wpOEeOBM7QWB5hbCw" name="sprint_goal.assign" guid="_kQJw8wpOEeOBM7QWB5hbCw" variabilityType="contributes">
             <methodElementProperty xmi:id="_kRGMJApOEeOBM7QWB5hbCw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XKCogpNEeOBM7QWB5hbCw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_maSd8BYaEeOWht1lkF0cgA" name="validation_team.assign" guid="_maSd8BYaEeOWht1lkF0cgA" variabilityType="contributes">
+            <methodElementProperty xmi:id="_tHk1UBYaEeOWht1lkF0cgA" name="me_edited" value="true"/>
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Role" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_Xfh8oF5AEeKVU8eUCvi3Og"/>
           </contentElements>
         </childPackages>
       </childPackages>

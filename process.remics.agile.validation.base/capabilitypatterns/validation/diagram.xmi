@@ -17,13 +17,13 @@
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q2D1F1ixEeKBXYc66RG5vg" key="type" value="Task"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:ActivityParameterNode" xmi:id="_q2D1GFixEeKBXYc66RG5vg" name="Generate AcceptanceTesting" outgoing="_JhgZQFizEeKBXYc66RG5vg" incoming="_OGlG8FizEeKBXYc66RG5vg">
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_q2D1GFixEeKBXYc66RG5vg" name="Generate Acceptance Testing" outgoing="_JhgZQFizEeKBXYc66RG5vg" incoming="_OGlG8FizEeKBXYc66RG5vg">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_q2D1GVixEeKBXYc66RG5vg" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q2D1GlixEeKBXYc66RG5vg" key="uri" value="uma://_1kHlwDO7EeK5hZv7WCtlvg#_0MGGUkkZEeK7P-8D6a3Ujw"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q2D1G1ixEeKBXYc66RG5vg" key="type" value="Task"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:ActivityParameterNode" xmi:id="_q2D1HFixEeKBXYc66RG5vg" name="Identify andbRefine Requirements to beTested" outgoing="_DwjuUFizEeKBXYc66RG5vg _OGlG8FizEeKBXYc66RG5vg" incoming="_DCS6IFizEeKBXYc66RG5vg">
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_q2D1HFixEeKBXYc66RG5vg" name="Identify and Refine Requirements to beTested" outgoing="_DwjuUFizEeKBXYc66RG5vg _OGlG8FizEeKBXYc66RG5vg" incoming="_DCS6IFizEeKBXYc66RG5vg">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_q2D1HVixEeKBXYc66RG5vg" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q2D1HlixEeKBXYc66RG5vg" key="uri" value="uma://_1kHlwDO7EeK5hZv7WCtlvg#_0MGGU0kZEeK7P-8D6a3Ujw"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_q2D1H1ixEeKBXYc66RG5vg" key="type" value="Task"/>
@@ -55,13 +55,13 @@
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vAF19l7aEeKFRuoPceMYcQ" key="type" value="Task"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:ActivityParameterNode" xmi:id="_vAF1917aEeKFRuoPceMYcQ" name="Validation Sprint Retrospective" outgoing="_8SNNEPOXEeKoGYdq-8Z_HA" incoming="_7zhtAPOXEeKoGYdq-8Z_HA">
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_vAF1917aEeKFRuoPceMYcQ" name="Sprint Retrospective" outgoing="_8SNNEPOXEeKoGYdq-8Z_HA" incoming="_7zhtAPOXEeKoGYdq-8Z_HA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vAF1-F7aEeKFRuoPceMYcQ" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vAF1-V7aEeKFRuoPceMYcQ" key="uri" value="uma://_1kHlwDO7EeK5hZv7WCtlvg#_vAF18V7aEeKFRuoPceMYcQ"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vAF1-l7aEeKFRuoPceMYcQ" key="type" value="Task"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:ActivityParameterNode" xmi:id="_vAF1-17aEeKFRuoPceMYcQ" name="Validation Sprint Planning Meeting" outgoing="_4f3jEF7aEeKFRuoPceMYcQ" incoming="_3ykYMF7aEeKFRuoPceMYcQ">
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_vAF1-17aEeKFRuoPceMYcQ" name="Sprint Planning Meeting" outgoing="_4f3jEF7aEeKFRuoPceMYcQ" incoming="_3ykYMF7aEeKFRuoPceMYcQ">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vAF1_F7aEeKFRuoPceMYcQ" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vAF1_V7aEeKFRuoPceMYcQ" key="uri" value="uma://_1kHlwDO7EeK5hZv7WCtlvg#_vAF18l7aEeKFRuoPceMYcQ"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vAF1_l7aEeKFRuoPceMYcQ" key="type" value="Task"/>
@@ -388,6 +388,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_4f3jE17aEeKFRuoPceMYcQ" fontName="Arial" fontHeight="8"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_4f3jFF7aEeKFRuoPceMYcQ" lineColor="0"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4f3jFV7aEeKFRuoPceMYcQ" points="[15, -24, -52, 84]$[72, -108, 5, 0]"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_bchrsBYhEeOWht1lkF0cgA" id="(0.47566718995290425,0.0)"/>
     </edges>
     <edges xmi:type="notation:Edge" xmi:id="_5EG4kV7aEeKFRuoPceMYcQ" type="3001" element="_5EG4kF7aEeKFRuoPceMYcQ" source="_q2M_FlixEeKBXYc66RG5vg" target="_Jx8lIPOXEeKoGYdq-8Z_HA">
       <children xmi:type="notation:Node" xmi:id="_5EG4ll7aEeKFRuoPceMYcQ" type="4012">

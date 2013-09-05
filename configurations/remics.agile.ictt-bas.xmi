@@ -581,6 +581,11 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc6VvqEeKHU9XooDK5Ng"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc6FvqEeKHU9XooDK5Ng"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_hyLc4FvqEeKHU9XooDK5Ng#_hyLc6lvqEeKHU9XooDK5Ng"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_xysJgAA1EeO8guHzeWZLgg#_xysJgAA1EeO8guHzeWZLgg"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_xysJgAA1EeO8guHzeWZLgg#_xysJswA1EeO8guHzeWZLgg"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_fkWigPOMEeKb3NsawrMs1A#_iWI68ABAEeOnBNRwFwwrAw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_xysJgAA1EeO8guHzeWZLgg#_xy16nQA1EeO8guHzeWZLgg"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_wbI_MBYXEeOWht1lkF0cgA#_wbI_MBYXEeOWht1lkF0cgA"/>
   <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_XsUf0lvtEeKHU9XooDK5Ng"/>
   <defaultView xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_OIlfwFvtEeKHU9XooDK5Ng#_XsUf0lvtEeKHU9XooDK5Ng"/>
   <subtractedCategory xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_uzdTAEUOEeKK_ttnBPx9Rg"/>
