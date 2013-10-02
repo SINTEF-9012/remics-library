@@ -5,6 +5,7 @@
     <resourceDescriptors xmi:id="_8BLI0V7pEeKFRuoPceMYcQ" id="-3QXgTc-0cfHQP1x9BzANjw" uri="tasks/implement_testing_strategy.assign.xmi"/>
     <resourceDescriptors xmi:id="_8EUjcF7pEeKFRuoPceMYcQ" id="-c2PhOSTiwH7T_VEliuTL1Q" uri="tasks/import_models_elements_to_be_tested.assign.xmi"/>
     <resourceDescriptors xmi:id="_YP0nQGR5EeKHNrKfLiQo8g" id="-87VnXIi9we6jOLj4-9GaAw" uri="guidances/toolmentors/fokusMBT_usage_guide.xmi"/>
+    <resourceDescriptors xmi:id="_mpa_0CtHEeOtxv6skWyFcQ" id="-EqePFLT58wsYSmpz7HGgnw" uri="guidances/toolmentors/fokusMBT_instalation_guide%202.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_2LfwUFmCEeKrerZnFJznjw" name="toolmentor.remics.validate.extend_fokusmbt-tecnalia" guid="_2LfwUFmCEeKrerZnFJznjw" changeDate="2013-01-15T09:01:00.339+0100">
     <methodElementProperty xmi:id="_2Lo6QlmCEeKrerZnFJznjw" name="plugin_synFree" value="true"/>
@@ -30,8 +31,9 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2LfwXFmCEeKrerZnFJznjw" name="CoreContent" guid="_2LfwXFmCEeKrerZnFJznjw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_97W_AFmCEeKrerZnFJznjw" name="tool_mentors" guid="_97W_AFmCEeKrerZnFJznjw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Ac7j4FmDEeKrerZnFJznjw" name="fokusMBT" guid="_Ac7j4FmDEeKrerZnFJznjw">
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_EJVkMFmDEeKrerZnFJznjw" name="fokusMBT_instalation_guide" guid="_EJVkMFmDEeKrerZnFJznjw" presentationName="fokusMBT: Instalation Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_EJVkMFmDEeKrerZnFJznjw" name="fokusMBT_instalation_guide" guid="_EJVkMFmDEeKrerZnFJznjw" presentationName="fokusMBT: Instalation Guide" briefDescription="fokusMBT: Instalation Guide">
               <methodElementProperty xmi:id="_EKhP8FmDEeKrerZnFJznjw" name="me_edited" value="true"/>
+              <presentation xmi:id="-EqePFLT58wsYSmpz7HGgnw" href="uma://-EqePFLT58wsYSmpz7HGgnw#-EqePFLT58wsYSmpz7HGgnw"/>
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7yArcF7pEeKFRuoPceMYcQ" name="implement_testing_strategy.assign" guid="_7yArcF7pEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_EJVkMFmDEeKrerZnFJznjw _M-UWsGPdEeKRgrdi2v1O5Q">
               <methodElementProperty xmi:id="_YEDcIGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
@@ -43,7 +45,7 @@
               <presentation xmi:id="-c2PhOSTiwH7T_VEliuTL1Q" href="uma://-c2PhOSTiwH7T_VEliuTL1Q#-c2PhOSTiwH7T_VEliuTL1Q"/>
               <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2RUkXEeKu7-3cM-oErg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_M-UWsGPdEeKRgrdi2v1O5Q" name="fokusMBT_usage_guide" guid="_M-UWsGPdEeKRgrdi2v1O5Q" presentationName="fokusMBT: Usage Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_M-UWsGPdEeKRgrdi2v1O5Q" name="fokusMBT_usage_guide" guid="_M-UWsGPdEeKRgrdi2v1O5Q" presentationName="fokusMBT: Usage Guide" briefDescription="fokusMBT: Usage Guide">
               <methodElementProperty xmi:id="_YDxIQGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-87VnXIi9we6jOLj4-9GaAw" href="uma://-87VnXIi9we6jOLj4-9GaAw#-87VnXIi9we6jOLj4-9GaAw"/>
             </contentElements>

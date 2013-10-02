@@ -49,9 +49,6 @@
             <methodElementProperty xmi:id="_ied78OlUEeKGG9BOhTeXDw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_OZIPIOF8Edyp34pwdTOSVQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="__xwGcOltEeKXeuh9rEjGtw" name="withdrawal_model" guid="__xwGcOltEeKXeuh9rEjGtw" presentationName="Withdrawal Model">
-            <methodElementProperty xmi:id="_BY6RgOluEeKXeuh9rEjGtw" name="me_edited" value="true"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8XJbkApNEeOBM7QWB5hbCw" name="increment.assign" guid="_8XJbkApNEeOBM7QWB5hbCw" variabilityType="contributes">
             <methodElementProperty xmi:id="_8YGd0ApNEeOBM7QWB5hbCw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#__uNYkPVgEdyMdecrgpMbRg"/>

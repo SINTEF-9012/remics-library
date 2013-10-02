@@ -35,7 +35,7 @@
           <methodElementProperty xmi:id="_6YvvkEUYEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7A6i0EUYEeKK_ttnBPx9Rg" name="modelio" guid="_7A6i0EUYEeKK_ttnBPx9Rg">
             <methodElementProperty xmi:id="_7aNMkEUYEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Hul14EVGEeKK_ttnBPx9Rg" name="modelio_recover_module" guid="_Hul14EVGEeKK_ttnBPx9Rg" presentationName="Modelio: Component Recovery Module">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_Hul14EVGEeKK_ttnBPx9Rg" name="modelio_recover_module" guid="_Hul14EVGEeKK_ttnBPx9Rg" presentationName="Modelio: Component Recovery Module" briefDescription="Modelio: Component Recovery Module">
               <methodElementProperty xmi:id="_JkF-8EVGEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
               <presentation xmi:id="-7ERKZmz96brt3lF9I3o9Rw" href="uma://-7ERKZmz96brt3lF9I3o9Rw#-7ERKZmz96brt3lF9I3o9Rw"/>
             </contentElements>

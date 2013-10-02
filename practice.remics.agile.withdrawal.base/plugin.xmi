@@ -35,14 +35,10 @@
             <mandatoryInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_X02JcP2uEeK8HINtOGo1Xg"/>
             <optionalInput href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8RPV0N_lEeKdMZ3N0jsS2w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_OISdgFi7EeKc_ty_5LPMaw" name="withdrawal" guid="_OISdgFi7EeKc_ty_5LPMaw" presentationName="Withdrawal" briefDescription="This activity cover the implementation of mechanism for supporting the possible withrawal fo the system. Due to the " contentReferences="_7FxfgOltEeKXeuh9rEjGtw _pXxZgFiuEeKBXYc66RG5vg _Jb-cUAvZEeOhutvlRKZMkg _HFkHsP25EeK8HINtOGo1Xg _-n2Y4PtlEeKiy_TRaqF2Gg _bZspEPtlEeKiy_TRaqF2Gg _bEWBMAvZEeOhutvlRKZMkg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_OISdgFi7EeKc_ty_5LPMaw" name="withdrawal" guid="_OISdgFi7EeKc_ty_5LPMaw" presentationName="Withdrawal" briefDescription="This activity cover the implementation of mechanism for supporting the possible withrawal fo the system. Due to the " contentReferences="_pXxZgFiuEeKBXYc66RG5vg _Jb-cUAvZEeOhutvlRKZMkg _HFkHsP25EeK8HINtOGo1Xg _-n2Y4PtlEeKiy_TRaqF2Gg _bZspEPtlEeKiy_TRaqF2Gg _bEWBMAvZEeOhutvlRKZMkg">
             <methodElementProperty xmi:id="_egrbcOl6EeKXeuh9rEjGtw" name="me_edited" value="true"/>
             <presentation xmi:id="-Yvy3AKQTjSqBPNxsWkizkQ" href="uma://-Yvy3AKQTjSqBPNxsWkizkQ#-Yvy3AKQTjSqBPNxsWkizkQ"/>
             <activityReferences href="uma://_iRkkIFi0EeKBXYc66RG5vg#_iRkkIVi0EeKBXYc66RG5vg"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_7FxfgOltEeKXeuh9rEjGtw" name="withdrawal_model.assign" guid="_7FxfgOltEeKXeuh9rEjGtw" variabilityType="contributes">
-            <methodElementProperty xmi:id="_9UrnEOltEeKXeuh9rEjGtw" name="me_edited" value="true"/>
-            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#__xwGcOltEeKXeuh9rEjGtw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bZspEPtlEeKiy_TRaqF2Gg" name="withdrawal_procedures" guid="_bZspEPtlEeKiy_TRaqF2Gg" presentationName="Withdrawal Procedures" briefDescription="It includes the activities to be done when terminating the system">
             <methodElementProperty xmi:id="_gv1AQPtlEeKiy_TRaqF2Gg" name="me_edited" value="true"/>

@@ -30,7 +30,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6sDqHFmFEeKrerZnFJznjw" name="CoreContent" guid="_6sDqHFmFEeKrerZnFJznjw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_It_TwFmGEeKrerZnFJznjw" name="tool_mentors" guid="_It_TwFmGEeKrerZnFJznjw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_KhR2UFmGEeKrerZnFJznjw" name="redseeds" guid="_KhR2UFmGEeKrerZnFJznjw">
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SFf1sFmGEeKrerZnFJznjw" name="redseeds_user_guide" guid="_SFf1sFmGEeKrerZnFJznjw" presentationName="RedSeeDS: User Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_SFf1sFmGEeKrerZnFJznjw" name="redseeds_user_guide" guid="_SFf1sFmGEeKrerZnFJznjw" presentationName="RedSeeDS: User Guide" briefDescription="RedSeeDS: User Guide">
               <methodElementProperty xmi:id="_SGZNkFmGEeKrerZnFJznjw" name="me_edited" value="true"/>
               <presentation xmi:id="-l2KcymlFwMtkERAVxqxmQg" href="uma://-l2KcymlFwMtkERAVxqxmQg#-l2KcymlFwMtkERAVxqxmQg"/>
             </contentElements>

@@ -27,7 +27,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nwHnvFmJEeKrerZnFJznjw" name="CoreContent" guid="_nwHnvFmJEeKrerZnFJznjw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vy4kQFmJEeKrerZnFJznjw" name="tool_mentors" guid="_vy4kQFmJEeKrerZnFJznjw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xoQxgFmJEeKrerZnFJznjw" name="remics_installer" guid="_xoQxgFmJEeKrerZnFJznjw">
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_03qFsFmJEeKrerZnFJznjw" name="remics_installer_usage_guide" guid="_03qFsFmJEeKrerZnFJznjw" presentationName="Remics Installer: Usage Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_03qFsFmJEeKrerZnFJznjw" name="remics_installer_usage_guide" guid="_03qFsFmJEeKrerZnFJznjw" presentationName="Remics Installer: Usage Guide" briefDescription="Remics Installer: Usage Guide">
               <methodElementProperty xmi:id="_04jdkFmJEeKrerZnFJznjw" name="me_edited" value="true"/>
               <presentation xmi:id="-IY4MbyF3CeCf4U2Cv6Qgjw" href="uma://-IY4MbyF3CeCf4U2Cv6Qgjw#-IY4MbyF3CeCf4U2Cv6Qgjw"/>
             </contentElements>

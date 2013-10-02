@@ -34,15 +34,15 @@
           <methodElementProperty xmi:id="_nPUnoEUYEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oLulgEUYEeKK_ttnBPx9Rg" name="interoperability_framework" guid="_oLulgEUYEeKK_ttnBPx9Rg">
             <methodElementProperty xmi:id="_pV9kAEUYEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_q8T2wEUYEeKK_ttnBPx9Rg" name="mediation_framework_installation_guide" guid="_q8T2wEUYEeKK_ttnBPx9Rg" presentationName="Mediation Framework: Installation Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_q8T2wEUYEeKK_ttnBPx9Rg" name="mediation_framework_installation_guide" guid="_q8T2wEUYEeKK_ttnBPx9Rg" presentationName="Mediation Framework: Installation Guide" briefDescription="Mediation Framework: Installation Guide">
               <methodElementProperty xmi:id="_uSsjwEUYEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
               <presentation xmi:id="-FMstdILpzVpKNqoByWWcoA" href="uma://-FMstdILpzVpKNqoByWWcoA#-FMstdILpzVpKNqoByWWcoA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vMaaAEUYEeKK_ttnBPx9Rg" name="mediation_framework_user_guide" guid="_vMaaAEUYEeKK_ttnBPx9Rg" presentationName="Mediation Framework: User Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_vMaaAEUYEeKK_ttnBPx9Rg" name="mediation_framework_user_guide" guid="_vMaaAEUYEeKK_ttnBPx9Rg" presentationName="Mediation Framework: User Guide" briefDescription="Mediation Framework: User Guide">
               <methodElementProperty xmi:id="_xXg_oEUYEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
               <presentation xmi:id="-l2KcymlFwMtkERAVxqxmQg" href="uma://-l2KcymlFwMtkERAVxqxmQg#-l2KcymlFwMtkERAVxqxmQg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_G9ud0EU_EeKK_ttnBPx9Rg" name="mediation_framework_about" guid="_G9ud0EU_EeKK_ttnBPx9Rg" presentationName="Mediation Framework: About">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_G9ud0EU_EeKK_ttnBPx9Rg" name="mediation_framework_about" guid="_G9ud0EU_EeKK_ttnBPx9Rg" presentationName="Mediation Framework: About" briefDescription="Mediation Framework: About">
               <methodElementProperty xmi:id="_IlbbcEU_EeKK_ttnBPx9Rg" name="me_edited" value="true"/>
               <presentation xmi:id="-aRxN8TlzkESsebGXjotxFg" href="uma://-aRxN8TlzkESsebGXjotxFg#-aRxN8TlzkESsebGXjotxFg"/>
             </contentElements>

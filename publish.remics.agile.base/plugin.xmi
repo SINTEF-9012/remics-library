@@ -83,8 +83,10 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_YAkHIN_nEeKdMZ3N0jsS2w"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_umMDoN_8EeKdMZ3N0jsS2w"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_hRKbUOlUEeKGG9BOhTeXDw"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_A3hf4OlnEeKXeuh9rEjGtw"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_FRit8FvqEeKHU9XooDK5Ng#__xwGcOltEeKXeuh9rEjGtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Deliverable" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_A3hf4OlnEeKXeuh9rEjGtw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XJbkApNEeOBM7QWB5hbCw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Artifact" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XKCoQpNEeOBM7QWB5hbCw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Outcome" href="uma://_FRit8FvqEeKHU9XooDK5Ng#_8XKCogpNEeOBM7QWB5hbCw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_xQV9wPN5EeKb3NsawrMs1A" name="in_service_practice_list" guid="_xQV9wPN5EeKb3NsawrMs1A" presentationName="In-Service Practices" shapeicon="customcategories/resources/pract_dgm32.gif" nodeicon="customcategories/resources/pract_obj.gif">
             <methodElementProperty xmi:id="_y0lXsPN5EeKb3NsawrMs1A" name="me_edited" value="true"/>

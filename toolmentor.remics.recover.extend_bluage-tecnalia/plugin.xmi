@@ -59,11 +59,11 @@
               <presentation xmi:id="-1LsVKcnTAjfYLtWnNbogeQ" href="uma://-1LsVKcnTAjfYLtWnNbogeQ#-1LsVKcnTAjfYLtWnNbogeQ"/>
               <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_ZuWoYPNHEeGUHqJDPoQpuw#_wk5S8EkVEeKu7-3cM-oErg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_E1siYGPgEeKzHY6sJXnNhA" name="bluage_instalation_guide" guid="_E1siYGPgEeKzHY6sJXnNhA" presentationName="Bluage: Instalation guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_E1siYGPgEeKzHY6sJXnNhA" name="bluage_instalation_guide" guid="_E1siYGPgEeKzHY6sJXnNhA" presentationName="Bluage: Instalation guide" briefDescription="Bluage: Instalation guide">
               <methodElementProperty xmi:id="_YDpzgGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-c1nIX1HJV2ELXOFbL4GSkA" href="uma://-c1nIX1HJV2ELXOFbL4GSkA#-c1nIX1HJV2ELXOFbL4GSkA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_uf0aoGPhEeKGDrNsbC-X2A" name="bluage_recovery_guide" guid="_uf0aoGPhEeKGDrNsbC-X2A" presentationName="Bluage Recovery Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_uf0aoGPhEeKGDrNsbC-X2A" name="bluage_recovery_guide" guid="_uf0aoGPhEeKGDrNsbC-X2A" presentationName="Bluage Recovery Guide" briefDescription="Bluage Recovery Guide">
               <methodElementProperty xmi:id="_YDrosGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-I4yfZAhWAXMsMa7Jd7oT3Q" href="uma://-I4yfZAhWAXMsMa7Jd7oT3Q#-I4yfZAhWAXMsMa7Jd7oT3Q"/>
             </contentElements>

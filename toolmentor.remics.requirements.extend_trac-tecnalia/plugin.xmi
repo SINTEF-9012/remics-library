@@ -28,7 +28,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xuHXXFmIEeKrerZnFJznjw" name="CoreContent" guid="_xuHXXFmIEeKrerZnFJznjw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5YVRAFmIEeKrerZnFJznjw" name="tool_mentors" guid="_5YVRAFmIEeKrerZnFJznjw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6yyc0FmIEeKrerZnFJznjw" name="trac" guid="_6yyc0FmIEeKrerZnFJznjw">
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_9gG-sFmIEeKrerZnFJznjw" name="trac_usage_guide" guid="_9gG-sFmIEeKrerZnFJznjw" presentationName="Trac: Usage Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_9gG-sFmIEeKrerZnFJznjw" name="trac_usage_guide" guid="_9gG-sFmIEeKrerZnFJznjw" presentationName="Trac: Usage Guide" briefDescription="Trac: Usage Guide">
               <methodElementProperty xmi:id="_9hAWkFmIEeKrerZnFJznjw" name="me_edited" value="true"/>
               <presentation xmi:id="-IY4MbyF3CeCf4U2Cv6Qgjw" href="uma://-IY4MbyF3CeCf4U2Cv6Qgjw#-IY4MbyF3CeCf4U2Cv6Qgjw"/>
             </contentElements>

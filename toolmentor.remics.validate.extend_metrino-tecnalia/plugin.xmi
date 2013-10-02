@@ -5,6 +5,7 @@
     <resourceDescriptors xmi:id="_Isj2UF7qEeKFRuoPceMYcQ" id="-3QXgTc-0cfHQP1x9BzANjw" uri="tasks/implement_testing_strategy.assign.xmi"/>
     <resourceDescriptors xmi:id="_Isp88F7qEeKFRuoPceMYcQ" id="-c2PhOSTiwH7T_VEliuTL1Q" uri="tasks/import_models_elements_to_be_tested.assign.xmi"/>
     <resourceDescriptors xmi:id="_YPyLAGR5EeKHNrKfLiQo8g" id="-WtVDmZpxMSn_waZlz_uxgw" uri="guidances/toolmentors/metrino_instalation_guide.xmi"/>
+    <resourceDescriptors xmi:id="_7Cve0CtGEeOtxv6skWyFcQ" id="-DDcJMlfijf-mFmeMvWPdFw" uri="guidances/toolmentors/metrino_user_guide.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_5W05UFmBEeKrerZnFJznjw" name="toolmentor.remics.validate.extend_metrino-tecnalia" guid="_5W05UFmBEeKrerZnFJznjw" changeDate="2013-01-15T09:01:14.579+0100">
     <methodElementProperty xmi:id="_5W05Y1mBEeKrerZnFJznjw" name="plugin_synFree" value="true"/>
@@ -15,7 +16,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05VVmBEeKrerZnFJznjw" name="RoleSets" guid="_5W05VVmBEeKrerZnFJznjw"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05VlmBEeKrerZnFJznjw" name="WP Types" guid="_5W05VlmBEeKrerZnFJznjw"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05V1mBEeKrerZnFJznjw" name="Tools" guid="_5W05V1mBEeKrerZnFJznjw">
-          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_EYJ4wFmCEeKrerZnFJznjw" name="metrino.assign" guid="_EYJ4wFmCEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_EYJ4wFmCEeKrerZnFJznjw" name="metrino.assign" guid="_EYJ4wFmCEeKrerZnFJznjw" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg _0euYMCtGEeOtxv6skWyFcQ">
             <methodElementProperty xmi:id="_E5MJQFmCEeKrerZnFJznjw" name="me_edited" value="true"/>
             <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Tool" href="uma://__52BoEUNEeKK_ttnBPx9Rg#_3AzH4EUOEeKK_ttnBPx9Rg"/>
           </contentElements>
@@ -30,19 +31,23 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_5W05XFmBEeKrerZnFJznjw" name="CoreContent" guid="_5W05XFmBEeKrerZnFJznjw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NjXEEFmCEeKrerZnFJznjw" name="tool_mentors" guid="_NjXEEFmCEeKrerZnFJznjw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PhXo4FmCEeKrerZnFJznjw" name="metrino" guid="_PhXo4FmCEeKrerZnFJznjw">
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MlX68F7qEeKFRuoPceMYcQ" name="implement_testing_strategy.assign" guid="_MlX68F7qEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MlX68F7qEeKFRuoPceMYcQ" name="implement_testing_strategy.assign" guid="_MlX68F7qEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg _0euYMCtGEeOtxv6skWyFcQ">
               <methodElementProperty xmi:id="_YDv6IGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-3QXgTc-0cfHQP1x9BzANjw" href="uma://-3QXgTc-0cfHQP1x9BzANjw#-3QXgTc-0cfHQP1x9BzANjw"/>
               <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2REkXEeKu7-3cM-oErg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MlX68V7qEeKFRuoPceMYcQ" name="import_models_elements_to_be_tested.assign" guid="_MlX68V7qEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MlX68V7qEeKFRuoPceMYcQ" name="import_models_elements_to_be_tested.assign" guid="_MlX68V7qEeKFRuoPceMYcQ" variabilityType="contributes" toolMentors="_ff6QUGPiEeK2vLuSSFPrkg _0euYMCtGEeOtxv6skWyFcQ">
               <methodElementProperty xmi:id="_YDv6IWR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-c2PhOSTiwH7T_VEliuTL1Q" href="uma://-c2PhOSTiwH7T_VEliuTL1Q#-c2PhOSTiwH7T_VEliuTL1Q"/>
               <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_nynNUPNHEeGUHqJDPoQpuw#_UwE2RUkXEeKu7-3cM-oErg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ff6QUGPiEeK2vLuSSFPrkg" name="metrino_instalation_guide" guid="_ff6QUGPiEeK2vLuSSFPrkg" presentationName="Metrino Instalation Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_ff6QUGPiEeK2vLuSSFPrkg" name="metrino_instalation_guide" guid="_ff6QUGPiEeK2vLuSSFPrkg" presentationName="Metrino Instalation Guide" briefDescription="Metrino Instalation Guide">
               <methodElementProperty xmi:id="_YDvTEGR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-WtVDmZpxMSn_waZlz_uxgw" href="uma://-WtVDmZpxMSn_waZlz_uxgw#-WtVDmZpxMSn_waZlz_uxgw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_0euYMCtGEeOtxv6skWyFcQ" name="metrino_user_guide" guid="_0euYMCtGEeOtxv6skWyFcQ" presentationName="Metrino User Guide" briefDescription="Metrino User Guide">
+              <methodElementProperty xmi:id="_7CtpoCtGEeOtxv6skWyFcQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-DDcJMlfijf-mFmeMvWPdFw" href="uma://-DDcJMlfijf-mFmeMvWPdFw#-DDcJMlfijf-mFmeMvWPdFw"/>
             </contentElements>
           </childPackages>
         </childPackages>

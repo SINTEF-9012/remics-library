@@ -32,7 +32,7 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__Nmj0N11EeKJSdWLwfZ04g" name="d2cm" guid="__Nmj0N11EeKJSdWLwfZ04g">
             <methodElementProperty xmi:id="__Nmj0d11EeKJSdWLwfZ04g" name="pkg_loadCheck" value="true"/>
             <methodElementProperty xmi:id="_RCYNAN12EeKJSdWLwfZ04g" name="me_edited" value="true"/>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_DicdIN12EeKJSdWLwfZ04g" name="d2cm_user_guide" guid="_DicdIN12EeKJSdWLwfZ04g" presentationName="D2CM: User Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_DicdIN12EeKJSdWLwfZ04g" name="d2cm_user_guide" guid="_DicdIN12EeKJSdWLwfZ04g" presentationName="D2CM: User Guide" briefDescription="D2CM: User Guide">
               <methodElementProperty xmi:id="_JRaLEN12EeKJSdWLwfZ04g" name="me_edited" value="true"/>
               <presentation xmi:id="-WkZ-z5XEQD4ezOWe7mFoLA" href="uma://-WkZ-z5XEQD4ezOWe7mFoLA#-WkZ-z5XEQD4ezOWe7mFoLA"/>
             </contentElements>

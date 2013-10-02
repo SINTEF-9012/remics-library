@@ -35,7 +35,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_44trwEUOEeKK_ttnBPx9Rg" name="fokus_mbt" guid="_44trwEUOEeKK_ttnBPx9Rg" presentationName="Fokus!MBT">
             <methodElementProperty xmi:id="_6a53QEUOEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_74CjoEUOEeKK_ttnBPx9Rg" name="rsl_testing_tool" guid="_74CjoEUOEeKK_ttnBPx9Rg" presentationName="RSL Testing Tool">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_74CjoEUOEeKK_ttnBPx9Rg" name="redset_tool" guid="_74CjoEUOEeKK_ttnBPx9Rg" presentationName="RedSet Tool">
             <methodElementProperty xmi:id="_9bbB8EUOEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_-EWDIEUOEeKK_ttnBPx9Rg" name="models_runtime" guid="_-EWDIEUOEeKK_ttnBPx9Rg" presentationName="Models@Runtime">
@@ -48,6 +48,9 @@
             <methodElementProperty xmi:id="_EoV7oEUPEeKK_ttnBPx9Rg" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_e5SJ4FmJEeKrerZnFJznjw" name="remics_installer" guid="_e5SJ4FmJEeKrerZnFJznjw" presentationName="Remics Installer"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_vdHYICtJEeO2VIPdswWadg" name="redmine" guid="_vdHYICtJEeO2VIPdswWadg" presentationName="Redmine">
+            <methodElementProperty xmi:id="_w4-SICtJEeO2VIPdswWadg" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__52BqEUNEeKK_ttnBPx9Rg" name="StandardCategories" guid="__52BqEUNEeKK_ttnBPx9Rg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__52BqUUNEeKK_ttnBPx9Rg" name="CustomCategories" guid="__52BqUUNEeKK_ttnBPx9Rg">

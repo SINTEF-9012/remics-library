@@ -80,7 +80,7 @@
               <presentation xmi:id="-4l3DawaVMajTCfyJgKUPkw" href="uma://-4l3DawaVMajTCfyJgKUPkw#-4l3DawaVMajTCfyJgKUPkw"/>
               <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:Task" href="uma://_gAWK4PNHEeGUHqJDPoQpuw#_mK0EREkWEeKu7-3cM-oErg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_B16v0GPmEeKbN6d8bPq-qQ" name="modelio_migration_module" guid="_B16v0GPmEeKbN6d8bPq-qQ" presentationName="Modelio Migration Module">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_B16v0GPmEeKbN6d8bPq-qQ" name="modelio_migration_module" guid="_B16v0GPmEeKbN6d8bPq-qQ" presentationName="Modelio Migration Module" briefDescription="Modelio Migration Module">
               <methodElementProperty xmi:id="_YDkT8GR5EeKHNrKfLiQo8g" name="me_edited" value="true"/>
               <presentation xmi:id="-G72qom_WzbBhaaUsIAUQ4A" href="uma://-G72qom_WzbBhaaUsIAUQ4A#-G72qom_WzbBhaaUsIAUQ4A"/>
             </contentElements>

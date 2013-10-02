@@ -28,7 +28,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e36i3FmHEeKrerZnFJznjw" name="CoreContent" guid="_e36i3FmHEeKrerZnFJznjw">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uxhf0FmHEeKrerZnFJznjw" name="tool_mentors" guid="_uxhf0FmHEeKrerZnFJznjw">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wX4ZoFmHEeKrerZnFJznjw" name="tale" guid="_wX4ZoFmHEeKrerZnFJznjw">
-            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_yzDbkFmHEeKrerZnFJznjw" name="tale_usage_guide" guid="_yzDbkFmHEeKrerZnFJznjw" presentationName="Tale: Usage Guide">
+            <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_yzDbkFmHEeKrerZnFJznjw" name="tale_usage_guide" guid="_yzDbkFmHEeKrerZnFJznjw" presentationName="Tale: Usage Guide" briefDescription="Tale: Usage Guide">
               <methodElementProperty xmi:id="_yz8zcFmHEeKrerZnFJznjw" name="me_edited" value="true"/>
               <presentation xmi:id="-IY4MbyF3CeCf4U2Cv6Qgjw" href="uma://-IY4MbyF3CeCf4U2Cv6Qgjw#-IY4MbyF3CeCf4U2Cv6Qgjw"/>
             </contentElements>
